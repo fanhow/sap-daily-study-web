@@ -1,0 +1,46 @@
+# ESR 中英對照版
+
+中文為依英文 OCR 製作的學習譯文，非官方中文版。原圖遮擋、OCR 缺字與不確定處不補猜；數值、否定詞、條款與表格關係請對照原圖。
+
+---
+
+## 第 80 頁 — 任命紀錄
+
+來源：[8081.jpg](../sources/8081.jpg) · [本頁影像](../sources/8081.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+**English**
+
+```text
+Appointment Record
+(To be completed by the Senior Authorised Person)
+This certificate is only valid until the last expiry date indicated below:
+Issue Validity Expiry Signatures
+Issue Date ears Date
+First issue
+First
+renewal/
+review
+Second
+renewal/
+review
+Third
+Renewal/
+review
+```
+
+**繁體中文**
+
+```text
+任命紀錄
+（由資深授權人員（SAP）填寫）
+本證書僅有效至下列所示的最後到期日：
+簽發　有效期　到期　簽名
+簽發日期　[英文OCR不清：ears]　日期
+首次簽發
+第一次續任／審查
+第二次續任／審查
+第三次續任／審查
+```
+

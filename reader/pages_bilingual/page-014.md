@@ -1,0 +1,159 @@
+# ESR 中英對照版
+
+中文為依英文 OCR 製作的學習譯文，非官方中文版。原圖遮擋、OCR 缺字與不確定處不補猜；數值、否定詞、條款與表格關係請對照原圖。
+
+---
+
+## 第 14 頁 — 授權工程師（AE）的資格與任命
+
+來源：[1415.jpg](../sources/1415.jpg) · [本頁影像](../sources/1415.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+**English**
+
+Qualifications and Appointment of the Authorising Engineer
+
+**繁體中文**
+
+授權工程師（AE）的資格與任命
+
+**English**
+
+To be eligible for appointment, a prospective Authorising Engineer shall be: -
+
+**繁體中文**
+
+擬任授權工程師（AE）須符合下列條件，方具備獲任命資格：
+
+**English**
+
+a. a Chartered Engineer with a minimum of five years relevant experience or an Incorporated Engineer with a sound technical engineering background who is qualified to HNC level and have a minimum of eight years relevant experience as a practising Senior Authorised Person
+
+**繁體中文**
+
+符合以下其中一項：
+
+- **特許工程師（Chartered Engineer，CEng）**，具至少五年相關經驗；或
+- **Incorporated Engineer（IEng）**，具備紮實的工程技術背景及 HNC（Higher National Certificate，高等國家證書）程度的資格，並具至少八年實際擔任資深授權人員（SAP）的相關經驗。
+
+**English**
+
+b. have satisfactorily completed the AP15 Senior Authorised/ Authorised Persons initial training course in accordance with Appendix A6 within the last three years
+
+**繁體中文**
+
+b. 已於最近三年內，依附錄 A6 合格完成 AP15 資深授權人員／授權人員（SAP／AP）初訓課程。
+
+**English**
+
+c. have satisfactorily completed an approved Authorising Engineer training course in accordance with Appendix A6 within the last three years
+
+**繁體中文**
+
+c. 已於最近三年內，依附錄 A6 合格完成經核准的授權工程師（AE）訓練課程。
+
+**English**
+
+d. be familiar with the different types of equipment, installations and systems in use within the area for which appointment is sought.
+
+**繁體中文**
+
+d. 熟悉所申請任命範圍內使用的各類設備、裝置及系統。
+
+**English**
+
+e. be able to demonstrate their competency and suitability for the role by demonstrating a good understanding of the tasks involved and knowledge of these High Voltage Safety Rules and Procedures, prior to appointment through a formal assessment.
+
+**繁體中文**
+
+e. 能在任命前透過正式評估，展現對相關任務及本高壓安全規則與程序的充分理解，以證明其勝任能力及擔任該角色的適合性。
+
+**English**
+
+f. have adequate knowledge of and, within the last three years, have successfully completed an emergency first aid training course.
+
+**繁體中文**
+
+f. 具備足夠的緊急急救知識，並已於最近三年內合格完成緊急急救訓練課程。
+
+**English**
+
+An Authorising Engineer is to be appointed in writing. The model letters of appointment are in Appendix A5.
+
+**繁體中文**
+
+授權工程師（AE）須以書面任命。任命函範本見附錄 A5。
+
+**English**
+
+An Authorising Engineer is to be appointed or re-appointed for defined systems and installations for a period not exceeding five years. Appointment procedure is to be in accordance with Appendix A5.
+
+**繁體中文**
+
+授權工程師（AE）須針對已界定的系統及裝置予以任命或重新任命，任期不超過五年。任命程序須符合附錄 A5。
+
+**English**
+
+2.2 Senior Authorised Persons
+
+**繁體中文**
+
+2.2 資深授權人員（SAP）
+
+**English**
+
+Roles and Duties of Senior Authorised Persons
+
+**繁體中文**
+
+資深授權人員（SAP）的角色與職責
+
+**English**
+
+The Senior Authorised Person is to be solely responsible for the practical implementation and operation of these Rules for the systems and installations for which the Company has control of the danger and for which the Senior Authorised Person has been appointed.
+
+**繁體中文**
+
+對於由公司負責危險控制，且資深授權人員（SAP）獲任命負責的系統及裝置，該 SAP 須單獨負責本規則的實際執行與運作。
+
+**English**
+
+The Senior Authorised Person's instructions and decisions on electrical matters are final and are to be complied with. In the case of a dispute, the Senior Authorised Person is to stop the work or test and refer the matter to the Authorising Engineer for adjudication.
+
+**繁體中文**
+
+資深授權人員（SAP）對電氣事項作出的指示及決定具有最終效力，須予遵守。如有爭議，SAP 須停止作業或測試，並將事項提交授權工程師（AE）裁定。
+
+**English**
+
+More than one Senior Authorised Person may be appointed for a system or installation but, at any one time, only one Senior Authorised Person is to be on duty. Each transfer of responsibility between Senior Authorised Persons is to be recorded in the Log Book. The name of the Duty Senior Authorised Person is to be readily available in the HV System Control Centre and can only be altered by a Senior Authorised Person using a Key.
+
+**繁體中文**
+
+一個系統或裝置可任命多於一名資深授權人員（SAP），但任何時刻只能有一名 SAP 值勤。SAP 之間的每次責任交接均須記錄於日誌。值勤 SAP 的姓名須能在高壓系統控制中心隨時查得，且僅可由 SAP 使用鑰匙更改。
+
+**English**
+
+Where there is more than one Senior Authorised Person appointed for a system or installation the Authorising Engineer may nominate one to be in overall charge with responsibility for control of records etc.
+
+**繁體中文**
+
+若一個系統或裝置任命多於一名資深授權人員（SAP），授權工程師（AE）可指定其中一名統籌負責，包括紀錄管制等事項。
+
+**English**
+
+The duties of the Senior Authorised Person should be by agreement with the Authorising Engineer below the duties should include the following-
+
+**繁體中文**
+
+資深授權人員（SAP）的職責宜與授權工程師（AE）議定，並宜包括下列職責：
+
+**English**
+
+a. Ensure, so far as is reasonably practicable, that all personnel within the establishment observe and comply with the requirements of these Rules.
+
+**繁體中文**
+
+a. 在合理可行的範圍內，確保場所內所有人員遵守本規則的要求。
+

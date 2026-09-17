@@ -1,0 +1,50 @@
+{
+  "title": "Pre-course assessment for High Voltage Authorised Person (Industrial & Commercial) training",
+  "date": "2026-09-17",
+  "question_count": 89,
+  "displayed_score_percent": 93,
+  "reconstruction": "Local study HTML plus direct visual verification of user-supplied official score screenshot; not a byte copy of the unavailable updated attachment.",
+  "base_filename": "AP15_HV_89Q_Study_Guide.html",
+  "base_sha256": "238eb02eb3bdd6d8644adfbc5037563673e86856d07a7ec5a050cf177127264c",
+  "answers": [
+    {
+      "question": 3,
+      "answer": "B",
+      "text": "11,000 V（11 kV）",
+      "official_feedback_verified": true
+    },
+    {
+      "question": 30,
+      "answer": "B",
+      "text": "Before it is put back into normal service",
+      "official_feedback_verified": true
+    },
+    {
+      "question": 34,
+      "answer": "C",
+      "text": "the draincock",
+      "official_feedback_verified": true
+    },
+    {
+      "question": 70,
+      "answer": "B",
+      "text": "DSS E, ISS & SBSS",
+      "official_feedback_verified": true
+    },
+    {
+      "question": 75,
+      "answer": "A",
+      "text": "考試選 A；故障電流約 13.12 kA",
+      "official_feedback_verified": true
+    },
+    {
+      "question": 77,
+      "answer": "D",
+      "text": "A Transmitter",
+      "official_feedback_verified": true
+    }
+  ],
+  "remaining_uncertain": [
+    38
+  ]
+}

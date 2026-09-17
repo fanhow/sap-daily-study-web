@@ -1,0 +1,120 @@
+# ESR 中英對照版
+
+中文為依英文 OCR 製作的學習譯文，非官方中文版。原圖遮擋、OCR 缺字與不確定處不補猜；數值、否定詞、條款與表格關係請對照原圖。
+
+---
+
+## 第 3 頁 — 目錄
+
+來源：[0203.jpg](../sources/0203.jpg) · [本頁影像](../sources/0203.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+> 原書目錄部分參照頁碼與實際頁碼有偏差；網頁導覽依照片實際頁碼，目錄數字保留原文。
+
+> 目錄數字及換行依來源保留，未重新分配混排的頁碼。HVI 依 OCR 原字保留。
+
+**English**
+
+```text
+Contents
+1 INTRODUCTION 5
+1.1 General 5
+1.2 Application of these Rules 6
+1.3 Definition of Personnel 6
+1.4 General Definitions 9
+1.5 Demarcation of Responsibilities between the Company and Others.
+2 Roles and Duties of Personnel 12
+2.1 Authorising Engineer 13
+2.2 Senior Authorised Person
+2.3 Authorised Person
+15 16
+2.4 Appointment and Reappointment of Senior Authorised Personl Authorised Person
+17
+2.5 Competent Persons 18
+2.6 Safety Persons
+I 3 General Precautions
+3.1 General 20
+3.2 Underground Cables 20
+21
+3.3 Display of Temporary Signs 21
+3.4 Withdrawable Equipment 21
+3.5 Security and Admittance to Sub-Stations
+4 Working on and Testing High Voltage Equipment
+23
+4.1 General 23
+4.2 Operation of High Voltage Switchgear 23
+4.3 Testing at High Voltage 24
+4.4 High Voltage Enclosures 25
+Table HVI 26
+Table HV2
+5 Documentation 28
+5.1 Switching Schedules 29
+5.2 Isolation and Earthing Diagrams 30
+5.3 Permit to Work
+5.4 Sanction for Test 32
+5.5 Limitation of Access 34
+5.6 Operating Records 36
+6 Operating Procedures
+6.1 Operational Restrictions 39
+6.2 Keys Key Cabinets and Mimic Diagrams 40
+6.3 The Use and Protective, Test and Earthing Equipment 42
+7 Health and Safety
+7.1 Dangerous Occurrences 44
+7.2 Display of Permanent Safety Signs and Posters 44
+7.3 Emergency First Aid Training 45
+7.4 Audit of Safe Systems of Work and Safety Procedures 45
+```
+
+**繁體中文**
+
+```text
+目錄
+1 緒論 5
+1.1 一般事項 5
+1.2 本規則的適用 6
+1.3 人員定義 6
+1.4 一般定義 9
+1.5 公司與其他方之間的責任劃分。
+2 人員的角色與職責 12
+2.1 授權工程師（AE）13
+2.2 資深授權人員（SAP）
+2.3 授權人員（AP）
+15 16
+2.4 資深授權人員（SAP）[英文OCR不清：Personl] 授權人員（AP）的任命與重新任命
+17
+2.5 適任人員（CP）18
+2.6 安全人員
+[英文OCR不清：I] 3 一般預防措施
+3.1 一般事項 20
+3.2 地下電纜 20
+21
+3.3 臨時標示的設置 21
+3.4 抽出式設備 21
+3.5 變電站的保安與進入管制
+4 高壓設備的作業與測試
+23
+4.1 一般事項 23
+4.2 高壓開關設備的操作 23
+4.3 高壓測試 24
+4.4 高壓圍蔽區域 25
+表 HVI 26
+表 HV2
+5 文件 28
+5.1 切換操作表 29
+5.2 隔離與接地圖 30
+5.3 工作許可證（PTW）
+5.4 測試許可（SFT）32
+5.5 限制進入許可（LOA）34
+5.6 操作紀錄 36
+6 操作程序
+6.1 操作限制 39
+6.2 鑰匙、鑰匙櫃及模擬單線圖 40
+6.3 防護、測試及接地設備的使用[英文OCR不清：The Use and Protective, Test and Earthing Equipment] 42
+7 健康與安全
+7.1 危險事件 44
+7.2 永久安全標示及海報的設置 44
+7.3 緊急急救訓練 45
+7.4 安全工作制度與安全程序的稽核 45
+```
+

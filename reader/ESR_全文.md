@@ -1,0 +1,3230 @@
+# ESR 英文全文
+
+中文為依英文 OCR 製作的學習譯文，非官方中文版。原圖遮擋、OCR 缺字與不確定處不補猜；數值、否定詞、條款與表格關係請對照原圖。
+
+---
+
+## 封面 — HV Electrical Safety Rules and Procedures
+
+來源：[0001.jpg](sources/0001.jpg) · [本頁影像](sources/0001.jpg)
+
+DEVELOP
+
+Part of the JTL Group
+
+HV ELECTRICAL SAFETY RULES AND
+
+PROCEDURES
+
+Version 4 - 04/04/2022
+
+THIS BOOK IS FOR REFERENCE PURPOSES ONLY AND MUST BE RETURNED AT THE END OF YOUR COURSE, PLEASE DO NOT MARK, HIGHLIGHT OR WRITE IN IT.
+
+
+---
+
+## 第 2 頁 — Copyright
+
+來源：[0203.jpg](sources/0203.jpg) · [本頁影像](sources/0203.jpg)
+
+Copyright
+
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means whatsoever without prior written permission from the copyright holder.
+
+O Develop Training Ltd
+
+Registered Office:
+
+Derby Training Centre, Ascot Drive, Derby, DE24 8GW
+
+Registered no: 06115331
+
+Web: www.developtraining.co.uk
+
+Tel: 01332 25 35 OO
+
+Email:enquiries@developtraining.co.uk
+
+
+---
+
+## 第 3 頁 — Contents
+
+來源：[0203.jpg](sources/0203.jpg) · [本頁影像](sources/0203.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+> 原書目錄部分參照頁碼與實際頁碼有偏差；網頁導覽依照片實際頁碼，目錄數字保留原文。
+
+```text
+Contents
+1 INTRODUCTION 5
+1.1 General 5
+1.2 Application of these Rules 6
+1.3 Definition of Personnel 6
+1.4 General Definitions 9
+1.5 Demarcation of Responsibilities between the Company and Others.
+2 Roles and Duties of Personnel 12
+2.1 Authorising Engineer 13
+2.2 Senior Authorised Person
+2.3 Authorised Person
+15 16
+2.4 Appointment and Reappointment of Senior Authorised Personl Authorised Person
+17
+2.5 Competent Persons 18
+2.6 Safety Persons
+I 3 General Precautions
+3.1 General 20
+3.2 Underground Cables 20
+21
+3.3 Display of Temporary Signs 21
+3.4 Withdrawable Equipment 21
+3.5 Security and Admittance to Sub-Stations
+4 Working on and Testing High Voltage Equipment
+23
+4.1 General 23
+4.2 Operation of High Voltage Switchgear 23
+4.3 Testing at High Voltage 24
+4.4 High Voltage Enclosures 25
+Table HVI 26
+Table HV2
+5 Documentation 28
+5.1 Switching Schedules 29
+5.2 Isolation and Earthing Diagrams 30
+5.3 Permit to Work
+5.4 Sanction for Test 32
+5.5 Limitation of Access 34
+5.6 Operating Records 36
+6 Operating Procedures
+6.1 Operational Restrictions 39
+6.2 Keys Key Cabinets and Mimic Diagrams 40
+6.3 The Use and Protective, Test and Earthing Equipment 42
+7 Health and Safety
+7.1 Dangerous Occurrences 44
+7.2 Display of Permanent Safety Signs and Posters 44
+7.3 Emergency First Aid Training 45
+7.4 Audit of Safe Systems of Work and Safety Procedures 45
+```
+
+
+---
+
+## 第 4 頁 — Contents
+
+來源：[0405.jpg](sources/0405.jpg) · [本頁影像](sources/0405.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+> 原書目錄部分參照頁碼與實際頁碼有偏差；網頁導覽依照片實際頁碼，目錄數字保留原文。
+
+```text
+Appendices
+Appendix 1 Associated Regulations and Document 49
+Appendix 2 Safety Documents (Model Forms) 50
+Appendix 3 Model Safety Signs 61
+Appendix 4 Protective, Test and Earthing Equipment 64
+Appendix 5 Model Procedures and Letters 66
+Appendix 6 Training Requirements 80
+```
+
+
+---
+
+## 第 5 頁 — 1 Introduction
+
+來源：[0405.jpg](sources/0405.jpg) · [本頁影像](sources/0405.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+1 Introduction
+
+1.1 General
+
+Policy on Electrical Safety 5
+
+1.2
+
+Application of these Rules
+
+General
+
+5
+
+1.3
+
+Definitions of Personnel
+
+Authorising Engineer 6
+
+1.4 General Definitions
+
+General 7
+
+Safety Signs 8
+
+Safety Documents 8
+
+Voltage Range 9
+
+1.5 Demarcation of Responsibilities between the Company and Other
+
+General 9
+
+Where the Company has control of the danger for part of another organisation's system or installation 9
+
+Where the Company does not have control of the danger for a system or installation 10
+
+Where contractors are to undertake installation work on an existing system or installation for which the Company has control of the danger 10
+
+For New Work before the system or installation is accepted from the Contractor 10
+
+Where a Distribution Network Operator appoints a Company Authorised Persons to operate their equipment 10
+
+
+---
+
+## 第 6 頁 — 1.1 General
+
+來源：[0607.jpg](sources/0607.jpg) · [本頁影像](sources/0607.jpg)
+
+1.1 General
+
+This document sets out the High Voltage (HV) Safety Rules and Procedures (hereinafter abbreviated to "these Rules") relating to:
+
+(i) working on or near, and the operation of High Voltage electrical equipment, systems and installations.
+
+(ii) the responsibilities for the control of the electrical danger.
+
+(iii) the appointment of the Authorising Engineer, Senior Authorised Persons, Authorised Persons, Competent Persons and Safety Persons.
+
+(iv) the qualifications and training necessary for the appointment of the Authorising Engineer , Senior Authorised Persons, Authorised Persons, Competent Persons.
+
+(v) the documentation for the application of these Rules.
+
+These Rules have been drafted to ensure compliance with UK statutory requirements and to prevent, so far as is reasonably practicable, danger arising from working on, working near, testing or operating High Voltage electrical equipment and systems.
+
+Policy on Electrical Safety
+
+Our aims are to install, maintain and operate High Voltage electrical systems to the highest safety standards.
+
+The consequence of undertaking electrical maintenance and/or switching operations can adversely effect the client, therefore, appropriate consultation must take place well in advance of any electrical work.
+
+There is a legal obligation on all persons involved with the operation of, or work on electrical systems and equipment to carry out work in such a way as to prevent danger and injury to themselves and/or others. These rules have been put in place to assist in carrying out those obligations.
+
+1.2 Application of these Rules
+
+General
+
+These Rules are mandatory for all persons (whether or not directly employed by the Company) working on, working near, testing or operating High Voltage electrical equipment and systems for which the Company has control of the electrical danger. These Rules are designed to provide a safe framework within which work or testing can be carried out with safety on permanently connected electrical equipment (equipment which has been isolated via a switch or disconnector is considered to be permanently connected). These Rules do not apply to equipment that have been disconnected discharged of any electrical potential and removed from an installation.
+
+In case of apparent conflict between these Rules and a statutory requirement, the latter is to be followed and the Authorising Engineer is to advise Senior Management.
+
+If it is necessary to depart from any requirement of these Rules, the Authorising Engineer is to agree such departure in writing with Senior Management before it is implemented.
+
+Where the control of the electrical danger is divided between the Company and others, Section 1.5 of these Rules is to be applied.
+
+Further advice on the application of these Rules can be obtained from the Authorising Engineer.
+
+
+---
+
+## 第 7 頁 — 1.3 Definitions of Personnel
+
+來源：[0607.jpg](sources/0607.jpg) · [本頁影像](sources/0607.jpg)
+
+1.3 Definitions of Personnel
+
+Authorising Engineer
+
+An Engineer is appointed in writing by senior management to take responsibility for the effective management of these Rules.
+
+Senior Authorised Person (HV)
+
+A person appointed, in writing, by an Authorising Engineer, in accordance with these Rules, to be responsible for the implementation of these Rules, in respect of the control and operation of High Voltage electrical systems including the issue of all Safety Documents.
+
+Authorised Person (HV)
+
+A person appointed, in writing, by an Authorising Engineer, in accordance with these Rules, to be responsible for the implementation of these Rules, in respect of the control and operation of defined High Voltage systems.
+
+Duty Senior Authorised/Authorised Person (HV)
+
+A person who has signed the HV Log Book to accepted responsibility for the HV system or installation their name must be displayed in the HV System Control Centre.
+
+Competent Person (HV)
+
+A suitably trained person who has sufficient technical knowledge and experience to avoid any danger that electricity may create, has sufficient knowledge of these Rules and is suitable to carry out specific work activities on the types of installations, equipment and locations indicated on their Safety Document or Certificate of Appointment.
+
+Safety Person
+
+A person not involved in the work or test, who has received Emergency First Aid training and who has adequate knowledge, experience and ability to avoid danger, keep watch, prevent interruption, apply First Aid and summon help. The person is to be familiar with the system or installation being worked on or tested and is to have been instructed on the action to be taken to disconnect the equipment in the event of an accident.
+
+Duty Holder
+
+A person on whom the Electricity at Work Regulations 1989 imposes a duty in connection with Safety.
+
+1.4 General Definitions
+
+Danger
+
+Risk of injury or death.
+
+Dangerous Condition
+
+A condition that is likely to lead to a Dangerous Occurrence.
+
+Dangerous Occurrence
+
+An incident, involving a source of electrical energy, which may be dangerous to any person, whether or not an accident has occurred.
+
+Earthed
+
+Connected to the general mass of earth in such a manner as will ensure at all times an immediate discharge of electrical energy without danger.
+
+(i) Circuit Main Earth: A safety earthing connection of an approved type, secured where practicable by a Safety Lock, applied by an Authorised Person and its position recorded before the issue of a safety document
+
+(ii) Additional Earth: Earthing equipment of an approved type applied after the issue of a safety document (for example an earth applied at a point of work)
+
+
+---
+
+## 第 8 頁 — General Definitions（續；部分原圖遮擋）
+
+來源：[0809.jpg](sources/0809.jpg) · [本頁影像](sources/0809.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+Electrical Equipment
+
+Includes anything used, intended to be used or installed for use, to generate, provide, transmit, transform, rectify,convert, conduct, distribute, control, store, measure or use electrical energy.
+
+HV System Control Room / Centre
+
+A room under the control of a Senior Authorised or Authorised Person which contains the Mimic Diagram and the Key Cabinet for the HV system
+
+High Voltage Enclosure
+
+A Location within which a live High Voltage conductor is, or can be, exposed without the use of a tool or key
+
+Injury
+
+Death or personal injury from electric shock, electric burn, electrical explosion or arcing, or from fire or explosion initiated by electrical energy, where any such death or injury is associated with the generation, provision, transmission, transformation, rectification, conversion, conduction, distribution, control, measurement or use of electrical energy.
+
+Isolate
+
+Disconnect and separate electrical equipment from every source of electrical energy in such a way that this disconnection and separation is secure.
+
+Isolation and Earthing Diagram
+
+A diagram attached to the Permit to Work or Sanction for Test illustrating the safety measures taken.
+
+Key Cabinet
+
+A cabinet for the sole purpose of retaining all keys relative to the Site HV system to which the Authorised Person(s) have control.
+
+Key Control Box
+
+A single locked box used for the control of the key to the Key Cabinet.
+
+Live
+
+The presence of an electrical potential: (electrically charged).
+
+Lockable Document Cabinet
+
+A lockable cabinet suitable for storing the electrical safety documents, temporary safety signs, distribution system records, etc used in the application of these Rules. This cabinet shall not be used to store anything not associated with these Rules. The key for this cabinet will be retained in the Key Cabinet when not in use.
+
+Log Book
+
+A book in which all matters relating to the condition of the electrical system should be recorded.
+
+Mimic Diagram
+
+A single line diagram of an electrical distribution system so made that the symbol for each item of switchgear may be adjusted to indicate the On, Off or Earthed positions.
+
+Operational Restriction
+
+A written safety instruction, issued by the Authorising Engineer, modifying or prohibiting the normal operating procedures associated with a particular make and type of equipment.
+
+Personal Log Book (HV)
+
+A Personal Log Book to record a summary of all switching, carried out on the site HV system.
+
+Protective Equipment
+
+Equipment used to protect persons from danger in the working environment. Protective Equipment includes items such as special tools, protective clothing, insulating screens, safety harnesses, temporary Safety Signs, etc.
+
+
+---
+
+## 第 9 頁 — Prove Dead
+
+來源：[0809.jpg](sources/0809.jpg) · [本頁影像](sources/0809.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+Prove Dead
+
+Demonstrate with the use of approved test equipment designed for the purpose that no electrical potential liable to cause danger is present.
+
+Safety Lock
+
+A padlock indelibly coloured red, having a single key that differs from all other keys provided for the system or installation, used for securing the means of isolation and to prevent the removal of Circuit Main Earths
+
+Safety Key Box
+
+A box having two locks, each of which is to have only one key, one being labelled "Safety Key Box - Competent Person", and the other "Safety Key Box — Senior Authorised Person". It is to be so arranged that both locks must be released before access can be gained to the contents of the box. The box is used for the safe retention of the keys to Safety Locks.
+
+Safety Signs
+
+Caution Sign
+
+A non-metallic sign bearing the words "Caution - Persons Working on Equipment" and "Do Not Touch" which also has appropriate picto-graphical symbols.
+
+Danger Sign
+
+A temporary, non-metallic sign bearing the words "Danger Live Equipment" and "Do Not Touch" to be used where there is adjacent live equipment at the place of work which also has appropriate picto-graphical symbols.
+
+Substation Warning sign
+
+A permanent, non-metallic sign bearing the words "Danger of Death", or a combined Warning sign and notice. The relevant voltage, if in excess of Low Voltage, shall be declared below the words "Danger of Death" in black letters with the same proportions as the letters already used
+
+Safety Documents
+
+Permit to Work (High Voltage)
+
+A written authority, issued by the Duty Senior Authorised Person for work to be undertaken on defined HV electrical equipment.
+
+Sanction for Test (High Voltage)
+
+A written authority, issued by the Duty Senior Authorised Person for testing to be undertaken on defined HV electrical equipment.
+
+Limitation of Access
+
+A written authority, issued by the Duty Senior Authorised or Authorised Person allowing a named person to enter and carry out specified tasks (which do not require the issue of a Permit to Work or Sanction for Test ) in an HV Substation or any other location which is under the control of an Authorised Person.
+
+Single Line Drawing
+
+A Single Line Drawing of the whole site system showing all HV and major LV equipment in its normal state of operation (i.e. switched on-off, etc.).
+
+Spiking Gun
+
+An item of Safety Equipment used to confirm that a cable is dead.
+
+Substation
+
+Any premises, or part thereof, which contain equipment for either transforming or converting energy to or from High Voltage (other than transforming or converting solely for the operation of switching devices or instruments), or for switching, controlling or regulating energy at High Voltage.
+
+Supervision
+
+Immediate Supervision is given by a person, having adequate technical knowledge and experience, who is available and attends the work as necessary 
+Personal Supervision is given by a person who is present at all times.
+
+Switching Schedule
+
+
+---
+
+## 第 10 頁 — A written schedule, as shown in Appendix A2, issued by the Duty Senior Authorised Person, after
+
+來源：[1011.jpg](sources/1011.jpg) · [本頁影像](sources/1011.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+Switching Schedule
+
+A written schedule, as shown in Appendix A2, issued by the Duty Senior Authorised Person, after countersignature, setting out the sequence of operations to be followed before a Permit to Work or a Sanction for Test is issued
+
+Sanction for Test is issued
+
+System
+
+An electrical system in which all the equipment is, or may be, connected to a common source of electrical energy, including the source and its associated equipment.
+
+Voltage Range
+
+The following ranges of voltage are defined:
+
+(a) Extra Low Voltage
+
+A potential not exceeding 50 volts a.c. or 120 volts ripple free d.c., whether between conductors or to earth
+
+(b) Low Voltage (LV)
+
+A potential not exceeding 1000 volts ac or 1500 volts dc between conductors or 600 volts ac or 900 volts dc between a conductor and earth.
+
+(c) High Voltage (HV)
+
+A potential normally exceeding Low Voltage.
+
+1.5 Demarcation of Responsibilities between the Company and Others
+
+General
+
+Where there is a Demarcation of Responsibilities between the Company and others, the Duty Senior Authorised Person is, on matters relevant to their duties, to liaise with the other party (or parties) as necessary to avoid danger.
+
+Each Demarcation of Responsibilities is to be recorded in writing and precisely described on a diagram. The point of demarcation must be at a cable termination and is to be at the outgoing terminals of a switch or circuit breaker.
+
+Each proposed Demarcation of Responsibility is to be approved by the Authorising Engineer before it is finally agreed with the other party (or parties) involved.
+
+A copy of the diagram is to be prominently displayed at each substation under joint control.
+
+One copy of the agreement, including the diagram, is to be sent to the Authorising Engineer and another is to be placed in the Operational Procedure Manual.
+
+Where another organisation transfers control of electrical danger to the Company for the duration of a contract, the Authorised Person appointed by the Company to be in control of the electrical danger is to request from the other organisation, details in writing of any known hazards (including potentially explosive atmospheres, polychlorobyphenyls (PCBs), etc.) that are, or may be, present. A copy of these details is to be placed in the Operational Procedure Manual and another copy is to be given to the Company contractor(s), if appointed.
+
+Note The other organisation has a duty to provide such details under Section 4 of the Health & Safety at Work Act 1974.
+
+Where the Company has control of the danger for part of another organisation's system or installation The Duty Senior Authorised Person (or for a new site the Senior Authorised Person Designate) is to liaise with the other organisation's Duty Holder to agree the point of demarcation and the points of contact for both parties. Once the Authorising Engineer has approved this, the formal agreement is to be drawn up and signed by both parties.
+
+
+---
+
+## 第 11 頁 — Where the Company does not have control of the danger for a system or installation
+
+來源：[1011.jpg](sources/1011.jpg) · [本頁影像](sources/1011.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+Where the Company does not have control of the danger for a system or installation
+
+The Company staff and the Company contractor's staff who are to undertake work or tests on parts of systems or installations for which the Company does not have control of the electrical danger are not required to comply with these Rules, but are to comply with the Statutory Regulations and/or any safety rules and procedures issued by the organisation having control of the electrical danger.
+
+Where contractors are to undertake installation work on an existing system or installation for which the Company has control of the danger
+
+Before any installation work is undertaken by contractors on an existing system or installation for which the Company has control of the danger, it is recommended that the person in the contractors company responsible for that installation work is to liaise directly with the Duty Senior Authorised Person to ensure that the work is undertaken in accordance with these Rules.
+
+For New Work before the system or installation is accepted from the Contractor
+
+During the construction period of the contract, the contractor(s) will have control of the electrical danger and is to comply with all relevant Statutory Regulations. The contractor(s) is not required to comply with these Rules unless they are imposed by the conditions of contract.
+
+Where it is known that the Company will eventually accept control of the electrical danger, it is recommended that the Authorising Engineer, in conjunction with the Duty Holder for the site involved, appoints a Senior Authorised Person to take responsibility for the new systems or installations when they are officially handed to the Company for day to day operation and maintenance.
+
+The Senior Authorised Person should liaise with the contractor's Duty Holder in order to become familiar with the systems or installations for which they will eventually take control of the electrical danger.
+
+Where the contractor's Duty Holder is responsible for part of a system or installation, the exact extent of the contractor's responsibility is to be agreed in writing
+
+Where a Distribution Network Operator appoints a Company Authorised Persons to operate their equipment
+
+A Distribution Network Operator may appoint nominated Authorised Persons to operate their equipment under defined conditions and in accordance with defined procedures. In such cases, the Authorised Persons are to be nominated by the Authorising Engineer for appointment by the Distribution Network Operator. Each nominated Authorised Person is to obtain from the Distribution Network Operators Appointing Officer a written agreement defining the responsibilities to be accepted and the regulations and procedures to be followed.
+
+Each nominated Authorised Person is to acknowledge, in writing, receipt of the agreement from the Distribution Network Operator, and acceptance of the responsibilities after consultation with the Authorising Engineer, Copies of the agreement and acknowledgement are to be sent to the Authorising Engineer and placed in the Operational Procedure Manual.
+
+A copy of any relevant regulations of the Distribution Network Operator is to be available in each nominated Authorised Person's office and at any other location required by the Distribution Network Operator.
+
+Any action taken by a nominated Authorised Person on behalf of the Distribution Network Operator is to comply with the instructions of the Distribution Network Operator and is to be recorded in any documentation required by the Distribution Network Operator.
+
+Authorised Persons appointed by the Distribution Network Operator are, where practicable, to provide advance warning to the Distribution Network Operator and the Authorising Engineer before relinquishing such an appointment.
+
+
+---
+
+## 第 12 頁 — 2 Roles and Duties of Personnel
+
+來源：[1213.jpg](sources/1213.jpg) · [本頁影像](sources/1213.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+2 Roles and Duties of Personnel
+
+2.1 Authorising Engineer 12
+
+- Roles and Duties of the Authorising Engineer 13
+- Qualifications and Appointment of the Authorising Engineer
+
+2.2 Senior Authorised Persons 13
+
+- Roles and Duties of Senior Authorised Persons 14
+- Qualifications and Appointment of the Senior Authorised Persons
+
+2.3 Authorised Persons
+
+- Roles and Duties of Authorised Persons 15
+- Qualifications and Appointment of the Authorised Persons
+
+2.4 Appointment and Re-Appointment of Senior Authorised/Authorised Persons
+
+- General
+- Review of Senior Authorised and Authorised Persons' Appointments 
+- Refresher Training for Senior Authorised and Authorised Persons
+- Suspension and Cancellation of Appointment of Authorised Persons
+
+2.5 Competent Persons
+
+- Role and Duties of the Competent Person
+- Qualifications of Competent Persons
+- Appointment of Competent Persons
+- Contractors Competent Persons
+
+
+2.6 Safety Persons
+
+- Role and Appointment of Safety Persons
+- Requirement for a Safety Person
+
+
+---
+
+## 第 13 頁 — 2.1 Authorising Engineer
+
+來源：[1213.jpg](sources/1213.jpg) · [本頁影像](sources/1213.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+2.1 Authorising Engineer
+
+Role and Duties of the Authorising Engineer
+
+Within the geographical area for which an Authorising Engineer has been appointed, the Authorising Engineer is responsible for advising on the implementation and administration of these Rules, and is to monitor and audit the application of these Rules.
+
+The Authorising Engineer is to appoint (or re-appoint) sufficient Senior Authorised /Authorised Persons to provide the necessary cover for all systems and installations for which the Company has responsibility.
+
+The Authorising Engineer should be satisfied that each prospective Senior Authorised/ Authorised Persons meets the qualifications and requirements of these Safety Rules and is to issue to each Senior Authorised Persons a Certificate of Appointment valid for a period not exceeding three years.
+
+The Authorising Engineer is to define in writing, using drawings and diagrams if considered appropriate, the exact extent of the systems and installations for which each Senior Authorised/ Authorised Persons is to be responsible and maintain a register of all Senior Authorised/ Authorised Persons If necessary, suspend the appointment of a Senior Authorised/ Authorised Persons by withdrawing their Certificate of Appointment.
+
+Report any deficiency in the number of suitably trained and experienced Senior Authorised/ Authorised Persons that significantly impairs the Company's ability to provide a safe and effective service.
+
+Audit the performance and record the operational experience of each Senior Authorised/ Authorised Persons at twelve monthly intervals.
+
+At intervals not exceeding three years, undertake comprehensive audits, in accordance with Section 7.4 of the application of these Rules to all systems and installations and review each Senior Authorised/ Authorised Persons operational experience.
+
+Notify the Company of any known defect reports or Operational Restrictions issued by a Distribution Network Operator, a manufacturer or supplier of electrical equipment, which is applicable to equipment within the areas for which the Authorising Engineer is responsible.
+
+Ensure that a system is in place to circulate relevant information on Operating Restrictions and Dangerous Occurrences to all Senior Authorised/Authorised Persons.
+
+Investigate all Dangerous Occurrences involving electrical equipment, systems and installations for which the Authorising Engineer is responsibly.
+
+Agree in writing any local deviation from these Rules that may be necessary for their application to a particular item of equipment or location.
+
+Ensure that any amendments to these Rules are brought to the attention of, and understood by, all Senior Authorised/Authorised Persons.
+
+
+---
+
+## 第 14 頁 — Qualifications and Appointment of the Authorising Engineer
+
+來源：[1415.jpg](sources/1415.jpg) · [本頁影像](sources/1415.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+Qualifications and Appointment of the Authorising Engineer
+
+To be eligible for appointment, a prospective Authorising Engineer shall be: -
+
+a. a Chartered Engineer with a minimum of five years relevant experience or an Incorporated Engineer with a sound technical engineering background who is qualified to HNC level and have a minimum of eight years relevant experience as a practising Senior Authorised Person
+
+b. have satisfactorily completed the AP15 Senior Authorised/ Authorised Persons initial training course in accordance with Appendix A6 within the last three years
+
+c. have satisfactorily completed an approved Authorising Engineer training course in accordance with Appendix A6 within the last three years
+
+d. be familiar with the different types of equipment, installations and systems in use within the area for which appointment is sought.
+
+e. be able to demonstrate their competency and suitability for the role by demonstrating a good understanding of the tasks involved and knowledge of these High Voltage Safety Rules and Procedures, prior to appointment through a formal assessment.
+
+f. have adequate knowledge of and, within the last three years, have successfully completed an emergency first aid training course.
+
+An Authorising Engineer is to be appointed in writing. The model letters of appointment are in Appendix A5.
+
+An Authorising Engineer is to be appointed or re-appointed for defined systems and installations for a period not exceeding five years. Appointment procedure is to be in accordance with Appendix A5.
+
+2.2 Senior Authorised Persons
+
+Roles and Duties of Senior Authorised Persons
+
+The Senior Authorised Person is to be solely responsible for the practical implementation and operation of these Rules for the systems and installations for which the Company has control of the danger and for which the Senior Authorised Person has been appointed.
+
+The Senior Authorised Person's instructions and decisions on electrical matters are final and are to be complied with. In the case of a dispute, the Senior Authorised Person is to stop the work or test and refer the matter to the Authorising Engineer for adjudication.
+
+More than one Senior Authorised Person may be appointed for a system or installation but, at any one time, only one Senior Authorised Person is to be on duty. Each transfer of responsibility between Senior Authorised Persons is to be recorded in the Log Book. The name of the Duty Senior Authorised Person is to be readily available in the HV System Control Centre and can only be altered by a Senior Authorised Person using a Key.
+
+Where there is more than one Senior Authorised Person appointed for a system or installation the Authorising Engineer may nominate one to be in overall charge with responsibility for control of records etc.
+
+The duties of the Senior Authorised Person should be by agreement with the Authorising Engineer below the duties should include the following-
+
+a. Ensure, so far as is reasonably practicable, that all personnel within the establishment observe and comply with the requirements of these Rules.
+
+
+---
+
+## 第 15 頁 — b. The control of electrical distributions systems including the operation of High Voltage and major
+
+來源：[1415.jpg](sources/1415.jpg) · [本頁影像](sources/1415.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+b. The control of electrical distributions systems including the operation of High Voltage and major Low Voltage switch gear. 
+c. Issue, cancel and withdraw as appropriate all Safety Documents for the systems, installations and equipment for which the Senior Authorised Person has been appointed 
+d. Ensure that all Protective Equipment, Test Equipment and Portable Earthing Equipment is recorded, periodically inspected, calibrated and maintained in accordance with the manufacturer's recommendations and is to be inspected to ensure it is in a satisfactory condition before use
+
+Inform the Authorising Engineer of: 
+  i: any defects found in electrical equipment. 
+  ii. any dangerous occurrence. 
+  iii. any dangerous practices observed in the course of his duties. 
+f. Arrange for, supervise or undertake cable detection or location work within the geographical area of the Senior Authorised Person's appointment 
+g Appoint Competent Persons for defined work and maintain a register of Competent Persons appointments including dates of appointment, the date the appointment is due to expire, details of training and training dates. This register is to be kept in the Operational Procedure Manual with copies of all current Competent Persons certificates
+
+g. Ensure that all records for the system for which the Senior Authorised Person is appointed are completed and kept up to date.
+
+Qualifications of Senior Authorised Persons
+
+Prospective Senior Authorised Persons shall be nominated by the company and assessed and appointed by the Authorising Engineer. The appointment is to be for defined systems and installations and will be registered on a Certificate of Appointment signed by the Senior Authorised Person and the Authorising Engineer.
+
+To be eligible for appointment as a Senior Authorised Person the prospective Senior Authorised Person shall:
+
+a. Be over 23 years of age and be either, I. Eng or Eng Tech and be qualified within the following range Degree, HND/HNC, OND/ONC, B Tech 4 or 3, C&G, NVQ at level 3 or above.
+
+b. Have an adequate knowledge of these Rules and of those Regulations listed in Appendix 1 that are applicable to the systems and installations for which the appointment is sought.
+
+c. Be technically competent and qualified to safely operate, and make safe to work on or test, the equipment, systems or installations and for which appointment is sought.
+
+d. Be familiar with the equipment, systems or installations for which appointment is sought.
+
+e. Have successfully completed the AP15 Senior Authorised Persons initial HV training course.
+
+f. Be able to demonstrate competency and suitability for the role, prior to their appointment, through a formal interview carried out by the Authorising Engineer.
+
+g. Have adequate knowledge of and, within the last three years, have successfully completed an emergency first aid training course in accordance with Section 7.3.
+
+
+---
+
+## 第 16 頁 — 2.3Authorised Persons
+
+來源：[1617.jpg](sources/1617.jpg) · [本頁影像](sources/1617.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+2.3Authorised Persons
+
+Roles and Duties of Authorised Persons
+
+The duties of the Authorised Person (HV) should be by agreement with the Authorising Engineer below the duties should include the following-
+
+a. The control of High Voltage electrical distributions systems including the operation of High Voltage switchgear.
+
+b. Issue, cancel and withdraw of a Limitation of Access Safety Document for the systems, installations and equipment for which the Authorised Person (HV) has been appointed.
+
+More than one Authorised Person may be appointed for a system or installation but, at any one time, only one Authorised Person is to be on duty. Each transfer of responsibility between Authorised Persons is to be recorded in the Log Book. The name of the Duty Authorised Person is to be readily available in the HV System Control Centre and can only be altered by an Authorised Person using a Key.
+
+Qualifications of Authorised Persons
+
+Prospective Authorised Persons shall be nominated by the company and assessed and appointed by the Authorising Engineer. The appointment is to be for defined systems and installations and will be registered on a Certificate of Appointment signed by the Authorised Person and the Authorising Engineer.
+
+To be eligible for appointment as an Authorised Person the prospective Authorised Person shall:
+
+a Be over 23 years of age
+
+b Have an adequate knowledge of these Rules and of those Regulations listed in appendix 1 that are applicable to the systems and installations for which the appointment is sought.
+
+c Be technically competent and qualified to safely operate, High Voltage switchgear and control, systems or installations and for which appointment is sought.
+
+d Be familiar with the equipment, systems or installations for which appointment is sought.
+
+e Have successfully completed the AP15 Authorised Persons initial HV training course .
+
+f. Be able to demonstrate competency and suitability for the role, prior to their appointment, through a formal interview carried out by the Authorising Engineer.
+
+g. Have adequate knowledge of and, within the last three years, have successfully completed an emergency first aid training course in accordance with Section 7.3.
+
+
+---
+
+## 第 17 頁 — 2.4 Appointment and Re-Appointment of Senior AuthorisedlAuthorised Persons
+
+來源：[1617.jpg](sources/1617.jpg) · [本頁影像](sources/1617.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+2.4 Appointment and Re-Appointment of Senior Authorised/ Authorised Persons
+
+General
+
+A Senior Authorised/Authorised Person are to be appointed (or re-appointed) by the Authorising Engineer for defined systems and installations, for periods not exceeding three years. Appointment and re- appointment is to be by the issue, and acceptance, of a letter of appointment signed personally by the Authorising Engineer. Letters of appointment (or re-appointment) and acceptance of the appointment should be in the form illustrated in Appendix A5.
+
+Review of Senior Authorised and Authorised Persons' Appointments: Each Senior Authorised/Authorised Person's appointment is to be reviewed by the Authorising Engineer at intervals not exceeding three years and prior to re-appointment.
+
+Refresher Training for Senior Authorised and Authorised Persons: All Senior Authorised/Authorised Persons are to attend an approved Authorised Persons refresher training course at intervals not exceeding three years All Senior Authorised/Authorised Persons are to attend emergency first aid training course in accordance with Section 7.3 of these Rules at intervals not exceeding three years
+
+Suspension and Cancellation of Appointment of Senior Authorised/Authorised Persons: The appointment of any Senior Authorised/Authorised Person may be suspended or cancelled by the Authorising Engineer, who should take the following actions: -
+
+a. inform in writing the Senior Authorised/Authorised Person giving the reasons for the suspension or cancellation, details of any further training or experience considered necessary before re-appointment and the expected duration of the suspension or cancellation. 
+
+b. arrange a meeting with the Senior Authorised/Authorised Person to discuss the suspension or cancellation and any action necessary to maintain the availability of an Authorised Person.
+
+c. retrieve the original certificate of appointment. 
+
+d. in the case of cancellation, the Authorising Engineer is to destroy the original certificate and overwrite all other copies with the word 'Cancelled' followed by the date and his signature. 
+
+e. On suspension or withdrawal of an appointment the combination of the Authorised Persons Key Safe is to be changed.
+
+f. The Authorising Engineer should take the necessary action to ensure alternative cover is provided
+
+
+---
+
+## 第 18 頁 — 原圖部分遮擋 · 2 · Roles and Duties of Personnel
+
+來源：[1819.jpg](sources/1819.jpg) · [本頁影像](sources/1819.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+2.5 Competent Person
+
+Role and Duties of the Competent Person
+
+A Competent Person authorised by the issue of a Certificate of Appointment will be limited to those duties as specified on the certificate and must not include work covere by a Permit to Work or Sanction for Test.
+
+The Competent Person authorised by the issue of a Safety Document may only undertake or supervise the work or test specified until the task is complete and the Competent Person has signed Part 3 of the Safety Document retained in the pad. Neither the Competent Person, nor any person under the direct control of the Competent Person is to attempt to undertake any other duties.
+
+Unless it is unavoidable the Competent Person is not to leave the location of the work or test until the task is completed. If the Competent Person has to temporarily leave the location of the work or test, the task is to be suspended and adequate safety precautions taken to prevent Danger. The work or test is not to be resumed until the Competent Person has returned to the location of the work or test.
+
+Qualifications for appointment of Competent Persons
+
+To be eligible for appointment, prospective Competent Persons shall:
+
+a. Be competent to undertake work on, and testing of, the types of systems and equipment for which the appointment is sought.
+
+b. be familiar with the types of installation and equipment that they will be required to work on or test.
+
+c. possess the necessary technical knowledge, skill and experience relevant to the nature of the work or tests to be undertaken to prevent danger and injury.
+
+d. have an adequate knowledge of the relevant parts of these Rules, any agreed local variations, and those Regulations listed in Appendix 1 which are applicable to the installations and equipment on which work or tests are to be undertaken.
+
+Appointment and re-appointment of Competent Persons
+
+Appointment of a Competent Person will be either by the issue of a HV Competent Person Certificate in which case they are deemed competent to enter a HV area without the issue of a Limitation of Access or by the issue of a Safety Document in which case they must be deemed competent for the task to be performed by the Senior Authorised Persons prior to the issue of the Safety document.
+
+Prior to the issue of a HV Competent Person's certificate the prospective HV Competent Person is to attend a formal interview with a Senior Authorised Person appointed for the system or installations for which the appointment is sought.
+
+A copy of the certificate is to be placed in the Operational Procedures Manual.
+
+Contractors Competent Persons
+
+The contractor is responsible for ensuring that the Contractor's Competent Persons employed on company work are of a standard equivalent to that described in Clause 1.3 of these Rules and is to provide the Duty Senior Authorised Person with written proof.
+
+If an Senior Authorised Person is of the opinion that a Competent Person is not carrying out work in accordance with these Rules, or is working in an unsafe manner, the Senior Authorised Person is to stop the work, have the equipment or installation made safe and the Competent Person removed from the working area
+
+
+---
+
+## 第 19 頁 — 2.6 Safety Persons
+
+來源：[1819.jpg](sources/1819.jpg) · [本頁影像](sources/1819.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+2.6 Safety Persons
+
+Role and Appointment of Safety Persons
+
+The Safety Person is a person, not directly involved in the work or test, who has adequate knowledge, experience and ability to avoid danger, keep watch, prevent unauthorised interruption of the work or test, be able to apply first aid and summon help. The Safety Person is to have received training in emergency first aid in accordance with Section 7.3 of these Rules.
+
+The Senior Authorised Person, who will be responsible for the work or test to be attended, is to ensure that the Safety Person understands their intended role and fully understands how to disconnect the equipment being worked on or tested from all sources of supply and how to switch off any test equipment or disconnect it from its source of supply.
+
+Requirement for a Safety Person. The Safety Person is to be in attendance when the Duty Senior Authorised Person considers it necessary and in the following circumstances: 
+a. whilst equipment is being proved or confirmed dead. 
+b. whilst equipment is being earthed, other than by means of a switch.. 
+c. whilst the Senior Authorised Person is spiking a cable. 
+d. whilst testing is being undertaken at High Voltage. 
+e. whilst a High Voltage potential indicator is in use. 
+f. whilst voltage and phasing tests are being undertaken at High Voltage. 
+g. whilst any person is opening or working in a High Voltage Enclosure.
+
+
+---
+
+## 第 20 頁 — 3 General Precautions
+
+來源：[2021.jpg](sources/2021.jpg) · [本頁影像](sources/2021.jpg)
+
+3 General Precautions
+
+3.1 Genera/ 20
+
+Genera/
+
+3.2 Underground Cables 20
+
+Location of Underground Cables 20
+
+Identification and Spiking of Cables
+
+3.3 Display of Temporary Safety Signs 21
+
+Caution Sign 21
+
+Danger Sign
+
+3.4 Withdrawable equipment 21
+
+Genera/
+
+3.5 Security and admittance to sub-stations 21
+
+Genera/
+
+
+---
+
+## 第 21 頁 — 3.1 General
+
+來源：[2021.jpg](sources/2021.jpg) · [本頁影像](sources/2021.jpg)
+
+3.1 General
+
+General
+
+These Rules do not apply where equipment has been Isolated, Discharged, Disconnected and removed
+
+from the system or installation. Equipment that is considered by any Authorised Persons, to be in a Dangerous Condition is to be disconnected elsewhere and action taken to prevent it from being re-connected to the supply of electricity. A report of the incident and the actions taken are to be reported as soon as is reasonably practicable to the Duty Senior Authorised Person.
+
+Senior Authorised or Authorised Persons undertaking tasks requiring Permits to Work or Sanction for Test are to issue these documents to themselves countersigned by a Site Certified Senior Authorised Person. The Senior Authorised or Authorised Person then becomes the Competent Person..
+
+When a Permit to Work or Sanction for Test is issued the Duty Senior Authorised is required to have identified the equipment upon which the work or test is to be undertaken. If the work involves, or may involve, obtaining access to items of equipment over which confusion could occur the Duty Senior Authorised is to identify such items to the Competent Person and apply temporary marking to such equipment.
+
+3.2 Underground Cables
+
+Location of Underground Cables
+
+Where it is proposed to carry out excavation work on sites for which Senior Authorised have been appointed, it is the responsibility of the Duty Senior Authorised to ensure that all underground power cables within the proposed areas of excavation are located and their positions marked prior to the ground being disturbed.
+
+No person should use cable location and tracing devices unless they are competent to do so and have been specifically trained in its use. A certificate should be issued by the instructor on successful completion of the training. A copy of this should be placed in the Operation Procedure Manual.
+
+Training in the use of cable location and tracing devices should normally be given by the manufacturers of the equipment, but alternatively it may be given by a Competent Person who has been trained and certified by the manufacturers or an approved training provider.
+
+Identification and Spiking of Cables
+
+Before the conductors of a cable are cut or exposed, a point of isolation for the cable and the point of work on the cable are to be identified with certainty.
+
+The identification may be regarded as clear and certain if the cable can be seen throughout its length, or if it can be clearly seen between a point of isolation and the point of work.
+
+In the absence of clear and certain identification of a cable, it is to be spiked at the point of work. Prior to spiking the cable actions must be taken to as far as reasonable practical to ensure the cable is not energised this may include some or all of the following
+
+a. Interrogation of cable route plans. b. Checking and size and type of cable against drawings c. Use of a current sensing device
+
+d. Cable core signal injection
+
+Before spiking it may be necessary to carry out tests to the cable cores that can be repeated after spiking and the results compared
+
+The spiking of cables may only be carried out by the Duty Senior Authorised Person who has been specifically trained in the operation of the equipment to be used.
+
+
+---
+
+## 第 22 頁 — 原圖部分遮擋 · 3 · General Precautions
+
+來源：[2223.jpg](sources/2223.jpg) · [本頁影像](sources/2223.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+lay of Temporary Safety Signs
+
+n Signs are to be prominently displayed and securely fixed at all points of isolation before the start of the duration of any work or testing, and before the issue of any Permit to work or Sanction for Test.
+
+Danger Signs
+
+Danger Signs are to be prominently displayed on any equipment which remains live and is adjacent to equipment to be worked on or tested before the start of, and for the duration of the work or testing, and before the issue of any Permit to Work, or Sanction for Test
+
+Where work or testing is to be undertaken on any part of a mufti-cubicle switchboard, Danger Signs shall be prominently displayed on the cubicles or compartments adjacent to the part being worked on or tested. If the board has rear access, Danger Signs are to be similarly displayed at both the front and rear of the board. Reliance is not to be placed upon the switchboard labelling when identifying parts at the rear of the board. Any discrepancies found are to be reported
+
+Danger Signs are to be prominently displayed so that they are visible from every angle of approach to a High Voltage Enclosure.
+
+Temporary Safety Signs are to be suspended from non-conducting cords.
+
+3.4 Withdrawable equipment
+
+General
+
+When withdrawable electrical equipment has been disconnected from all supplies and withdrawn from its normal live position, its conductors shall be discharged to earth but need not remain connected to earth. All shutters mechanisms within the enclosure shall be locked shut when unattended, the keys controlling such locks shall at all times be under the control of a Senior Authorised/ Authorised Person
+
+3.5 Security and admittance to sub-stations
+
+General
+
+Any entrance to a room or enclosure that contains High Voltage Equipment is to be kept closed and securely locked when the equipment is unattended.
+
+Where it is necessary to avoid danger or prevent unauthorised operation, equipment cubicles and operating mechanisms are to be kept locked when the equipment is unattended.
+
+No person other than a Senior Authorised/ Authorised Person or Competent person shall enter room containing High Voltage equipment unless they are accompanied by a Senior Authorised/ Authorised Person or have receipt of a Permit-to-Work, Sanction-for-Test or Limitation-of-Access.
+
+
+---
+
+## 第 23 頁 — 4 WORKING ON AND TESTING HIGH VOLTAGE EQUIPMENT
+
+來源：[2223.jpg](sources/2223.jpg) · [本頁影像](sources/2223.jpg)
+
+4 WORKING ON AND TESTING HIGH VOLTAGE EQUIPMENT
+
+4.1 General
+
+General 23
+
+4.2
+
+Operation of High Voltage Switchgear 23
+
+General
+
+4.3 Testing at High Voltage
+
+23
+
+General 23
+
+Live Voltage and Phasing Tests
+
+4.4 High Voltage Enclosures
+
+General 24
+
+Entry into High Voltage Enclosures 24
+
+Table HVI - Procedures to be carried out by an Senior Authorised Person to enable work on High Voltage Equipment 25
+
+Table HV2 - Procedures to be carried out by an Senior Authorised Person to enable testing of High Voltage Equipment 26
+
+
+---
+
+## 第 24 頁 — 原圖部分遮擋 · 4 · Working on and Testing HV Equipment
+
+來源：[2425.jpg](sources/2425.jpg) · [本頁影像](sources/2425.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+4.1 Rules for Working on and Te
+
+General
+
+All work or testing carried out on the HV system will be in accordance with table HVI and HV2 respectively.
+
+Under no circumstance shall any person touch any HV conductor unless the conductor has been proved dead by the use ofa HV potential indicator. The potential indictor must be verified as operational prior to and immediately after its use.
+
+4.2 Operation of High Voltage Switchgear
+
+General
+
+In an emergency High Voltage Switchgear in service may be switched off or tripped off by any person. If they believe they are reducing the danger. That person, without delay and with some urgency, is to advise the Duty Authorised Person of the action taken. In normal circumstances High Voltage Switchgear is to be operated only by:
+
+a Duty Senior Authorised or Authorised Person.
+
+a Competent Person acting on the verbal instructions of the Duty Senior Authorised or Authorised Person who is personally supervising the operation of the switchgear.
+
+4.3 Testing at High Voltage
+
+General
+
+When tests are to be applied to High Voltage Equipment, a Sanction for Test is to be issued to the Competent Person who is to be present throughout the duration of the tests. If a voltage greater than low voltage will be present, the areas containing exposed live conductors, test equipment and any High Voltage test connection are to be regarded as High Voltage Enclosures. Unauthorised access to a High Voltage Enclosure is to be prevented by, as a minimum, red and white striped tape, not less than 25mm wide, suspended on posts, and by the display of Danger Signs. A Safety Person is to be present throughout the duration of the tests, and the area is to be continually watched while testing is in progress.
+
+Live Voltage and Phasing Tests
+
+Where live phasing tests are to be undertaken, the area containing exposed live conductors is to be regarded as a High Voltage Enclosure.
+
+Approved test equipment used for Live Voltage and Phase Testing at High Voltage is to be tested immediately before and after use against a High Voltage test supply designed for the purpose.
+
+Note Al/ High Voltage potential indicators are norma//y supplied with a proving unit. all potentia/ indicators must be proved before and after use.
+
+Live Voltage and phasing tests on High Voltage equipment may only be undertaken by a Duty Senior Authorised Person, with assistance if necessary, from a Competent Person acting on the verbal instructions from the Duty Senior Authorised Person. Neither a Permit to Work nor a Sanction to Test is required, but the Duty Senior Authorised Person and any assistant are to be accompanied by a
+
+Safety Person
+
+nss
+
+
+---
+
+## 第 25 頁 — 4.4 High Voltage Enclosures
+
+來源：[2425.jpg](sources/2425.jpg) · [本頁影像](sources/2425.jpg)
+
+4.4 High Voltage Enclosures
+
+General
+
+NO person other than the Duty Senior Authorised Person using a high voltage potential indicator designed for the purpose shall be engaged in any work activity on or near any live conductor (other than one covered With insulating material so as to prevent danger) where danger may arise. Except within a High Voltage Enclosure, access to live conductors shall only be possible with the use of a tool or key.
+
+Entry into a High Voltage Enclosure
+
+A High Voltage Enclosure may only be entered by: a. the Duty Senior Authorised Person accompanied by a Safety Person.
+
+b. a Competent Person acting on the verbal instructions of and personally supervised by the Duty Senior Authorised Person.
+
+C. the Competent Person in receipt of a Sanction for Test, accompanied by a Safety Person, when a High Voltage Enclosure is created as part of the test procedure.
+
+d. an assisting Competent Person acting on the verbal instructions of and personally supervised by the Competent Person in receipt of a Sanction for Test, when a High Voltage Enclosure is created as part of the test procedure.
+
+e. a Safety Person, in connection with their safety role.
+
+
+---
+
+## 第 26 頁 — Table HV1 — Work on High Voltage Equipment
+
+來源：[2627.jpg](sources/2627.jpg) · [本頁影像](sources/2627.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+Table HV1
+
+[原圖表題部分被綠色區塊遮擋；以下為可見表格文字。]
+
+STEPS IN COLUMN 1 ARE TO BE UNDERTAKEN IN NUMERICAL ORDER
+
+The Senior Authorised Person is responsible for all tasks
+
+| COLUMN 1 | COLUMN 2 |
+|---|---|
+| EQUIPMENT | High Voltage Equipment. |
+| STEP 1 — PREPARE A SWITCHING SCHEDULE | Prepare a Switching Schedule and Isolation and Earthing Diagram in duplicate and obtain a countersignature from another Senior Authorised Person.<br><br>Sign on as Duty Senior Authorised Person, place notices in mimic, check mimic diagram before proceeding to Step 2. |
+| STEP 2 — ISOLATE AND FIX SIGNS | Isolate from all sources of supply.<br><br>Prevent unauthorised connection by fixing Safety Locks and Caution Signs at points of isolation.<br><br>Fix Danger Signs on live equipment adjacent to the Point of Work. |
+| STEP 3 — PROVE DEAD | Prove dead, with a high voltage potential indicator, at all accessible points of isolation (where appropriate, prove dead on the Low Voltage side of A transformer, ie, LV Feeder Pillars, LV Distribution Boards etc.). |
+| STEP 4 — EARTH | Earth conductors at all Points of Isolation and prevent unauthorised disconnection by fixing Safety Locks.<br><br>Identify with certainty or spike underground cables at the Point/s of Work if the conductors are to be cut or exposed.<br><br>Earth overhead lines near the working places. |
+| STEP 5 — ISSUE THE PERMIT TO WORK | The Competent Person is to be shown the Isolation and Earthing Diagram and the safety arrangements at all the point/s of isolation and at the Point/s of the Work.<br><br>Issue the Permit to Work, Isolation and Earthing Diagram and the Competent Person's key to the Safety Key Box to the Competent Person. |
+| STEP 6 — UNDERTAKE THE WORK | The Competent Person is to undertake or directly supervise the work and, on completion, or when the work is stopped and made safe, is to return the original of the Permit to Work, Isolation and Earthing Diagram and the Competent Person's key to the Safety Key Box to the Duty Senior Authorised Person and complete Part 3 of the Permit retained in the pad. |
+
+
+---
+
+## 第 27 頁 — Table HV2 - Procedures to be carried out by a Senior Authorised Person to enable
+
+來源：[2627.jpg](sources/2627.jpg) · [本頁影像](sources/2627.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Table HV2 - Procedures to be carried out by a Senior Authorised Person to enable
+testing of High Voltage Equipment
+STEPS IN COLUMN 1 ARE TO BE UNDERTAKEN IN NUMERICAL ORDER
+The Senior Authorised Person is res onsible for all tasks
+COLUMN 1 COLUMN 2
+EQUIPMENT
+High Voltage Equipment
+STEP 1
+Prepare a Switching Schedule and Isolation and Earthing Diagram in duplicate and
+PREPARE A obtain a countersignature from another Senior Authorised Person.
+SWITCHING Sign on as Duty Senior Authorised Person, place notices in mimic, Check mimic
+SCHEDULE diagram before proceeding to Step 2.
+STEP 2
+Isolate from all sources of supply.
+ISOLATE AND Prevent unauthorised connection by fixing Safety Locks and Caution Signs at points
+FIX SIGNS of isolation.
+Fix Danger Signs on live equipment adjacent to the Point of Test.
+If a High Voltage enclosure is required set up barriers and fix Danger Signs.
+STEP 3
+Prove Dead, with a High Voltage Potential Indicator, at all accessible points of
+PROVE DEAD isolation (where appropriate, Prove Dead on the Low Voltage side of the transformer,
+ie, LV Feeder Pillars, LV Distribution Boards etc).
+STEP 4
+Earth conductors at all points of isolation.
+EARTH Fix Working Locks to Earths if their removal is required during the test. If the earth is
+not to be removed during the test prevent unauthorised disconnection by fixing Safety
+Locks.
+Identify cables with certainty at the Point of Test and at the distant end.
+Earth overhead lines near the Point of Test.
+STEP 5
+The Competent Person is to be shown the Isolation and Earthing Diagram and the
+ISSUE THE safety arrangements at all the points of Isolation and at the locations of the Test.
+SANCTION Issue the Sanction for Test, Isolation and Earthing Diagram and the Competent
+FOR TEST Person's key to the Safety Key Box. Senior Authorised Person retains Working Lock
+Keys and is to remove and replace Earths as requested,
+STEP 6
+The Competent Person is to undertake or directly supervise the Test and on
+UNDERTAKE satisfactory completion of the Test, or when the Test is stopped and made safe, the
+THE TEST conductors are to be discharged and any Earths restored.
+The Competent Person returns the original of the Sanction for Test, Isolation and
+Earthing Diagram and the Competent Person's key to the Safety Key Box to the Duty
+Senior Authorised Person and completes Part 3 of the sanction retained in the pad.
+```
+
+
+---
+
+## 第 28 頁 — 原圖部分遮擋 · 5 · Documentation
+
+來源：[2829.jpg](sources/2829.jpg) · [本頁影像](sources/2829.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+T,eæ—,. 5.1 Switching Schedules 28
+
+Genera/ 28
+
+Contents of Switching Schedules 29
+
+Implementing Switching Schedules 29
+
+Completion of Switching Schedules
+
+5.2 Isolation and Earthing Diagram 29
+
+Genera/ 30
+
+Implementing /so/ation and Earthing Diagram 30
+
+Completion of the Work or Test
+
+5.3 Permit to Work 30
+
+Genera/ 30
+
+Issue and Acceptance of Permits to Work 31
+
+Completion of the Work and Cancellation of the Permit to Work
+
+54 Sanction for Test
+
+Genera/ 32
+
+Issue and Acceptance of Sanction for Test 32
+
+33
+
+Comp/etion of the Test and Cancellation of the Sanction for Test
+
+5.5 Limitation of Access
+
+Genera/ 34
+
+Issue and Acceptance of Limitation of Access 34
+
+Completion of the Work and Cancellation of the Limitation of Access 35
+
+5.6 Operating Records
+
+Genera/ 36
+
+Log Book 36
+
+Operationa/ Procedure Manua/ 37
+
+Operating and Maintenance Manuals 37
+
+
+---
+
+## 第 29 頁 — 5.1 Switching Schedules
+
+來源：[2829.jpg](sources/2829.jpg) · [本頁影像](sources/2829.jpg)
+
+5.1 Switching Schedules
+
+General
+
+Prior to the issue of any Permit to Work, Sanction for Test, a Switching Schedule, detailing the intended sequence of safety operations to be performed to make the equipment safe for the execution of the work or test, is to be prepared. When a Switching Schedule has been completed it should be countersigned by another Senior Authorised Person who has a detailed working knowledge of the particular system involved.
+
+A Switching Schedule shall have the format of shown in Appendix A2 printed in black on pale green paper, It shall have an original and a duplicate of each page, and each page of a programme shall bear the same pre-printed serial number. Pads of numbered forms shall be used in sequence.
+
+Contents of Switching Schedules
+
+The Switching Schedule is to be completed in duplicate by the Senior Authorised Person who wili be responsible for issuing the Permit to Work or Sanction for Test and is to indicate:
+
+the name, signature and location of the originating Senior Authorised Person.
+
+(ii) the name, signature and location of the countersigning Senior Authorised Person.
+
+(iii) the date the countersigned programme is to commence.
+
+(iv) the purpose of the purposed Work or Test.
+
+(v) the equipment that the proposed sequence of operations will make safe for the Work or Test to be undertaken.
+
+(vi) the sequence of operations to be undertaken up to and including the issue of a Permit to Work or Sanction for Test, including:
+
+(a) the location, including any name and identification code, at which each operation is to be performed.
+
+(b) the identity of each item of switchgear to be operated (this should be what is stated on the local label on the equipment or alternatively the generic type, manufacture's name and type reference).
+
+(c) the operation to be performed.
+
+(d) the reason for the operation. any "Items Required" (for example: keys, locks, Safety Signs, Protective Equipment, handles, document, etc.).
+
+the requirement for an Safety Person for a specific operation.
+
+(vii) any intended special instructions or safety measures are to be included on the Permit to Work or Sanction for Test.
+
+(viii) Confirmation, where applicable, that prior notification has been given to persons and/or departments who will be affected by the proposed operations and that contingency plans, where required for critical areas, can be implemented in an emergency.
+
+Implementing Switching Schedules
+
+Before commencing the sequence of operations detailed on the countersigned Switching
+
+
+---
+
+## 第 30 頁 — Schedule, the Duty Senior Authorised Person is to confirm that the person(s) responsible for the
+
+來源：[3031.jpg](sources/3031.jpg) · [本頁影像](sources/3031.jpg)
+
+Schedule, the Duty Senior Authorised Person is to confirm that the person(s) responsible for the day to day operational management of the areas to be affected by the intended work or test are fully aware of the effect this will have on the electrical supplies to the affected area.
+
+Before commencing the sequence of operations detailed on the countersigned Switching Schedule, the duplicate is to be placed in the Operational Procedure Manual.
+
+The Duty Senior Authorised Person is to refer to the original of the Switching Schedule while carrying out the sequence of operations detailed on the programme.
+
+The Duty Senior Authorised Person is to note on the original copy of the Switching Schedule the date and time of each switching operation for subsequent entry into the Log Book. The serial number of the Permit or Sanction should be entered on the Switching Schedule as a cross reference.
+
+Completion of Switching Schedules
+
+On completion, remove the duplicate Switching Schedule filed in the Operational Procedure Manual and replace with the original copy..
+
+All original copies of completed Switching Schedules are to be retained in the Operational Procedure Manual for three years following the date of implementation.
+
+5.2 Isolation and Earthing Diagram
+
+Genera/
+
+Prior to the issue of any Permit to Work, or Sanction for Test, an Isolation and Earthing Diagram shall be completed illustrating the safety arrangements at the points of isolation and the place of work, which have been implemented to make the equipment safe for the execution of the work or test,
+
+An Isolation and Earthing Diagram shall be printed in black on pale green paper. It shall have an original and a duplicate of each page and each page of a diagram shall bear the same pre-printed serial number.
+
+Pads of numbered forms shall be used in sequence
+
+An Isolation and Earthing Diagram shall show:
+
+the name, signature and location of the originating Senior Authorised Person.
+
+b. the name, signature and location of the countersigning Senior Authorised Person.
+
+c. the date the countersigned programme is to commence.
+
+d. the purpose of the proposed Work or Test.
+
+the equipment that the proposed sequence of operations will make safe for the Work or Test to be undertaken.
+
+the cables and equipment to be worked on or tested,
+
+g the points of Isolation
+
+h the points of Earthing
+
+the points of Work or Test.
+
+j any safety locks and signs fitted
+
+
+---
+
+## 第 31 頁 — Implementing Isolation and Earthing Diagram
+
+來源：[3031.jpg](sources/3031.jpg) · [本頁影像](sources/3031.jpg)
+
+Implementing Isolation and Earthing Diagram
+
+Before commencing the sequence of operations detailed on the countersigned Isolation and Earthing Diagram, the duplicate is to be placed in the Operational Procedure Manual.
+
+The Duty Senior Authorised Person is to note on the original copy of the Isolation and Earthing Diagram the serial number Safety Programme and the Permit or Sanction to enable them to be cross-referenced.
+
+The Duty Senior Authorised Person is to show the Isolation and Earthing Diagram to the Competent Person indicating the safety arrangements at the points of isolation and earthing at the point/s of the work or test. The Competent Person the will sign the document to indicate an understanding of the safety arrangements in place.
+
+The Isolation and Earthing Diagram is then to be attached to the Permit to Work or Sanction for Test prior to its issue.
+
+On completion of the Work or Test the Isolation and Earthing Diagram must be returned to the Senior Completion of the Work or Test. Authorised Person who should then remove the duplicate held in the Operational Procedure Manual and replace it with the original copy attaching it to the relevant Switching Schedule
+
+All original copies of completed Isolation and Earthing Diagrams are to be retained in the Operational Procedure Manual for three years following the date of implementation.
+
+5.3 Permit to Work
+
+General
+
+A Permit to Work shall be issued by the Duty Senior Authorised Person to a Competent Person before any work on defined items of equipment is started. The items of equipment requiring a permit to be issued are defined in Tables HVI of these Rules.
+
+A Permit to Work shall have the format of as shown in Appendix A2, printed in black on pale blue paper. It shall have an original and a duplicate page for Parts 1 and 2 a single page for Parts 3 and 4. Each page of a Permit shall bear the same serial number. Pads of numbered forms shall be used in sequence.
+
+Only one pad of Permit to Work Forms is to be used for each geographical area for which an Authorised Person is on duty. When not in use, the pads of Permit to Work forms are to be kept in the lockable document cabinet.
+
+A Permit to Work is not to be issued for any item of equipment for which an existing Permit to Work or, Sanction for Test, remains valid, nor for any equipment which is within an area for which a Limitation of Access exists unless a risk assessment indicated that it is safe to do so.
+
+Except where an Senior Authorised Person is to undertake the work personally, Permits to Work are to be issued only to Competent Persons.
+
+Issue and Acceptance of Permits to Work
+
+Permits to Work are to be issued at the location of the work to be undertaken. The issue and cancellation of every permit is to be recorded in the Log Book.
+
+Prior to offering a Permit to Work to a Competent Person, the Senior Authorised Person is to:
+
+physically identify by marking the equipment to be worked on. in the presents of the
+
+Competent Person
+
+show the Competent Person the diagram on the Isolation and Earthing Diagram and the safety arrangements at the points of isolation and at the point of work.
+
+
+---
+
+## 第 32 頁 — (iii) explain in detail to the Competent Person the exact extent of the work to be
+
+來源：[3233.jpg](sources/3233.jpg) · [本頁影像](sources/3233.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+(iii) explain in detail to the Competent Person the exact extent of the work to be undertaken.
+
+(iv) draw the attention of the Competent Person to any special instructions or safety measures noted in Part 1 of the permit.
+
+(v) demonstrate to the satisfaction of the Competent Person that the equipment is dead and safe to work on..
+
+(vi) where it is not practical to prove the equipment dead prior to issuing a Permit to Work, the Duty Senior Authorised Person having issued the Permit is to remain with and supervise the Competent Person in the removal of covers or plates. The Senior Authorised Person must confirmed dead by the use of a High Voltage potential indicator (or voltage test indicator for confirming dead at the low voltage conductors of a High Voltage transformer) any exposed conductors within the work area before allowing the Competent Person to assume control of the work.
+
+Prior to acceptance of the Permit to Work, the Competent Person, having understood the work to be undertaken and being prepared to carry it out, is to sign to accept any special instructions or safety measures noted in Part 1 of the Permit and is to complete and sign Part 2. The signature on Part 2 renders the original of Parts 1 and 2 of the Permit valid for the defined work, which is then issued, to the Competent Person. The Senior Authorised Person retains the duplicate of Part I and 2 with Parts 3 and 4 in the permit pad.
+
+After accepting the Permit to Work the Competent Person becomes responsible for personally supervising or undertaking the defined work. The Competent Person is not to leave the location of the work, or to undertake other work or tests while the defined work is in progress. During any temporary absence of the Competent Person from the location of the work, the work is to be suspended, and adequate safety precautions taken until the work is resumed on the return of the Competent Person.
+
+Completion of the Work and Cancellation of the Permit to Work 
+Having completed the work, withdrawn all persons, materials, instruments and tools from the location of the work and advised all persons associated with the work that it is no longer safe to work on the equipment, the Competent Person is to complete and sign Part 3 of the Permit retained in the pad, and return the original of Parts 1 and 2 to the Duty Senior Authorised Person. Where the work has been stopped the same procedures apply but in addition the Competent Person confirms that the equipment has been made safe pending the issue of another Permit to Work or a Sanction for Test.
+
+The Duty Senior Authorised Person is to check that the work has been satisfactorily completed, and that the equipment is safe. The Duty Senior Authorised Person is then to cancel the Permit by destroying the original Parts 1 and 2, completing and signing Part 4 of the Permit retained in the pad. The duplicate page of Parts 1 and 2 and the completed page of Parts 3 and 4 are to be retained in the pad.
+
+If the Competent Person has lost the original of Parts 1 and 2 of the Permit the loss is to be recorded by the Duty Senior Authorised Person in Part 4 of the Permit in the pad and in the Log Book. The Competent Person is to countersign Part 4 to confirm the loss of the original. The loss of a Permit is to be reported to the Authorising Engineer.
+
+Completely filled pads of Permit forms are to be retained in the lockable document cabinet for three years after the date of cancellation of the last Permit issued from the pad.
+
+
+---
+
+## 第 33 頁 — 5.4 Sanctions for Test
+
+來源：[3233.jpg](sources/3233.jpg) · [本頁影像](sources/3233.jpg)
+
+5.4 Sanctions for Test
+
+General
+
+A Sanction for Test shall be issued by the Senior Authorised Person to a Competent Person before the commencement of any testing of equipment at high voltage. A Sanction for Test shall have the format shown in Appendix A2 printed in black on pale pink paper. It shall have an original and a duplicate page for Parts 1 and 2 and a single page for parts 3 and 4. Each page of a Sanction shall bear the same serial number. Pads of numbered forms shall be used in
+
+Only one pad of Sanction for Test forms is to be used for each geographical area for which a Senior
+
+Authorised Person is on duty. When not in use, the pads of Sanction for Test forms are to be kept in the relevant lockable document cabinet.
+
+A Sanction for Test is not to be issued for any item of equipment for which an existing Sanction for Test, Permit to Work, remains valid, nor for any equipment, which is within an area for which, a Limitation of Access exists.
+
+Except where a Senior Authorised Person is to undertake the test personally, Sanctions to Test are to be offered only to Competent Persons..
+
+Issue and Acceptance of Sanctions to Test
+
+Sanctions to Test are to be issued at the location of the test to be undertaken. The issue and cancellation of every sanction is to be recorded in the Log Book.
+
+Prior to offering a Sanction for Test to a Competent Person, the Authorised Person is to:
+
+physically identify to the Competent Person the equipment on which the test is to be undertaken.
+
+(ii) show the Competent Person the electrical diagram on the Isolation and Earthing Diagram and the safety arrangements at the points of isolation and at the point(s) of the test(s).
+
+(iii) explain in detail to the Competent Person the extent of the test to be undertaken.
+
+(iv) draw to the attention of the Competent Person any special instructions or safety measures noted in Part 1 of the sanction.
+
+(v) demonstrate to the satisfaction of the Competent Person that the equipment is dead and safe to test..
+
+(vi) where it is not practical to prove the equipment dead prior to issuing a Sanction for Test, the Duty Senior Authorised Person having issued the sanction is to remain with and supervise the Competent Person if conductors can be made accessible to an approved high voltage potential indicator (or voltage test indicator for proving dead at the low voltage conductors of a high voltage transformer). The Duty Senior Authorised Person is then to confirm the equipment dead before allowing the Competent Person to assume control of the test.
+
+(vii) If Circuit Main Earths are to be removed the Senior Authorised Person will operate the switch gear on the request of the Competent Person.
+
+Prior to accepting the Sanction for Test, the Competent Person, having understood the test to be undertaken and being prepared to undertake it, is to sign to accept any special instructions or safety measures noted in Part 1 of the sanction and is to complete and sign Part 2. The signature on Part 2 renders the original of Parts 1 and 2 of the sanction valid for the defined test, which is then issued, to the Competent Person. The Duty Senior Authorised Person retains the duplicate of Part 1 and 2 with Parts 3 and 4 in the sanction pad.
+
+
+---
+
+## 第 34 頁 — After accepting the Sanction for Test the Competent Person becomes responsible for personally
+
+來源：[3435.jpg](sources/3435.jpg) · [本頁影像](sources/3435.jpg)
+
+After accepting the Sanction for Test the Competent Person becomes responsible for personally supervising or undertaking the defined test. The Competent Person is not to leave the location of the test, or to undertake other work or tests while the defined test is in progress. During any temporary absence of the Competent Person from the location of the test, the test is to be suspended, and adequate safety precautions taken until the test is resumed on the return of the Competent Person.
+
+Completion of the Tests and Cancellation of the Sanction for Test Having completed the test, withdrawn all persons, materials, instruments and tools from the location of the test and advised all persons associated with the test that it is no longer safe to work on or test the equipment, the Competent Person is to complete and sign Part 3 of the Sanction retained in the Sanction for Test Padi and return the original of Parts 1 and 2 to the Senior Authorised Person. Where the test has been stopped the same procedures apply but in addition the Competent Person confirms that the equipment has been made safe pending the issue of another Sanction for Test or a Permit to Work.
+
+The Senior Duty Authorised Person is to check that the test has been satisfactorily completed, and that the Circuit Main Earths are reinstated and the equipment is safe. The Senior Authorised Person is then to cancel the Sanction for Test by destroying the original of Parts 1 and 2 and completing and signing Part 4 of the Sanction for Test retained in the Sanction for Test pad. The duplicate pages of Parts 1 and 2 and the completed page of Parts 3 and 4 are to be retained in the pad.
+
+If the Competent Person has lost the original of Parts 1 and 2 of the Sanction, the loss is to be recorded by the Authorised Person in Part 4 of the Sanction, in the pad and in the Log Book. The Competent Person is to countersign Part 4, to confirm the loss. The loss of a Sanction for Test is to be reported to the Authorising Engineer.
+
+Completely filled pads of Sanction for Test forms are to be retained in the lockable document cabinet for three years after the date of cancellation of the last Sanction for Test issued from the pad.
+
+
+---
+
+## 第 35 頁 — 5.5 Limitation of Access
+
+來源：[3435.jpg](sources/3435.jpg) · [本頁影像](sources/3435.jpg)
+
+5.5 Limitation of Access
+
+General
+
+In an area or location that is normally under the control of the Senior Authorised/Authorised Persons for electrical safety reasons, a Limitation of Access may be issued by the Duty Senior Authorised/Authorised Person for any specified task, other than one for which a Permit to Work, Sanction for Test is required.
+
+A Limitation of Access shall have the format shown in Appendix A2 printed in black on pale yellow paper. It shall have an original and a duplicate page for Parts 1 and 2 and a single page for parts 3 and 4. Each page of a Limitation of Access shall bear the same serial number. Pads of numbered forms shall be used
+
+Only one pad of Limitation of Access forms is to be in use for each geographical area for which an Senior Authorised/Authorised Person has been appointed. When not in use, the pads of Limitation of Access forms are to be kept in the lockable document cabinet.
+
+Provided that a risk assessment indicates that it is safe, a Limitation of Access may be issued for work to be undertaken in an area or location containing an item of equipment for which a Permit to Work remains valid.
+
+A Limitation of Access is not to be issued for any area for which a Sanction for Test remains valid, or where a high voltage enclosure has been set up.
+
+Where practicable, all items of live equipment at the location are to be cordoned off from the working area covered by a Limitation of Access for the duration of the task. This should be achieved by placing temporary barriers, comprising as a minimum, no entry warning tape or equivalent prominent markers, to define the non-accessible area.
+
+Danger signs are to be prominently displayed on all items of live electrical equipment at and adjacent to the location to which the Limitation of Access applies and whilst it remains valid.
+
+During the period the Limitation of Access remains valid, the Duty Senior Authorised/Authorised Person is to arrange for the area involved to be inspected at the end of each working period or day to ensure that:
+
+any flammable or hazardous materials introduced into the area during the work activity are removed when the activities cease at the end of each working period or day.
+
+(ii) Emergency escape routes, Emergency Exits and access to essential electrical equipment has not been obstructed.
+
+Issue and Acceptance of Limitations of Access
+
+A Limitation of Access may be offered to a person of any discipline who is competent to personally execute the work or to supervise the execution of the work by others. On accepting the Limitation of Access, that person becomes the responsible person and is personally responsible for undertaking or supervising the work, for which the access is required.
+
+Before issuing a Limitation of Access, the Duty Senior Authorised/Authorised Person shall positively identify the scope and the limits of the work to be carried out, and the physical extent of the work at the location.
+
+A Limitation of Access is to be issued at the place where the work is to be undertaken. The issue and cancellation of every Limitation of Access is to be recorded in the Log Book.
+
+Prior to offering a Limitation of Access to the prospective responsible person, the Authorised Person is to:
+
+Accompany the prospective responsible person to the location where the work is to be undertaken.
+
+Confirm with the prospective responsible person in detail the exact extent of the work activities to be undertaken, including the scope and limits.
+
+
+---
+
+## 第 36 頁 — 原圖部分遮擋 · 5 · Documentation
+
+來源：[3637.jpg](sources/3637.jpg) · [本頁影像](sources/3637.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+esponsible person the area in which the work is to be undertaken.
+
+(iv) Indicate to the prospective responsible person all items of live electrical equipment in or adjacent to the working area that are to be identified by Danger Signs.
+
+(v) Draw to the attention of the prospective responsible person any special instruction or safety measure noted in Part 1 of the Limitation of Access, and indicate the safety measures that have been applied by the Senior Authorised/Authorised Person.
+
+Prior to accepting a Limitation of Access, the prospective responsible person, having understood the scope, the extent of and the limits of the work to be undertaken and being prepared to undertake it, is to sign to accept any special instructions or safety measures noted in Part 1 and is to complete and sign Part
+
+2. The signature on Part 2 renders the original of Parts 1 and 2 of the Limitation of Access valid for the defined work and is issued to the responsible person. The Duty Senior Authorised/Authorised Person retains the duplicate pages of Part 1 and Part 2 with Parts 3 and 4 in the Limitation of Access pad.
+
+The acceptance of the Limitation of Access makes the responsible person responsible for personally undertaking or supervising the defined work. The responsible person is not to leave the location of the work, or to undertake any other activities while the work is in progress. During any temporary absence of the responsible person from the location of the work, the work is to be suspended and adequate safety precautions taken until the work is resumed on the return of the responsible person.
+
+A Limitation of Access is to be issued at the location of the work to be undertaken. The issue and cancellation of every Limitation of Access is to be recorded in the Log Book.
+
+Completion of the Work and Cancellation of a Limitation of Access Having completed the work, and having withdrawn all persons, materials, instruments and tools from the working place, the responsible person is to complete and sign Part 3 of the Limitation of Access in the pad, and return the original of Parts 1 and 2 to the Authorised Person.
+
+When the work has been completed, the Duty Senior Authorised/Authorised Person is to check that the location has been left in a clean and tidy condition and is secured against unauthorised access. The Duty Senior Authorised/Authorised Person is then to cancel the Limitation of Access by destroying the original of Parts 1 and 2 and completing and signing Part 4 retained in the pad. The duplicate pages of Parts 1 and 2 and the completed page of Parts 3 and 4 are to be retained in the pad.
+
+If the Authorised Person decides to stop the work, the Limitation of Access is to be withdrawn and cancelled. The withdrawal is to be noted in Part 4 of the Limitation of Access retained in the pad, and the reasons for the withdrawal and the actions taken are to be noted in the Log Book.
+
+If the responsible person has lost the original of Parts 1 and 2 of the Limitation of Access, the loss is to be recorded by the Duty Senior Authorised/Authorised Person in Part 4 of the Limitation of Access retained in the pad and in the Log Book. The responsible person is to countersign Part 4 to confirm the loss of the original. The loss ofa Limitation of Access is to be reported to the Authorising Engineer.
+
+Completely filled pads of Limitation of Access forms are to be retained in the Lockable Document Cabinet for three years after the date of cancellation of the last Limitation of Access issued from the pad.
+
+
+---
+
+## 第 37 頁 — 5.6 Operating Records
+
+來源：[3637.jpg](sources/3637.jpg) · [本頁影像](sources/3637.jpg)
+
+5.6 Operating Records
+
+General
+
+For each geographical area for which Authorised Persons have been appointed, records are to be kept as listed in the following sections. These records are to be accurate and kept up to date.
+
+Log Book
+
+For each geographical area for which Senior Authorised/Authorised Persons have been appointed a bound hard covered book (not loose leaf) with sequentially numbered pages and titled "Log Book" is to be prepared. The book is to be clearly and indelibly marked with the name of the Site, the location and the system or installation to which it refers and is to be kept in the Lockable Document Cabinet when not in use.
+
+The Log Book shall have the format as shown in Appendix A2 printed in black on white paper and be divided into the columns shown. The Log Book will be retained by and all entries made by the Duty Authorised Persons appointed for the particular geographical area.
+
+Log Book Entries
+
+Entries are to be made in chronological order, each entry being ruled off with a horizontal line across the page. Entries are to show:
+
+the acceptance and relinquishing of responsibility between Senior Authorised/Authorised Persons.
+
+(ii) the removal, return and the transfer of the Authorised Person's Key from the Authorised Person's Key Box.
+
+(iii) each individual operation of High Voltage switchgear and of low voltage distribution switchgear up to and including the Main LV Intake Switches.
+
+(iv) adjustment of the Mimic Diagram to indicate the present state of the system or installation.
+
+(v) the issue and return of any key for HV equipment, ie, switchgear, sub-stations, transformers etc.
+
+(vi) the issue, cancellation, loss or withdrawal of a Permit to Work, Sanction for Test, or Limitation of Access.
+
+(vii) the receipt, termination and remedial action associated with an Operational Restrictiom
+
+(viii) Spiking of a cable
+
+(ix) the withdrawal or replacement of the Authorised Person's Duplicate Key, and of any other duplicate keys.
+
+(x) The 3 monthly inspection of HV switchrooms and Substations
+
+(xi) the annual inspection of protective equipment, test equipment and the six monthly inspection off portable earthing equipment.
+
+Completely filled Log Books are to be retained in the Lockable Document Cabinet for a period of three years after the date of the last entry.
+
+
+---
+
+## 第 38 頁 — Operational Procedure Manual
+
+來源：[3839.jpg](sources/3839.jpg) · [本頁影像](sources/3839.jpg)
+
+Operational Procedure Manual
+
+For each geographical area for which Senior Authorised Persons have been appointed, a ring binder file entitled "Operational Procedure Manual" is to be prepared. The binder is to be clearly and indelibly marked with the name of the site, location, system or installation to which it refers and is to be kept in the 'Lockable Document Cabinet' when not in use.
+
+The Manual is to contain, in separate sections, a copy of each of the following: Certificate of Appointment issued to a Competent Person or for Contractor's Competent Person, a letter of competency from the contractor's employer.
+
+(ii) a register of Competent Persons including details and dates of training, issue dates and review dates of certificates, etc.
+
+(iii) Operational Restriction received.
+
+(iv) inspection report and details of any remedial work undertaken in connection with an Operational Restriction.
+
+(v) cancelled Operational Restriction.
+
+(vi) demarcation agreement with other organisations.
+
+(vii) demarcation agreement with contractors.
+
+(viii) any operational agreements with a Distribution Network Operator.
+
+(ix) the original copy of every approved and completed Switching Schedule, and Isolation and Earthing Diagram including any completed and subsequently not used.
+
+(x) details of protective equipment, test equipment and portable earthing equipment kept within the establishment, including specifications, operators or users instructions, maintenance instructions and, where appropriate, calibration records.
+
+Each document added to a section of the manual is to be sequentially numbered.
+
+Documents in the manual are to be retained for a period of three years after the date of their cancellation or termination.
+
+The Operational Procedure Manual is also to contain a reference copy of the current edition of these Rules.
+
+Operating and Maintenance Manuals
+
+For each geographical area for which Senior Authorised Persons have been appointed, one or more ring binder files entitled "Operating and Maintenance Manuals" is to be prepared. The binder is to be clearly and indelibly marked with the name of the site, location, system or installation to which it refers and kept in the lockable document cabinet when not in use.
+
+The ring binder is to contain:
+
+manufacturers' maintenance and operating instructions for each type of High Voltage and Low Voltage distribution switchgear installed in the system or installation, with test certificates and relevant records.
+
+(ii) a copy of any current Operational Restriction applicable to any equipment installed in the system or installation.
+
+(iii) A copy of the current 'As Installed' drawings of the system(s).
+
+
+---
+
+## 第 39 頁 — Operating Procedures
+
+來源：[3839.jpg](sources/3839.jpg) · [本頁影像](sources/3839.jpg)
+
+6
+
+Operating Procedures
+
+6-1 Operational Restrictions
+
+General 39
+
+6.2
+
+Keys, Key Cabinets and Mimic Diagrams
+
+Safety Locks 40
+
+Safety Key Boxes
+
+Key Plate System 40
+
+Key Control Box 40
+
+Suited Lock System
+
+Key Cabinets 41
+
+Lockable Document Cabinet 41
+
+Mimic Diagram 41
+
+6.3 The Use and Provision of Protective, Test and Earthing Equipment
+
+42
+
+Protective Equipment 42
+
+Test Equipment 42
+
+Earthing Equipment
+
+
+---
+
+## 第 40 頁 — 原圖部分遮擋 · 6 · Operating Procedures
+
+來源：[4041.jpg](sources/4041.jpg) · [本頁影像](sources/4041.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+perationa/ Restrictions
+
+eneral
+
+An Operational Restriction is specific information modifying the normal operating procedures associated with a particular type of equipment. A procedure shall be in place to ensure that each Operating Restriction received is passed as soon as reasonably practicable to each Duty Senior Authorised/Authorised Person for action.
+
+Any Duty Senior Authorised/Authorised Person receiving or discovering an Operational Restriction imposed by a Distribution Network Operator or equipment manufacturer is to notify the Authorising Engineer without delay.
+
+On receipt of an Operational Restriction, the Duty Senior Authorised Person is to:
+
+notify the Authorising Engineer that the restriction has been received and advise whether or not the subject equipment forms part of the systems or installations for which the Senior Authorised Person is responsible.
+
+record the receipt in the Log Book.
+
+(iii) ensure that a copy of the operational restrictions signed by each Senior Authorised/Authorised Person appointed for the system or installation is placed in the Operational Procedure Manual.:
+
+(i) Where the equipment to which the Operational Restriction refers forms part of the local systems and installations, the Duty Senior Authorised Person is to place a copy of the Operational Restriction, signed by each Senior Authorised/Authorised Person, in the Operating and Maintenance Manual.
+
+(ii) arrange for any inspection and remedial work required.
+
+(iii) where the Mimic Diagram depicts the equipment referred to in the restriction, each item on the mimic is to be marked to indicate the existence of an Operating Restriction.
+
+(iv) Where considered necessary fix warning signs on each item of equipment involved.
+
+(v) report the satisfactory completion of any remedial works to the Authorising Engineer.
+
+(vi) The Duty Authorised Person is to ensure that copies of the inspection reports and details of any remedial work undertaken are placed in the Operating and Maintenance Manual and forwarded to the Authorising Engineer.
+
+On termination of an Operating Restriction:
+
+the copy of the Operational Restriction held in the Operational Procedure Manual is to be overwritten with the word "Cancelled" followed by the date of cancellation, countersigned by each Senior Authorised/Authorised Person and retained in the manual.
+
+(ii) the copy of the Operational Restriction held in the Operating and Maintenance Manuals folder is to be overwritten with the word "Cancelled" followed by the date of cancellation and retained in the manual.
+
+(iii) The termination of an Operational Restriction is to be recorded in the Log Book
+
+
+---
+
+## 第 41 頁 — 6.2 Keys, Key Cabinets and Mimic Diagrams
+
+來源：[4041.jpg](sources/4041.jpg) · [本頁影像](sources/4041.jpg)
+
+6.2 Keys, Key Cabinets and Mimic Diagrams
+
+Safety Locks
+
+Before a Permit to Work is issued, and before a Competent Person commences work on, Safety Locks and Caution Signs are to be applied, wherever practicable, at all points of isolation and safety locks at all points where Circuit Main Earths are applied. Before a Sanction for Test is issued Safety Locks and Caution Signs are to be applied, wherever practicable, at all points of isolation, and safety/working locks at all points where Additional Earths are applied.
+
+The keys for Safety Locks currently in use by the Senior Authorised Persons in conjunction with the issue of Permits to Work, Sanctions to Test are to be placed in Safety Key Boxes.
+
+When not in use, Safety Locks and keys, are to be kept in the Working Key Cabinet.
+
+Safety Key Boxes
+
+A Safety Key Box is to have two locks, each of which is to have only one key, one being labelled "Safety Key Box - Competent Person", and the other "Safety Key Box — Senior Authorised Person". It is to be so arranged that both locks must be released before access can be gained to the contents of the box.
+
+The number of Safety Key Boxes provided for each site for which Senior Authorised Persons have been appointed is to be decided by the Authorising Engineer.
+
+Each Safety Key Box is to bear the name of the site and a serial number ensuring positive identification within the site.
+
+When in use each Safety Key Box is to contain the keys to Safety Locks associated with only one Permit to Work, or one Sanction for Test.
+
+After the Safety Locks have been applied, and before a Permit to Work, Sanction for Test is issued, the keys to all the Safety Locks are to be placed in a Safety Key Box and both locks of the box are to be secured. When the Permit or Sanction is issued, the Duty Senior Authorised Person is to retain the Senior Authorised Person's key and give the Competent Person's key to the Competent Person.
+
+The Competent Person is to retain the Competent Person's key until the Permit to Work, Sanction for Test is cancelled.
+
+When not in use the keys to Safety Key Boxes are to be kept in the Working Key cabinet.
+
+Key Plate System
+
+There is to be one key for each lock provided for:
+
+High Voltage Switchgear.
+
+(ii) the entrance to each Substation, Standby Set House and any building, part of a building or fenced area containing High Voltage Equipment.
+
+The keys for each Substation are to be held on an appropriately sized key plate that is to bear the identification of the Substation, Building or item of equipment to which the keys belong, or the purpose for which each key is intended.
+
+Key Box Control Box
+
+A Key Box with a Combination Lock is to be installed adjacent to the Working Key Cabinet. The Senior Authorised/Authorised Person's Key is to be kept locked in this box when not being used by the Duty Senior Authorised/Authorised Person. No other keys are to be kept in this box.
+
+All Senior Authorised/Authorised Persons appointed for the system or installations are to know the combination for the lock. No other person shall know the combination. The combination lock settings are to be changed annually or whenever it is suspected that the setting has been compromised.
+
+
+---
+
+## 第 42 頁 — If an Senior Authorised/Authorised Person's certificate expires and is not renewed, or is withdrawn, the
+
+來源：[4243.jpg](sources/4243.jpg) · [本頁影像](sources/4243.jpg)
+
+If an Senior Authorised/Authorised Person's certificate expires and is not renewed, or is withdrawn, the Authorising Engineer shall, as soon as reasonably practicable, change the combination.
+
+Suited working Lock System
+
+A system of suited locks may be provided on the written authority of the Authorising Engineer that must fully document, as a minimum:
+
+the system of suiting to be used.
+
+the levels of access allowed.
+
+(iii) the number of keys allowed for each level of access.
+
+(iv) the level of security required for the keys.
+
+(v) who the keys may be held by and for what purpose.
+
+(vi) plus any other relevant information required by the Authorising Engineer.
+
+Where keys to suited locks are issued to persons other than an Senior Authorised/Authorised Person, the specific use and purpose intended for the key is to be detailed and if applicable a Limitation of Access issued to that person,
+
+Key Cabinets
+
+Except for any key plates in use, the working key plates are to be kept in a closed and securely locked Working Key Cabinet installed with the Mimic Diagram and the Lockable Document Cabinet, in a room to which the Senior Authorised/Authorised Persons have free access at all times.
+
+The Working Key Cabinet key labelled "Authorised Person", is to be held either:
+
+by the Duty Senior Authorised/Authorised Person while operating the system or installation or while Permits or Sanctions are being issued and cancelled or
+
+(ii) in the Authorised Persons Key Box.
+
+The "Authorised Persons key" should preferably be a single key giving access to the working keys and mimic diagram and all the documentation required in the application of these Rules.
+
+A spare key, labelled "Authorised Person - Duplicate", is to be kept in a glass-fronted box in a constantly manned location on the site. This box is to be designed so that the glass front has to be broken to gain access to the key.
+
+A notice is to be affixed near to the glass-fronted box stating, "Only the persons listed have authority to break the glass and withdraw the key". This is to be followed by a current list of Senior Authorised/Authorised Persons appointed for the systems and installations to which the key relates. The Authorising Engineer is to ensure that this list is kept up to date.
+
+Lockable Document Cabinet
+
+All documents specified in these Rules are to be kept in a Lockable Document Cabinet situated in the same room as the Working Key Cabinet. The Lockable Document Cabinet is to be kept locked when not in use and the key kept in the Working Key Cabinet.
+
+Mimic Diagram
+
+Either a glass covered or electronic Mimic Diagram is to be provided for any high voltage distribution system that includes a ring circuit, an automatic start generating set or a fixed uninterruptible power supply. A Mimic Diagram may also include, or be provided for, other electrical systems or installations.
+
+Where provided the Mimic Diagram is to be permanently installed in the same room as the Working Key Cabinet. The glass cover of the Mimic Diagram is to be kept locked to prevent unauthorised adjustment of the diagram. Adjustment of an electronic mimic is only to be possible using the Authorised Persons key or a password.
+
+A Mimic Diagram is to show as a minimum the electricity distribution system and Equipment that is under
+
+
+---
+
+## 第 43 頁 — the control of the Senior Authorised/Authorised Person, from all sources of supply up to and including Low
+
+來源：[4243.jpg](sources/4243.jpg) · [本頁影像](sources/4243.jpg)
+
+the control of the Senior Authorised/Authorised Person, from all sources of supply up to and including Low Voltage main intake switchgear. The switching equipment symbols shall incorporate the facility to indicate whether the switch contacts are 'On', 'Off or 'Earthed'. The Mimic Diagram should reflect the current operational state of the system it represents at all times and any adjustments made recorded in the Log Book.
+
+6.3 The Use and Provision of Protective, Test and Earthing Equipment
+
+Protective Equipment
+
+Appropriate Protective Equipment is to be provided by the company. It shall be readily available at all times to those who need it. It is to be worn or used whenever necessary to avoid danger and injury, and as required by these Rules. Examples of suitable Protective Equipment are given in Appendix A4.
+
+Only Protective Equipment suitable for the purpose is to be provided by the company and its contractors. Protective Equipment provided by the Competent Person employed by a contractor may be used if the Duty Senior Authorised Person agrees. Such use is to be recorded on the permit or sanction.
+
+Protective Equipment is to be inspected by the user for visible defects before and after use any suspect item is not to be used. Suspect items are to be reported to the Duty Senior Authorised Person who is to consider its withdrawal and its replacement.
+
+A Duty Senior Authorised Person is to inspect each item of Safety Equipment provided by the company at least once a year for defects and wear and is to take remedial action where necessary. These inspections are to be recorded in the Log Book.
+
+Test Equipment
+
+The Duty Senior Authorised Person is to arrange for the necessary Test Equipment to be available when required. Examples of suitable Test Equipment are given in Appendix A4.
+
+Test Equipment is to be inspected by the user for visible defects on each occasion before and after use.
+
+A Duty Senior Authorised Person is to inspect each item of Test Equipment provided by the company at least once a year for defects and is to take remedial action where necessary. These inspections are to be recorded in the Log Book.
+
+Test Equipment is to be maintained and, where appropriate, re-calibrated, in accordance with the manufacturer's instructions.
+
+Earthing Equipment
+
+Proprietary Earthing Equipment shall be used where available, where none is available. a suitable device designed for the purpose is to be used.
+
+Portable Earthing Equipment is to be inspected by the user before and after use.
+
+A Duty Senior Authorised Person is to inspect Portable Earthing Equipment provided by the company every 6 months and the inspection recorded in the Log Book.
+
+
+---
+
+## 第 44 頁 — 原圖部分遮擋 · 7 · Health and Safety
+
+來源：[4445.jpg](sources/4445.jpg) · [本頁影像](sources/4445.jpg)
+
+> 原圖有綠色遮擋，部分標題或正文無法辨讀；未補猜缺字。
+
+7 H
+
+7.1 Dan 44
+
+72 Display of Permanent Safety Signs and Posters 44
+
+Display of Permanent Safety Signs 44
+
+Display of Posters
+
+Emergency First Aid Training
+
+45
+
+General 45
+
+Contractors Staff
+
+7.4 Audit of Safe Systems of Work and Safety Procedures
+
+45
+
+Authorising Engineers 47
+
+Senior Authorised Persons
+
+
+---
+
+## 第 45 頁 — 7.1 Dangerous Occurrences
+
+來源：[4445.jpg](sources/4445.jpg) · [本頁影像](sources/4445.jpg)
+
+7.1 Dangerous Occurrences
+
+General
+
+A Dangerous Occurrence is to be reported to the Duty Senior Authorised Person by Competent Persons as soon as reasonably practicable.
+
+The Duty Senior Authorised Person is, without delay or as soon as practicable, to send a preliminary report of the Dangerous Occurrence to the Authorising Engineer.
+
+Any notifications and reports required to satisfy Statutory or other company requirements are to be issued in addition to requirements
+
+The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995, will require certain dangerous occurrences and accidents to be reported to the Enforcing Authority (HSE).
+
+The Authorising Engineer is to investigate each Dangerous Occurrence and issue a report to the Director with responsibilities for engineering. The report is to be sufficiently detailed to enable the sequence of events leading to the occurrence to be determined. Where reasonably practicable the report is to include photographs taken before any items of equipment involved in the Dangerous Occurrence are disturbed.
+
+7.2 Display of Permanent Safety Signs and Posters
+
+Display of Permanent Safety Signs
+
+Permanent Safety Signs are to be securely and permanently fixed in accordance with the clauses in this section.
+
+A Warning sign is to be displayed on any pole that supports high or low voltage conductors or equipment.
+
+A Warning sign and a notice identifying the installation are to be displayed in a prominent position, at every angle of approach, outside every substation and high voltage standby set house to comply with The Electricity Safety, Quality and Continuity Regulations 2002. The notice identifying the installation is to include an address or telephone number where a person appointed by the owner of the equipment will be in constant attendance. The sign and notice may be combined.
+
+Where a 'Gas Flooding System' is installed in a Substation, or accommodation where 'High Voltage' is present, a safety sign with appropriate text shall be installed in a prominent position.
+
+Where the company has control of the electrical danger:
+
+a Remotely I Automatically Controlled Generating Set Sign is to be displayed on or adjacent to remotely or automatically controlled generating sets.
+
+Display of Posters
+
+Where the company has control of the danger, the Authorising Engineer is to carry out an assessment to determine the requirement and location for the display of information in connection with these Rules. Information is to be displayed permanently in suitable and prominent positions. The areas to be considered for the display of information in connection with these Rules are to include every Intake Substation, any Indoor Substation, every Workshop and each Senior AuthorisedlAuthorised Person's office.
+
+The only poster that must be displayed at the above locations is the Emergency Procedures for an Electric Shock Casualty (First Aid).
+
+
+---
+
+## 第 46 頁 — Other Information and posters to be displayed may include:
+
+來源：[4647.jpg](sources/4647.jpg) · [本頁影像](sources/4647.jpg)
+
+Other Information and posters to be displayed may include: The Electricity at Work Regulations 1989. Any of the Tables from these Rules.
+
+(iii) Other relevant Health and Safety Information.
+
+(iv) Single Line Drawing/s of the System/s.
+
+7.3 Emergency First Aid Training
+
+General
+
+Training in Emergency First Aid is to be provided by organisations whose training and qualifications for first aiders are approved by the Health and Safety Executive for the purposes of the Health and Safety (First-Aid) Regulations 1981.
+
+Training courses are to be of at least four hours contact time, and include the following subjects: resuscitation (as appropriate for the treatment of electric shock). treatment of burns.
+
+(iii) control of bleeding.
+
+(iv) treatment of the unconscious casualty.
+
+(v) contents of first aid box.
+
+(vi) communication. This training is to be repeated, as a minimum, every three years. Copies of certificates issued to Senior Authorised/Authorised Persons are to be held by the Authorising Engineer.
+
+Copies of the certificates issued by first aid trainers for Competent Persons and Safety Persons are to be held in the Operational Procedure Manual.
+
+A current list of first aiders for the appropriate locations, including, where appropriate, their telephone numbers, is to be held in the Operational Procedure Manual.
+
+Contractors Staff
+
+All contractors staff working on or testing electrical installations, systems and equipment for which the company has control of the electrical danger are to receive, as a minimum, the Emergency First Aid training indicated above.
+
+Copies of the certificates issued by first aid trainers for Contractor's Competent Persons and Safety Persons are to be held in the Operational Procedure Manual.
+
+7.4 Audit of Safe Systems of Work and Safety Procedures
+
+Authorising Engineers
+
+At random intervals not exceeding twelve months, the Authorising Engineer is to review the competency of all Senior Authorised/Authorised Persons. These reviews should pay particular attention to the operating records, the issue and cancellation of permits and sanctions and should formally advise on any training or retraining considered necessary including when it should be received. These reviews should include a meeting with the Senior Authorised/Authorised Person and a brief inspection of the systems or installations to which their appointment refers.
+
+At intervals not exceeding three years the Authorising Engineer is to undertake comprehensive audits of the safe systems ofwork and safety procedures required by these Rules. Separate audits are to be carried out for each site or geographical area or which the Authorising Engineer has appointed Authorised Persons.
+
+
+---
+
+## 第 47 頁 — As a minimum, the procedures listed below are to be checked as part of each three yearly audit:
+
+來源：[4647.jpg](sources/4647.jpg) · [本頁影像](sources/4647.jpg)
+
+As a minimum, the procedures listed below are to be checked as part of each three yearly audit:
+
+as part of a desk audit, review the annual audits and ensure that.
+
+each Limitation of Access, Switching Schedule, Permit to Work, Sanction for Test, issued has been correctly completed and used in accordance with these Rules.
+
+(b) each operation has been correctly recorded in the Log Book.
+
+(c) the Operational Procedure Manual contains all the information required by Section 5.6 and that it is being kept up to date.
+
+(d) all Competent Persons are being appointed in accordance with Section 2.5 and a record of each appointment is held in the Operational Procedure Manual.
+
+emergency first aid training of all Senior AuthorisedlAuthorised Persons and Competent Persons is up to date.
+
+(f) all Dangerous Occurrences have been correctly reported.
+
+(g) all Operating Restrictions have been correctly actioned.
+
+(h) all risk assessments are being correctly compiled and properly recorded.
+
+visit the site and check that:
+
+(a) Safety Signs and Posters are displayed in accordance with Section 7.2.
+
+(b) sufficient Safety Locks and Safety Key Boxes are held and correctly used.
+
+(c) the keys held on each working and duplicate key plates are correct and only operate the locks at the substation to which they refer. Key plates are correctly held in the working key cabinet.
+
+(d) where a suited key system has been approved, check that the keys have been correctly issued and review their use. Check and confirm that the instruction issued by the Authorising Engineer defining the way the suited key system is to be applied is being complied with and does not need to be amended.
+
+the Authorised Persons key is being held in the Authorised Persons Key Box and that the combination is only known by the current Authorised Persons for the system or installation to which it applies.
+
+all documents are being held in the Lockable Document Cabinet.
+
+(g) the Mimic Diagram correctly indicates the current configuration of the system.
+
+adequate protective, test and earthing equipment is held, all items are fit for the purpose and in good condition and that regular checks are being carried out and recorded.
+
+Switchgear and Equipment in use is being maintained and is in good condition, report on any deficiencies found.
+
+
+---
+
+## 第 48 頁 — Work on High Voltage equipment is being carried out in accordance with these Rules. Where considered
+
+來源：[4849.jpg](sources/4849.jpg) · [本頁影像](sources/4849.jpg)
+
+Work on High Voltage equipment is being carried out in accordance with these Rules. Where considered appropriate, initiate and witness switching operations carried out by a Senior Authorised Person from the writing and countersignature of Switching Schedules to the completion of the Log Book.
+
+A written report of the audit is to be compiled, listing satisfactory items seen and any deficiencies found and recommendations made: and is to be issued to the Duty Senior Authorised Person for action as necessary. A copy of the report with a summary of the findings is to be issued to the Director with responsibilities for engineering.
+
+The Duty Senior Authorised Person is to acknowledge receipt of the audit report, make any comments considered necessary and compile an action plan in consultation with the Authorising Engineer, The Authorising Engineer should review the progress on the action plan at the next audit.
+
+Senior Authorised Persons
+
+Senior Authorised Persons are to monitor the performance of Competent Persons and Contractors Competent Persons in carrying out their duties under these safety rules. Monitoring is to be carried out on a continuing basis and is to include:
+
+Visiting worksites and communicating on safety issues
+
+(ii) Visiting Substations, Switchrooms, and Electrical enclosures to ensure high standards of tidiness and availability of appropriate safety equipment.
+
+Senior Authorised Persons are to take action to rectify and report in writing to the Authorised Engineer on any deficiencies found. A copy of this report is to be placed in the Operational Procedure Manual.
+
+Senior Authorised Person must inspect all HV switchrooms and Substation at intervals not exceeding 3 months, the inspection should be recorded in the site log.
+
+
+---
+
+## 第 49 頁 — Appendices
+
+來源：[4849.jpg](sources/4849.jpg) · [本頁影像](sources/4849.jpg)
+
+Appendices
+
+
+---
+
+## 第 50 頁 — Appendix A 1
+
+來源：[5051.jpg](sources/5051.jpg) · [本頁影像](sources/5051.jpg)
+
+Appendix A 1
+
+Associated Regulations and Documents
+
+These Rules and procedures are based on and comply, where applicable, with the following Regulations and
+
+Documents: -
+
+Health and Safety at Work etc Act 1974. Management of Health and Safety at Work Regulations 1999.
+
+(iii) Approved Code of Practice for Management of Health and Safety at Work Regulations 1999.
+
+(iv) Electricity Safety, Quality and Continuity Regulations 2002.
+
+(v) Electricity at Work Regulations 1989.
+
+(vi) The Personal Protective Equipment Regulations 1992 (EC Directive).
+
+(vii) Manual Handling Operations Regulations 1992.
+
+(viii) Provision and Use of Work Equipment Regulations 1998.
+
+(ix) Construction (Design and Management) Regulations 1996.
+
+(x) Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995.
+
+(xi) Health and Safety (Safety Signs and Signals) Regulations 1996.
+
+(xii) Health and Safety (Display Screen Equipment) Regulations 1992
+
+(xiii) Health and Safety (First-Aid) Regulations 1981 Approved Code of Practice and Guidance.
+
+(xiv) Workplace (Health, Safety and Welfare) Regulations 1992.
+
+(xv) Memorandum of Guidance on the Electricity at Work Regulations 1989.
+
+(xvi) Requirements for Electrical Installations: IEE Wiring Regulations, BS 7671 2001.
+
+(xvii) Electrical Equipment for use by electricians. Guidance Note GS 38 issued by the Health and Safety Executive.
+
+(xviii) Electricity at Work: - Safe Working Practices. Health and Safety series booklet HS (G) 85 issued by the Health and Safety Executive.
+
+(xix) Inspection and Testing guidance Note 3, issued by the IEE.
+
+(XX) Code of Practice for in-service inspection and testing of electrical equipment, issued by the IEE.
+
+(xxi) Any Engineering Instructions issued by the Company.
+
+
+---
+
+## 第 51 頁 — Appendix A2
+
+來源：[5051.jpg](sources/5051.jpg) · [本頁影像](sources/5051.jpg)
+
+Appendix A2
+
+Safety Documentation (Model Forms)
+
+Permit to Work
+
+Sanction for Test 53
+
+Limitation of Access 55
+
+HV Log Book 57
+
+Switching Schedule 58
+
+Isolation and Earthing Diagram 60
+
+
+---
+
+## 第 52 頁 — PERMIT-TO-WORK
+
+來源：[5253.jpg](sources/5253.jpg) · [本頁影像](sources/5253.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+PERMIT-TO-WORK
+SITE SERIAL NUMBER
+PART 1 ISSUE
+The foliowing High- Voliage Equipment- Kas been made safe in accordance wiih Che Distribution Safety Rules for ihe
+work described on this Permit-to-Work to proceed :-
+TREAT ALL OTHER EQUIPMENT AS LIVE
+The oints of isolation are Safe Locks and Caution Si ns Fitted :-
+Dan er Si ns are laced at Ad-acent live e ui ment -- if None State NONE:-
+Circuit Main Earths are a lied at Safe Locks Fitted :-
+The followin work onl is to be carried out:-
+S ecial Instructions -- If None State NONE:-
+Senior Authorised Person Name
+Senior Authorised Person Time Date
+Si nature
+PART 2 RECEIPT
+I have received and understand Safety Isolation and Earthing Diagram Serial
+No
+I accept responsibility for the work described on this Permit to Work and for taking the precautions necessary to
+prevent danger.
+Competent Person Name
+Competent Person Signature Time Date
+```
+
+
+---
+
+## 第 53 頁 — PART 3 CLEARANCE
+
+來源：[5253.jpg](sources/5253.jpg) · [本頁影像](sources/5253.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+PART 3 CLEARANCE
+All persons under my charge have been withdrawn and warned that it is no longer safe to work on the Equipment
+detailed on this Permit-to-Work.
+The work is complete* / incomplete*
+All gear and tools have* / have not* been removed.
+Additional Earths have* / have not* been removed.
+*Delete words not applicable and where appropriate state:-
+Abnormalities are at (if none, state NONE)
+Additional earths are at (if none, state NONE)
+Competent Person Name
+Time Date
+Competent Person Signature
+PART 4 CANCELLATION
+This Permit-to-Work is cancelled
+Senior Authorised Person Name
+Senior Authorised Person Time Date
+Si nature
+```
+
+
+---
+
+## 第 54 頁 — SANCTION-FOR-TEST
+
+來源：[5455.jpg](sources/5455.jpg) · [本頁影像](sources/5455.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+SANCTION-FOR-TEST
+SITE SERIAL NUMBER
+PART 1 ISSUE
+the foliowing AigKVoliage EquipmeniKas been made safe in accordance w-iifi the Disiribution Safety Rules for-
+Testing described on this Sanction-for-Test to proceed :-
+TREAT ALL OfHER EQUIPMENi AS LIVE
+The oints of isolation are Safet Locks and Caution Si ns Fitted :-
+Dan er Si ns are laced at Ad'acent live e ui ment if None State NONE:-
+Circuit Main Earths area lied at Safe locks fitted unless earth to be removed for testin
+Earths that ma be removed for testin orkin Locks Fitted :-
+Brief descri tion of testin to be carried out:-
+S ecial Instructions If None State NONE:-
+Senior Authorised Person Name
+Senior Authorised Person Time Date
+Si nature
+PART 2 RECEIPT
+I have received and understand Safety Isolation and Earthing Diagram Serial
+No
+I accept responsibility for the work described on this Sanction-for-Test and for taking the precautions necessary to
+prevent danger.
+Competent Person Name
+Competent Person Signature Time Date
+```
+
+
+---
+
+## 第 55 頁 — PART 3 CLEARANCE
+
+來源：[5455.jpg](sources/5455.jpg) · [本頁影像](sources/5455.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+PART 3 CLEARANCE
+All persons under my charge have been withdrawn and warned that it is no longer safe to test the Equipment
+detailed on this Sanction-for-Test.
+The test is complete* / incomplete*
+All gear and tools have* / have not* been removed.
+The operational state of the Equipment is the same as at the time of issue of this Sanction-for-Test apart from the
+exceptions noted below.
+*Delete words not applicable and where appropriate state:-
+Exceptions (if none, state NONE)
+Competent Person Name
+Time Date
+Competent Person Signature
+PART 4 CANCELLATION
+This Sanction-for-Test is cancelled
+Senior Authorised Person Name
+Senior Authorised Person Time Date
+Si nature
+```
+
+
+---
+
+## 第 56 頁 — LIMITATION of ACCESS
+
+來源：[5657.jpg](sources/5657.jpg) · [本頁影像](sources/5657.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+LIMITATION of ACCESS
+SITE SERIAL NUMBER
+PART 1 ISSUE
+Permission is hereb iven to access the followin area:-
+Work to be undertaken:-
+No other work is to be carried out
+Hazards within the work area:-
+Dan er Si ns are laced at Ad-acent live e ui ment if None State NONE:-
+S ecial Instructions -- If None State NONE:-
+Authorised Person Name
+Authorised Person Signature Time Date
+PART 2 RECEIPT
+I accept responsibility for the work described on this Limitation-of-Access and no other work will be undertaken by
+me or the persons under my control..
+Competent Person Name
+Competent Person Signature Time Date
+```
+
+
+---
+
+## 第 57 頁 — PART 3 CLEARANCE
+
+來源：[5657.jpg](sources/5657.jpg) · [本頁影像](sources/5657.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+PART 3 CLEARANCE
+All persons under my charge have been withdrawn and warned that it is no longer safe to enter the area stated
+on this Limitation-of-Access
+The work is complete* I incomplete*
+All gear and tools have* I have not* been removed.
+The state of the area is the same as at the time of issue of this Limitation-of Access apart from the exceptions
+noted below.
+*Delete words not applicable and where appropriate state:-
+Exceptions (if none, state NONE)
+Competent Person Name
+Time Date
+Competent Person Signature
+PART 4 CANCELLATION
+This Limitation-of Access is cancelled
+Authorised Person Name
+Time Date
+Authorised Person Signature
+```
+
+
+---
+
+## 第 58 頁 — SITE LOG
+
+來源：[5859.jpg](sources/5859.jpg) · [本頁影像](sources/5859.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+> 橫向 Site Log 表單已旋轉為正向供閱讀。
+
+SITE LOG
+
+SITE / LOCATION
+
+| TIME AND DATE | LOCATION AND IDENTITY OF SWITCH | EVENT OR OPERATION AND REASON | SIGNATURE |
+|---|---|---|---|
+| | | | |
+
+[原圖為空白表單，沒有已填寫的操作紀錄。]
+
+Revision 3.5 · 58 · © Develop 2007
+
+
+---
+
+## 第 59 頁 — SWITCHING SCHEDULE
+
+來源：[5859.jpg](sources/5859.jpg) · [本頁影像](sources/5859.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+SWITCHING SCHEDULE
+Proposed Commencement Date Site Name
+Proposed Completion Date System Voltage
+Countersigning Senior Authorised Person
+Senior Authorised Person
+Name Name
+Date
+Signature Date Signature
+Equipment which the proposed sequence of Description of the proposed work or test
+operations will make safe to work on or test
+Underline each ent Items Time
+Date
+Entry Location and Operation and Reason Required
+No Equipment Identity
+```
+
+
+---
+
+## 第 60 頁 — SWITCHING SCHEDULE
+
+來源：[6061.jpg](sources/6061.jpg) · [本頁影像](sources/6061.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+SWITCHING SCHEDULE
+Continuation Sheet
+Number of Sheets Sheet of Serial Number
+Underline each ent Items Time
+Entry Location and Operation and Reason Required Date
+No Equipment Identity
+Senior Authorised Person Countersigning Senior Authorised Person
+Name Name
+Signature Date Signature Date
+```
+
+
+---
+
+## 第 61 頁 — Isolation and Earthing Diagram
+
+來源：[6061.jpg](sources/6061.jpg) · [本頁影像](sources/6061.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Isolation and Earthing Diagram
+(Complete precisely and legibly in BLOCK CAPITALS) Serial NO
+Switching Schedule No Date
+Permit to Work/Test No Date
+Pur oseof ro osed Work/Test
+E ui ment which the ro osed se uence Ofo erations will made safe to work on/Test
+Sketch of isolation and earthin arran ements
+Competent Person signature
+Competent Person name
+Countersigning Senior Authorised Person
+Senior Authorised Person
+Name
+Name Date
+Signature
+Date
+Signature
+```
+
+
+---
+
+## 第 62 頁 — Appendix A3
+
+來源：[6263.jpg](sources/6263.jpg) · [本頁影像](sources/6263.jpg)
+
+Appendix A3
+
+Model Safety Signs
+
+General
+
+The display of Permanent Safety Signs is dealt with in Section 7.2 of these Rules and Procedures. The display of Temporary Safety Signs is dealt with in the appropriate clauses of Section 3.3 of these Rules and Procedures.
+
+Permanent Safety Signs
+
+The following permanent Safety Signs are included in this Annex:
+
+Warning Sign
+
+Combined Warning Sign and Notice
+
+Temporary Safety Signs
+
+The following temporary Safety Signs are included in this Annex:
+
+Caution Sign
+
+Danger Sign
+
+Design Specification
+
+All signs, shall be to the sizes indicated.
+
+Safety Sign Pl (and where combined into P2) is to be designed to the proportion s prescribed in Schedule 1 of the Electricity Safety, Quality and Continuity Regulations 2002.
+
+The design and colours of the signs shall be to British Standards 5378 Parts 1 & 2 — 1980 and Part 3— 1982 as appropriate. Colours shall be to British Standard 5252 - 1976 as follows:
+
+Yellow 08E51
+
+Blue 18E53
+
+Red 04E53
+
+Signs shall be manufactured from laminated plastic, 3 mm thickness; or other similar non-metallic weather resistant material, thickness appropriate to the intended location and application.
+
+Non-corrosive materials are to be used when fixing permanent Safety Signs. Permanent signs shall not be fixed with adhesives.
+
+All temporary signs shall be provided with two 5mm diameter holes for a suspension cord. The holes shall be 10mm from the top edge and 30mm from each end for 150mm wide signs, and 50mm from each end for 200mm wide signs.
+
+All temporary Safety Signs shall be suspended on non-conducting cord.
+
+
+---
+
+## 第 63 頁 — Model Signs
+
+來源：[6263.jpg](sources/6263.jpg) · [本頁影像](sources/6263.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Signs
+Pl Substation Sign 1
+DANGER OF DEATH
+P2 Substation Sign 2
+ewnt of emet*aq, cortact
+DANGER OF DEATH
+High Voltage
+```
+
+
+---
+
+## 第 64 頁 — Caution Sign
+
+來源：[6465.jpg](sources/6465.jpg) · [本頁影像](sources/6465.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Caution Sign
+CAUTION
+PERSONS WORKING
+ON EQUIPMENT
+DO NOT
+SWITCH ON
+Danger Sign
+DANGER
+UVE ELECTRICAL
+EQUIPMENT
+```
+
+
+---
+
+## 第 65 頁 — Appendix A4
+
+來源：[6465.jpg](sources/6465.jpg) · [本頁影像](sources/6465.jpg)
+
+Appendix A4
+
+Protective, Test & Earthing Equipment
+
+General
+
+These Rules requires that Protective Equipment be readily available at all times and is to be worn or used whenever necessary to avoid danger. Reliance should not be placed on any single item of
+
+The range of Protective Equipment that may be required for compliance with these Rules at each site for which Senior Authorised Persons have been appointed, could include the following items:
+
+(a) insulated hand tools.
+
+(b) insulated rubber boots.
+
+(c) insulated rubber gloves.
+
+(d) insulating rubber mats.
+
+face shields (visors).
+
+(f) insulating materials for temporary screening.
+
+(g) safety belts and harnesses.
+
+(h) cable spiking equipment.
+
+cable tracing equipment.
+
+The user of any item of Protective Equipment is to be responsible for carrying out a visual inspection before and after use. If an item is found to be defective or unsafe it is to be reported to an Duty Senior Authorised Person as soon as possible. All Protective, Test and Earthing Equipment must be stored, inspected, tested and, where appropriate, recalibrated in accordance with manufacturers' recommendations.
+
+All Protective, Test and Earthing Equipment is to be inspected by a Duty Senior Authorised Person at intervals recommended by the manufacturer but not exceeding twelve months and the results entered into the Log Book. Any item of Protective Equipment found to be defective is to be destroyed and replaced.
+
+Protective Equipment Covered By A British Standard
+
+The following items of equipment are covered by the British Standards indicated:
+
+Face shields and visors BS EN 166, 167 & 168 - 1996
+
+Safety belts and harnesses BS EN 354, 355, 361 to 365 - 1993
+
+Face shields and visors should provide protection against electrical flash, impact and molten metal particles. They should be available to persons who may be exposed to the effects of electric arcs, e.g. when withdrawing fuses in older types of distribution cubicles.
+
+Many different types of safety belts and harnesses are available, each intended for a particular purpose. Safety belts and harness manufactured to the relevant BS, and of the correct type, should be available to persons working in insecure locations, for example, on overhead lines.
+
+
+---
+
+## 第 66 頁 — Protective Equipment Not Covered By A British Standard
+
+來源：[6667.jpg](sources/6667.jpg) · [本頁影像](sources/6667.jpg)
+
+Protective Equipment Not Covered By A British Standard
+
+Cable spiking equipment is available in two forms of operation:
+
+(a) Explosive cartridge. When using cartridge operated equipment on small cables there is a danger of severing the cable, leading to a dangerous situation.
+
+(b) Hydraulic operation. This allows the user to observe the progress of the work piece into the cable.
+
+High Voltage Test Equipment
+
+High Voltage Potential Indicators and Proving Units should comply with Electricity Association Engineering Recommendation G9/6 -Voltage Testing Devices. Extension rods, end adaptors, and other fittings should be available to suit the equipment on which work is to be undertaken.
+
+Cable Locating Devices
+
+When selecting a cable locating device for a particular task or location consideration of the guidance given in the National Joint Utilities Group Publications No.3 and No.8 and by the manufacturer or supplier of the cable locating equipment, is to be made. Cable locating devices should, as a minimum, be rugged and weatherproof to NEMA 3S, comply with NJUC 8 and EMC standards, and be produced by IS09001/EN29001 accredited manufacturers.
+
+A cab/e locating device that combines a// three principles of operation, hum detector (power), radio frequency detector (radio) and transmitter/receiver locator (signa/ generator), into one instrument should be selected.
+
+No person should use cab/e location and tracing devices unless they are competent to do so, have been specifica//y trained in its use and hold a certificate issued by the instructor indicating the training has been successfully completed. Normally, the manufacturers of the equipment should give training, but alternative/y a competent person who has been trained and certified by the manufacturers may give it.
+
+Earthing Equipment
+
+High and Low voltage cables and equipment may be earthed by the use of integral or portable proprietary earthing devices operating within the equipment enclosure on which the earth is to be applied. An earthing device shall be suitable for the use for which it is provided, be maintained in a condition suitable for that use and be properly used.
+
+Overhead lines should be earthed by the use of equipment complying with Electricity Supply Industry Standard 41-21 - Portable Earthing Equipment For Open Type High Voltage Equipment In Substations. This earthing equipment should be capable of making and of carrying the prospective fault current for the time required for back-up protective devices to operate without creating danger, injury or damage to equipment.
+
+
+---
+
+## 第 67 頁 — Appendix A5
+
+來源：[6667.jpg](sources/6667.jpg) · [本頁影像](sources/6667.jpg)
+
+Appendix A5
+
+Model Procedures and Letters (AE)
+
+Appointment for Authorising Engineers
+
+It is the responsibility of the Director with responsibilities for engineering to ensure that any person appointed as Authorising Engineer is suitably qualified and adequately experienced to satisfy the requirements of the High Voltage Safety Rules and Procedures, which have been compiled to enable the Company to meet it's Statutory Obligation which is to comply with the requirements of the Electricity at Work Regulations 1989 for work on electrical equipment. Before an Authorising Engineer is appointed the Director with responsibilities for engineering must be satisfied that the prospective Authorising Engineer meets all the criteria set out in these Rules.
+
+The appointment of an Authorising Engineer is to be by an exchange of letters.
+
+The Model Letter from the Company offering appointment to a prospective Authorising Engineer is shown below:
+
+OFFER OF APPOINTMENT AS AUTHORISING ENGINEER
+
+Dear (Name of prospective Authorising Engineer)
+
+Being satisfied that you are suitably qualified and meet the requirements of Section 2.1 of the High Voltage Safety Rules and Procedures, I hereby offer you the appointment of Authorising Engineer for to undertake the duties set out in Section 2.1 of the High Voltage Safety Rules and Procedures until further notice. However this appointment will be reviewed and reconfirmed at three yearly intervals.
+
+Please confirm your acceptance of this offer of appointment by signing and returning to me a copy of the attached letter.
+
+Yours Sincerely,
+
+(Director with responsibilities for engineering)
+
+
+---
+
+## 第 68 頁 — Model Letter from the prospective Authorising Engineer accepting the appointment as Authorising
+
+來源：[6869.jpg](sources/6869.jpg) · [本頁影像](sources/6869.jpg)
+
+> 本頁已納入儲存的文字修正；請對照來源照片。
+
+Model Letter from the prospective Authorising Engineer accepting the appointment as Authorising Engineer.
+
+ACCEPTANCE OF APPOINTMENT AS AUTHORISING ENGINEER
+
+Dear
+
+I acknowledge receipt of your letter dated offering me appointment as an Authorising Engineer for
+
+I confirm that, to the best of my knowledge, I satisfy the requirements for appointment as an Authorising Engineer indicated in Section 2.1 of the High Voltage Safety Rules and Procedures.
+
+I accept the responsibilities of the Authorising Engineer and will, to the best of my ability, carry out the Authorising Engineer's duties set out in the High Voltage Safety Rules and Procedures.
+
+I note that I am required to attend an Authorising Engineer training course at intervals not exceeding three years, a Senior Authorised Person refresher course at intervals not exceeding three years and a First Aid training course at intervals not exceeding three years.
+
+Yours Sincerely,
+
+(Authorising Engineer)
+
+Copies to: Operational Procedure Manual
+
+
+---
+
+## 第 69 頁 — Model Procedures and Letters (SAP/AP)
+
+來源：[6869.jpg](sources/6869.jpg) · [本頁影像](sources/6869.jpg)
+
+Model Procedures and Letters (SAP/AP)
+
+Appointment for Senior Authorised/Authorised Persons
+
+It is the responsibility of the Authorising Engineer to ensure that any person appointed as a Senior Authorised or Authorised Person is suitably qualified, experienced and trained to satisfy the requirements of Sections 2.2 or 2.3 of the requirements of the High Voltage Safety Rules and Procedures.
+
+The appointment Of a Senior Authorised or Authorised Person is to be by the issue of a Certificate of Appointment, Model Form A5.9.
+
+A prospective Senior Authorised or Authorised Person is to be nominated by the Company by completing and signing PART II of an application for appointment.
+
+The prospective Senior Authorised or Authorised Person is to complete and sign PART of the application to confirm that they meet the requirements of Section 2.2 or 2.3 they are familiar with and have received training on the systems, installations and equipment listed in PART I of the application.
+
+Following a successful interview with the Authorising Engineer the prospective Senior Authorised or Authorised Person will be offered the appropriate certificate(s) of appointment, which are to be formally accepted in writing.
+
+
+---
+
+## 第 70 頁 — Model Form for nomination for appointment as an authorised person
+
+來源：[7071.jpg](sources/7071.jpg) · [本頁影像](sources/7071.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form for nomination for appointment as an authorised person
+NOMINATION FOR APPOINTMENT AS A *SENIOR AUTHORISED/AUTHORISED PERSON
+To: Authorising Engineer
+From: Local Facilities Manager
+PART I: Nomination Procedure (To be completed by the Local Facilities Manager)
+Details of Proposed Appointment
+Type: New appointment/Renewal/Revised coverage * Delete as appropriate
+Dear
+You have been nominated for appointment as an *Senior Authorised/Authorised Person in respect of the
+system(s), installation(s) and location(s) indicated below:
+1.
+2.
+3.
+Type of System or **Location
+Installation
+2 3 4 5 6
+Ring Distribution System
+Radial Distribution System
+Single Generator set installation
+Multiple Generator set installation
+Fixed UPS Equipment
+Others (give details)
+**Tick boxes that area licable
+If you agree to be considered for appointment as an * Senior Authorised/Authorised Person for the system(s),
+installation(s) and location(s) indicated above, and are willing to accept the appointment if offered, please
+complete Part 2 of this form, and return it to me as soon as possible.
+Yours Sincerely,
+Local Facilities Manager.
+(On completion of Part 1 pass to the prospective SeniorAuthorised/Authorised Person for completion of
+Part 2)
+```
+
+
+---
+
+## 第 71 頁 — Model Form for nomination for appointment as an authorised person
+
+來源：[7071.jpg](sources/7071.jpg) · [本頁影像](sources/7071.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form for nomination for appointment as an authorised person
+Part 2: Personal Details
+(To be completed by the prospective Senior Authorised or Authorised Person or on his/her behalf by the
+Name
+Current Grade and Job Title
+Technical Qualifications
+Details of Apprenticeship
+Details of previous experience as an Authorised Person (if any)
+Details of training received
+Courses Location Dates
+First Aid training for
+Treatment of electric shock
+Fire training
+I confirm that I would be willing to accept the appointment as an * Senior Authorised/Authorised Person
+(electrical) for the system(s), installation(s) and location(s) listed in Part 1 of this form
+Signed Date
+Address
+(On completion of Part 2, return this form to the Local Facilities Manager as indicated in Part 1)
+```
+
+
+---
+
+## 第 72 頁 — Model Form for nomination for appointment as an authorised person
+
+來源：[7273.jpg](sources/7273.jpg) · [本頁影像](sources/7273.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form for nomination for appointment as an authorised person
+PART 3: Certification of satisfactory training and familiarisation
+(To be completed by the Local Facilities Manager)
+Authorising Engineer
+I wish to nominate
+for appointment as an * Senior Authorised/
+Authorised Person for the system(s), installation(s) and location(s) indicated in Partl of this form. Authorised
+Person training, familiarisation and on-site training have been satisfactorily completed, and I know of no
+impediment to the discharge of *Senior Authorised/Authorised Person duties. Would you please arrange to
+interview the candidate as soon as possible?
+Signed Date
+(Loca/ Facilities Manager)
+Address
+(On completion of Part 3 send this form to the Authorising Engineer)
+```
+
+
+---
+
+## 第 73 頁 — Part 4: Certificate of Approval
+
+來源：[7273.jpg](sources/7273.jpg) · [本頁影像](sources/7273.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Part 4: Certificate of Approval
+(To be completed by the Authorising Engineer)
+as an * Senior Authorisedl
+This application for the appointment of
+Authorised Person for the system(s), installation(s) and location(s) indicated in Partl of this form islis not
+approved, and is to take effect from:
+for a period of years
+Signed Date
+(Local Facilities Manager)
+Address
+(delete as appropriate)
+Date for appointment Satisfied/Not satisfied Certificate issue date
+to be reviewed
+Model Letter offering appointment as a Senior Authorised or Authorised Person•.
+OFFER OF APPOINTMENT AS AN AUTHORISED PERSON
+Dear (* Senior Authorised/Authorised Person or prospective Authorised
+Person)
+You are hereby offered an appointment as a * Senior Authorised/Authorised Person for the purposes
+of the High Voltage Safety Rules and Procedures for the following systems, installations or equipment
+for a period not exceeding three years.
+2
+3 4
+5 6
+7 8
+9 10
+Please confirm your acceptance of this offer of appointment and the receipt of the enclosed
+appointment certificate by signing and returning a copy of the attached letter.
+Yours Sincerely,
+(Authorising Engineer)
+Copies to: Operational Procedure Manual
+```
+
+
+---
+
+## 第 74 頁 — Model Letter Accepting the appointment/re-appointment as an * Senior Authorised/Authorised Person.
+
+來源：[7475.jpg](sources/7475.jpg) · [本頁影像](sources/7475.jpg)
+
+Model Letter Accepting the appointment/re-appointment as an * Senior Authorised/Authorised Person.
+
+ACCEPTANCE OF APPOINTMENT AS A * SENIOR AUTHORISED/AUTHORISED PERSON
+
+Dear
+
+(Authorising Engineer)
+
+I accept appointment/re-appointment* as a *Senior Authorised/Authorised Person for the systems, installations and locations indicated in your letter dated
+
+I acknowledge receipt of the appointment certificate as my authority to act, whilst on duty, as a *Senior Authorised/ Authorised Person for the systems, installations and locations indicated on the certificate.
+
+I confirm that, to the best of my knowledge, I satisfy the requirements for appointment as a * Senior Authorised/ Authorised Person indicated in Section 2.2 or 2.3 of the High Voltage Safety Rules and Procedures.
+
+I note that, whilst on duty as a *Senior Authorised/Authorised Person, I will be solely responsible for the practical implementation and operation of the High Voltage Safety Rules and Procedures for the systems and installations for which the Company has control of the electrical danger, and for which I have been appointed.
+
+I will, to the best of my ability follow the High Voltage Safety Rules and Procedures and any local variations notified to me by the Authorising Engineer.
+
+Yours Sincerely,
+
+( * Senior Authorised/Authorised Person)
+
+Copies to: Operational Procedure Manual
+
+
+---
+
+## 第 75 頁 — Model Form Certificate of appointment as a * Senior Authorised/authorised person for high voltage systems
+
+來源：[7475.jpg](sources/7475.jpg) · [本頁影像](sources/7475.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form Certificate of appointment as a * Senior Authorised/authorised person for high voltage systems
+The certificate issued to the authorised person should be in the form of a small card which should be
+available at all times if challenged to produce it for inspection. A copy of the information, contained
+in the certificate shall be retained by the Authorising Engineer.
+CERTIFICATE OF APPOINTMENT AS AN AUTHORISED PERSON FOR HIGH VOLTAGE
+SYSTEMS
+Certificate No.
+This is to certify that:
+(Name in capitals)
+is appointed as a * Senior Authorised/Authorised Person in accordance with, and for the purposes
+of, the company Electrical Safety Rules and Procedures.
+The appointment applies only to the locations and to the electrical systems and installations set out
+in PART 2 of this certificate.
+The appointment is valid only until the expiry date indicated in PART 1.
+Signed
+(Authorising Engineer)
+* Senior Authorised/Authorised Person's signature
+Name
+Date
+If found please return this Certificate to:
+```
+
+
+---
+
+## 第 76 頁 — Model Form Certificate of appointment as a * Senior Authorised/Authorised person for high voltage systems
+
+來源：[7677.jpg](sources/7677.jpg) · [本頁影像](sources/7677.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form Certificate of appointment as a * Senior Authorised/Authorised person for high voltage systems
+Expiry Signatures
+Issue Validity Date
+Issue Date Years
+Firs t
+issue
+First
+review
+Second
+review
+Third
+review
+```
+
+
+---
+
+## 第 77 頁 — Model Form Certificate of appointment as a * Senior Authorised/Authorised person for high voltage systems
+
+來源：[7677.jpg](sources/7677.jpg) · [本頁影像](sources/7677.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form Certificate of appointment as a * Senior Authorised/Authorised person for high voltage systems
+Location(s) Exact extent of the systems*
+And installations to which this
+Appointment relates
+* Identi LV s stems and installations
+```
+
+
+---
+
+## 第 78 頁 — Model Form Certificate of appointment as a *Senior Authorised/Authorised person for high voltage systems
+
+來源：[7879.jpg](sources/7879.jpg) · [本頁影像](sources/7879.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form Certificate of appointment as a *Senior Authorised/Authorised person for high voltage systems
+Record of refresher training
+Each Senior Authorised or Authorised Person's operational experience is to be reviewed by the
+Authorising Engineer at intervals of not more than three years and refresher training in authorised
+person's duties arranged as necessary
+Course Title Date Completed
+Record of First Aid training
+To be completed by the Authorising Engineer
+Each Senior Authorised or Authorised Person is to receive refresher training at intervals of not more
+than three years in First Aid treatment for electric shock
+First aid Training Date Completed
+```
+
+
+---
+
+## 第 79 頁 — Model Form certificate of appointment as a competent person high voltage systems
+
+來源：[7879.jpg](sources/7879.jpg) · [本頁影像](sources/7879.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Model Form certificate of appointment as a competent person high voltage systems
+Certificate of Appointment as a Competent Person for High Voltage Systems
+CERTIFICATE OF APPOINTMENT AS A
+COMPETENT PERSON HIGH VOLTAGE SYSTEMS
+Certificate No.
+This is to certify that
+is appointed as a Competent Person for the following locations until the expiry date shown.
+2
+3
+Duties:
+(a) To accompany any non-competent person when entering a high voltage sub-station or enclosure for
+any purpose, except where that person is a responsible person in possession of a valid Limitation of
+Access safety document and to remain within the building until the work is complete;
+(b) To carry out maintenance tasks within the building as directed but not on High Voltage equipment
+unless issued with a Permit to Work by a Senior Authorised Person;
+(c) To trip the high voltage switchgear in case of emergency;
+(d) Add specific duties if required:
+Signed Senior Authorised Person
+Name Date
+Signed Senior Authorised Person
+Name Date
+Senior Authorised Person
+Signed
+Name Date
+(A copy of this certificate is to be placed in the Operational Procedure Manual)
+```
+
+
+---
+
+## 第 80 頁 — Appointment Record
+
+來源：[8081.jpg](sources/8081.jpg) · [本頁影像](sources/8081.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+```text
+Appointment Record
+(To be completed by the Senior Authorised Person)
+This certificate is only valid until the last expiry date indicated below:
+Issue Validity Expiry Signatures
+Issue Date ears Date
+First issue
+First
+renewal/
+review
+Second
+renewal/
+review
+Third
+Renewal/
+review
+```
+
+
+---
+
+## 第 81 頁 — Appendix A6
+
+來源：[8081.jpg](sources/8081.jpg) · [本頁影像](sources/8081.jpg)
+
+Appendix A6
+
+Training Requirements
+
+Authorising Engineer Initial Training
+
+In order to become eligible for appointment as an Authorising Engineer, candidates must first have successfully completed an AP015 training course for the Senior Authorised Persons. The course profile is described in this Appendix. The Authorising Engineer, candidates must have also successfully completed a AECI training course for the Authorising Engineer. The course profile is described in this Appendix
+
+Senior Authorised/Authorised Person Initial Training
+
+These Rules and Procedures require that, in order to become eligible for appointment as Senior Authorised/Authorised Persons, candidates should have successfully completed an AP015 training course for Senior Authorised Persons, if the candidate has little or no knowledge of HV equipment then they should attend the ME025 course prior to attending the AP015 course. The AP015 and ME025 course profiles are described in this Appendix. There are also periods of on-site training and familiarisation which are must be carried out to meet the requirements of section 2 ie Senior Authorised and Authorised Persons must be familiar with the equipment, systems or installations for which appointment is sought.
+
+Refresher Training
+
+These Rules and Procedures require Authorising Engineers attend both a Senior Authorised Persons training course AP015 as a refresher and an Authorising Engineer refresher training course AEC2 at intervals not exceeding three years.
+
+These Rules and Procedures require Senior Authorised/Authorised Persons attend a Senior Authorised Persons training course AP015 as a refresher course as appropriate at intervals not exceeding three years.
+
+Familiarisation Training
+
+At the end of the familiarisation period, the prospective Senior Authorised/Authorised Person is able to demonstrate for the systems, installations and Equipment for which the appointment is sought.
+
+a good working knowledge of the procedures associated with the operation of these Rules and Procedures, the role and duties of Senior Authorised/Authorised Person (in accordance with sections 2.2 and 2.3), any agreed local variation.
+
+a good working knowledge of the layout of the electrical distribution, the location of the Mimic Diagram, Safety Key Boxes, Working Key Cabinet and how to gain access to them.
+
+(iii) a good working knowledge of the operation under normal, failure and fault conditions, of all the principal components of the systems and installations for which authorisation is being sought, such as SWITCHGEAR, DISTRIBUTION EQUIPMENT and STANDBY GENERATING SETS.
+
+practical experience, under the direct supervision of an experienced Senior Authorised Person, of the operation of the electrical equipment forming part of the system or installation.
+
+(v) knowledge of the location of, how to obtain access to and the use of all appropriate Protective Equipment, Test Indicators including appropriate Test Supplies (proving units), where applicable High Voltage Potential Indicators including appropriate Test Supplies (proving units), earthing Equipment and Safety Signs.
+
+(vi) a good understanding of all the necessary safety measures to be taken to prevent danger or, where appropriate, injury, and to prevent damage to Equipment.
+
+(vii) knowledge of any necessary liaison with the Local Facilities Managers, Authorised Persons of other disciplines), electricity supply
+
+
+---
+
+## 第 82 頁 — On-Site Training（續頁）
+
+來源：[8283.jpg](sources/8283.jpg) · [本頁影像](sources/8283.jpg)
+
+> 本頁正文只有上方短段落；下方背面透字未納入。
+
+authorities and contractors having operation, repair or maintenance contracts.
+
+On-Site Training
+
+On-site training is to consist of putting into practice, under the supervision of an experienced Senior Authorised Person, the knowledge gained during the familiarisation period. During this period, the prospective Senior Authorised/Authorised Person is to keep a record of each event attended in a personal Log Book detailing the actions taken both personally and by the Senior Authorised Person. This Log Book produced at the interview with the Authorising Engineer or a qualified nominated representative.
+
+
+---
+
+## 第 83 頁 — Authorising Engineer AECI
+
+來源：[8283.jpg](sources/8283.jpg) · [本頁影像](sources/8283.jpg)
+
+Authorising Engineer AECI
+
+The Management of Safe Systems of Work and Permit to Work Systems
+
+AECI covers the of the Roles and Duties of Authorising Engineers, the selection and appointment of Senior Authorised/Authorised Persons, the procedures to be adopted when issuing Safety documents and Auditing Procedures required to ensure the validity of the Safety Management System.
+
+Who Will Benefit
+
+All staff selected as an Authorising Engineer (AE) and those with similar appointing or authorising roles & duties.
+
+What will be covered
+
+Introduction to Health and Safety Legislation
+
+The need for Safety Management Systems
+
+Introduction to the Management of Safe Systems of Work
+
+Structure of Role and Responsibilities of Authorising Persons within Safe Systems of Work Practical & Procedural aspects of Safe Working Practices The Selection, Evaluation, & Appointment of Authorised Persons (Candidate) Interview Techniques
+
+Monitoring and Auditing Procedures
+
+Training Requirements (for new and in service) Senior Authorised/Authorised Persons
+
+Focal Point Duties including Accident Investigation
+
+Additional information
+
+Delegates should posses an appreciation and understanding of the relevant statutory regulations for their discipline and a good understanding of their Safety Rules and Procedures
+
+Duration
+
+A 3 day course,
+
+
+---
+
+## 第 84 頁 — Authorising Engineer Workshop — AEC2
+
+來源：[8485.jpg](sources/8485.jpg) · [本頁影像](sources/8485.jpg)
+
+Authorising Engineer Workshop — AEC2
+
+A refresher course for Authorising Engineers in the Management of Safe Systems of Work.
+
+Who will benefit
+
+Staff currently acting as an Authorising Engineers (.AE) and have previously completed an (initial) AECI AE course.
+
+What will be covered
+
+The (Generic) Safety Team
+
+AE (Generic) Role & Duties
+
+Accident Investigation
+
+Auditing & Monitoring
+
+Developments in Health and Safety Legislation
+
+Implementation of Safety Rules and Procedures
+
+Safe Systems of Work
+
+Additional information
+
+A representative from HSE wi// be invited to attend the course to discuss problems with the operation of the Safety Rules and Procedures and to gain feedback on Safe Systems of Work.
+
+Duration
+
+A one and a half day workshop starting at 0900 on day one and ending after lunch on day two following a 'Question and Answer Session'..
+
+
+---
+
+## 第 85 頁 — High Voltage Awareness for Managers and Prospective APs --
+
+來源：[8485.jpg](sources/8485.jpg) · [本頁影像](sources/8485.jpg)
+
+High Voltage Awareness for Managers and Prospective APs --
+
+ME025
+
+This course is designed to give a basic understanding of High Voltage (HV) Electrical Equipment, Systems and the Safe Working Procedures as required by the Electricity at Work Regulations 1989.
+
+Who will benefit
+
+Managers responsible for HV systems and personnel who are being considered for the duties relating to the HV System, the course is also designed to be a lead into the Senior
+
+Authorised/Authorised Person course (AP15)
+
+Purpose
+
+To provide the student with the necessary understanding of HV distribution systems and equipment and an awareness the Safe Systems of Work as required by Electricity at Work Regulations 1989. The roles of the duties of a Senior Authorised/Authorised Person (Electrical) are also explained. The course concentrates on the practical and procedural aspects of safe working on electrical equipment.
+
+Students are assessed by a multi-choice question paper. The assessment is given to students and is available to Authorising Engineers or Managers.
+
+What will be covered
+
+Introduction to Electricity
+
+Effect of current on the body
+
+Statutory requirements
+
+An introduction to
+
+HV switchgear and their operation. HV sub-station equipment. HV Distribution systems. HV cables. Basic protective schemes and their application.
+
+Safety regulations and procedures
+
+Application of Electricity Safety Regulations to HV systems. The requirements for the Issue of Safety documents. Records and documentation required to ensure compliance with the Law. Practical Exercises on electrical equipment and safe working procedures.
+
+Additional Information
+
+The course is design for students will little or no knowledge of HV systems but it would be an advantage to the student if they have been walked around their system by an AP prior to attending.
+
+Duration
+
+A three day course, beginning at 1000 on Monday, Finishing at 1530 on Wednesday.
+
+
+---
+
+## 第 86 頁 — High Voltage Senior Authorised/Authorised Person -- 5
+
+來源：[8600.jpg](sources/8600.jpg) · [本頁影像](sources/8600.jpg)
+
+High Voltage Senior Authorised/Authorised Person -- 5
+
+The essentia/ requirements of safe working procedures on High Voltage (HV) Electrical EqUipment and Systems as required by the Electricity at Work Regulations 1989.
+
+Who will benefit
+
+Suitably experienced personnel who are being considered for the duties Of Senior AUthorised Person (Electrical) or Authorised Person (Electrical) with respect to HV distribution systems.
+
+Purpose
+
+To provide the student with the necessary skills and practical awareness necessary to carry out the duties of an Senior Authorised Person (Electrical) to enable them to comply with the Electricity at Work Regulations 1989. The course concentrates on the practical and procedural aspects of safe working on electrical equipment.
+
+Students are continually assessed both in written and practical exercises. The assessment is given to students and is available to Authorising Panel Engineers.
+
+What will be covered
+
+Statutory requirements. Safety regulations and procedures. Types of HV switchgear and their operation and maintenance. Types of HV sub-station equipment, its operation and maintenance. Types of distribution systems and the equipment used. Types of protective devices and their application. Application of Electricity Safety Regulations to HV ring and radial distribution systems. Issue of Permits to Work and Sanction for Test. Methods of network operation. Records and documentation. Cable location and identification. Testing/commissioning of electrical distribution apparatus. Practical Exercises on electrical equipment and safe working procedures.
+
+First Aid
+
+Additional Information
+
+Delegates who attend the course should have an understanding of basic electrical principles and theory. During the course the delegates are continually assessed both in written and practical exercises. The overall assessment is given to delegates and is available to Authorising Engineers.
+
+Duration
+
+A one week course, beginning at 1000 on Monday, Finishing at 1500 on Friday.
+

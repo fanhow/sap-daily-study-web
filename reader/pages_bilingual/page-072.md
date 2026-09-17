@@ -1,0 +1,47 @@
+# ESR 中英對照版
+
+中文為依英文 OCR 製作的學習譯文，非官方中文版。原圖遮擋、OCR 缺字與不確定處不補猜；數值、否定詞、條款與表格關係請對照原圖。
+
+---
+
+## 第 72 頁 — 授權人員任命提名表範本
+
+來源：[7273.jpg](../sources/7273.jpg) · [本頁影像](../sources/7273.jpg)
+
+> 目錄、表格或圖示頁：文字依位置排序，欄位與步驟關係請對照原圖。
+
+**English**
+
+```text
+Model Form for nomination for appointment as an authorised person
+PART 3: Certification of satisfactory training and familiarisation
+(To be completed by the Local Facilities Manager)
+Authorising Engineer
+I wish to nominate
+for appointment as an * Senior Authorised/
+Authorised Person for the system(s), installation(s) and location(s) indicated in Partl of this form. Authorised
+Person training, familiarisation and on-site training have been satisfactorily completed, and I know of no
+impediment to the discharge of *Senior Authorised/Authorised Person duties. Would you please arrange to
+interview the candidate as soon as possible?
+Signed Date
+(Loca/ Facilities Manager)
+Address
+(On completion of Part 3 send this form to the Authorising Engineer)
+```
+
+**繁體中文**
+
+```text
+授權人員（AP）任命提名表範本
+第 3 部分：已妥善完成訓練與熟悉訓練的證明
+（由當地設施經理填寫）
+授權工程師（AE）
+本人擬提名
+擔任 *資深授權人員（SAP）／授權人員（AP），負責本表 Partl 所列的系統、設施及地點。[英文OCR不清：Partl]
+授權人員訓練、熟悉訓練及現場訓練均已妥善完成，且就本人所知，並無妨礙其履行 *SAP／AP 職責的因素。敬請儘快安排與候選人面談。
+簽名　日期
+（當地設施經理）[英文OCR不清：Loca/ Facilities Manager]
+地址
+（完成第 3 部分後，將本表送交授權工程師（AE）。）
+```
+

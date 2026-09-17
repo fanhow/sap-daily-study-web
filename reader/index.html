@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="RelyOn SAP Electrical Safety Rules：可搜尋的原文與照片對照閱讀器。">
+  <title>ESR 圖文閱讀器 · RelyOn SAP</title>
+  <link rel="stylesheet" href="reader.css">
+<meta name="robots" content="noindex,nofollow,noarchive"></head>
+<body>
+  <a class="skip-link" href="#documentText">跳至本頁文字</a>
+  <header class="app-header">
+    <div class="brand-mark" aria-hidden="true">ESR</div>
+    <div class="brand-copy"><p class="eyebrow">RELYON · SAP STUDY LIBRARY</p><h1 id="libraryTitle">Electrical Safety Rules</h1><p id="librarySubtitle">中英對照 · 全文搜尋 · 來源照片</p></div>
+    <div class="header-actions"><a class="workbench-link" href="../index.html">返回學習工作台</a>
+      <span class="library-count" id="libraryCount"></span>
+      <details class="download-menu" id="downloadMenu"><summary>下載文字 <span aria-hidden="true">⌄</span></summary><div class="download-options"><a href="ESR_中英對照.md" download>完整中英對照（.md）</a><a href="ESR_中英對照.txt" download>完整中英對照（.txt）</a><a href="ESR_中文.md" download>完整繁體中文（.md）</a><a href="ESR_全文.md" download>完整英文原文（.md）</a><a href="ESR_全文.txt" download>完整英文原文（.txt）</a><a id="downloadPage" href="#" download>目前頁面／所選語言（.md）</a></div></details>
+    </div>
+  </header>
+  <div class="app-layout">
+    <aside class="sidebar" aria-label="頁面目錄與全文搜尋">
+      <div class="sidebar-intro"><h2>閱讀目錄</h2><span class="small-label">CONTENTS</span></div>
+      <div class="search-box"><label for="searchInput" class="sr-only">搜尋全文</label><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></svg><input id="searchInput" type="search" placeholder="搜尋術語、條文或關鍵字…" autocomplete="off" spellcheck="false"><button id="clearSearch" class="clear-search" type="button" aria-label="清除搜尋" hidden>×</button></div>
+      <p class="search-status" id="searchStatus" role="status" aria-live="polite">正在載入目錄…</p>
+      <nav id="pageList" class="page-list" aria-label="ESR 頁面"></nav>
+      <div class="sidebar-footer"><span class="offline-dot" aria-hidden="true"></span>線上閱讀 · 含已儲存修正</div>
+    </aside>
+    <main class="reader-main" id="readerMain">
+      <div class="reader-toolbar">
+        <div class="language-control"><label for="languageSelect">語言</label><select id="languageSelect" aria-label="選擇閱讀語言"><option value="bilingual">中英對照</option><option value="zh">繁體中文</option><option value="en">English 原文</option></select></div>
+        <div class="page-controls"><button class="icon-button" id="previousPage" type="button" aria-label="上一頁" title="上一頁（←）">←</button><label for="pageJump" class="sr-only">跳至頁面</label><select id="pageJump" aria-label="跳至頁面"></select><button class="icon-button" id="nextPage" type="button" aria-label="下一頁" title="下一頁（→）">→</button><span id="pagePosition" class="page-position"></span></div>
+        <div class="reading-controls"><div class="view-switch" role="group" aria-label="閱讀模式"><button type="button" data-view="text" aria-pressed="false">文字</button><button type="button" data-view="split" aria-pressed="true">文字＋照片</button><button type="button" data-view="image" aria-pressed="false">原圖</button></div><div class="font-controls" role="group" aria-label="文字大小"><button id="smallerText" type="button" aria-label="縮小文字" title="縮小文字">A−</button><span id="fontSizeValue" aria-live="polite">18</span><button id="largerText" type="button" aria-label="放大文字" title="放大文字">A＋</button></div></div>
+      </div>
+      <div class="progress-track" aria-hidden="true"><div id="readingProgress"></div></div>
+      <div class="reader-scroll" id="readerScroll"><p class="publication-note">內容更新：2026-09-16 17:56（台灣時間） · 學習用途，不可直接作為現場操作指令。</p>
+        <div class="notice"><span class="notice-icon" aria-hidden="true">i</span><p id="languageNotice">中文為依英文 OCR 製作的學習譯文；數值、否定詞、條款與表格請對照原圖。</p></div>
+        <header class="page-heading"><div class="page-kicker"><span id="pageLabel">ESR</span><span class="kicker-divider" aria-hidden="true">/</span><span id="pageSection">Electrical Safety Rules</span></div><h2 id="pageTitle">正在載入閱讀內容…</h2><p id="pageEnglishTitle" class="page-english-title" lang="en" hidden></p><div class="page-flags" id="pageFlags" aria-label="本頁辨識提示" hidden></div></header>
+        <div class="document-layout view-split" id="documentLayout">
+          <section class="text-panel" aria-label="閱讀文字"><div class="panel-heading"><h3 id="textPanelTitle">中英對照（逐段）</h3><span id="wordCount"></span></div><article id="documentText" class="document-text" lang="en" tabindex="-1"><p>正在載入 data.js。若內容未出現，請確認資料檔與閱讀器位於相同資料夾。</p></article></section>
+          <section class="image-panel" aria-label="來源照片"><div class="panel-heading"><h3>來源照片</h3><a id="openImage" href="#" target="_blank" rel="noopener">放大檢視 ↗</a></div><a id="imageLink" class="document-image-link" href="#" target="_blank" rel="noopener" aria-label="在新分頁放大本頁照片"><div id="pageImageViewport" class="source-page-viewport"><div id="pageDeskew" class="source-page-deskew"><div id="pageCrop" class="source-page-crop"><img id="documentImage" alt="" decoding="async"></div></div></div></a><p id="imageError" class="image-error" hidden>此頁圖片無法載入。可使用下方連結開啟來源照片。</p><div class="image-caption"><span id="imageCaption"></span><a id="openSource" href="#" target="_blank" rel="noopener">完整原始照片 ↗</a></div></section>
+        </div>
+        <footer class="page-footer"><span id="sourceNote"></span><a id="downloadPageFooter" href="#" download>下載本頁 Markdown ↓</a></footer>
+      </div>
+    </main>
+  </div>
+  <noscript><div class="noscript">請啟用 JavaScript 以使用閱讀器，或直接開啟資料夾內的 ESR_全文.md / ESR_全文.txt。</div></noscript>
+  <script src="data.js"></script>
+  <script src="bilingual-data.js"></script>
+  <script src="reader.js"></script>
+</body>
+</html>
