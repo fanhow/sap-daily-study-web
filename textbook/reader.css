@@ -3,3 +3,5 @@
 @media(max-width:700px){.toolbar #jump{max-width:210px;width:210px}}
 
 .textbook-figure{margin:18px 0 26px;padding:12px;background:#f7fafb;border:1px solid var(--line);border-radius:8px;break-inside:avoid}.textbook-figure a{display:block}.textbook-figure img{display:block;max-width:100%;max-height:560px;width:auto;height:auto;margin:auto;object-fit:contain}.textbook-figure figcaption{font-size:14px;line-height:1.6;margin-top:10px;color:var(--muted)}.figure-hint{display:block;color:var(--accent);font-size:12px}.symbol-figure{display:flex;align-items:center;gap:18px}.symbol-figure img{width:64px;max-height:80px}.symbol-figure figcaption{margin:0}.symbol-figure a{flex:0 0 64px}
+
+#range-label{white-space:pre-line;line-height:1.7;font-variant-numeric:tabular-nums;color:var(--ink)}aside .page-number-help{font-size:12px;line-height:1.6}#day-all{font-size:13px;white-space:normal;margin-bottom:4px}#day-all[hidden]{display:none}
