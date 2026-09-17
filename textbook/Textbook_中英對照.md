@@ -98,12 +98,12 @@ Delegate Workbook
 
 Contents
 
-Introduction............................................................................................................................ 3 Usingthis Workbook.............................................................................................................. 4 HV Working - Health and Safety Rules and Regulations.......................................................... 5 pngers of Electricity............................................................................................................ 22 High-Voltage Switchgear...................................................................................................... 24 RingMain Units.................................................................................................................... 31 Indoor High-VoltageSwitchgear........................................................................................... 33 Earthing................................................................................................................................ 38 ClosingMechanisms............................................................................................................. 40 Auxiliary Transformers.......................................................................................................... 42 ARCControl.......................................................................................................................... 43 Types of Circuit Breakers...................................................................................................... 44 Oil Circuit Breakers (OCB)..................................................................................................... 44
+Introduction............................................................................................................................ 3 Using this Workbook.............................................................................................................. 4 HV Working - Health and Safety Rules and Regulations.......................................................... 5 pngers of Electricity............................................................................................................ 22 High-Voltage Switchgear...................................................................................................... 24 Ring Main Units.................................................................................................................... 31 Indoor High-Voltage Switchgear........................................................................................... 33 Earthing................................................................................................................................ 38 Closing Mechanisms............................................................................................................. 40 Auxiliary Transformers.......................................................................................................... 42 ARC Control.......................................................................................................................... 43 Types of Circuit Breakers...................................................................................................... 44 Oil Circuit Breakers (OCB)..................................................................................................... 44
 
 x
 v
 
-'acuum Circuit Breakers (VCB)............................................................................................. 46 SF6Circuit Breaker............................................................................................................... 48 Air Circuit Breaker................................................................................................................ 52 Disconnector........................................................................................................................ 52 HVSwitchgear Operational Duties........................................................................................ 53 Power Transformers............................................................................................................. 54 Oil Maintenance for Transformers and Switchgear.............................................................. 66 High-voltage Distribution Systems........................................................................................ 76 The National Grid - High-Voltage Diagram............................................................................ 83 Distribution Cables............................................................................................................... 84 High-voltage Protection Systems and Devices...................................................................... 90 Time Grading of HVProtection............................................................................................. 98
+'acuum Circuit Breakers (VCB)............................................................................................. 46 SF6Circuit Breaker............................................................................................................... 48 Air Circuit Breaker................................................................................................................ 52 Disconnector........................................................................................................................ 52 HV Switchgear Operational Duties........................................................................................ 53 Power Transformers............................................................................................................. 54 Oil Maintenance for Transformers and Switchgear.............................................................. 66 High-voltage Distribution Systems........................................................................................ 76 The National Grid - High-Voltage Diagram............................................................................ 83 Distribution Cables............................................................................................................... 84 High-voltage Protection Systems and Devices...................................................................... 90 Time Grading of HV Protection............................................................................................. 98
 
 ### 繁體中文學習譯文
 
@@ -122,7 +122,7 @@ v
 
 Gas Actuated (BUCHHOLZ) Relay............................................................................................... 101 Table of High-voltage Protection Systems and Device............................................................ 108 Develop High-voltage Safety Rules and Procedures................................................................. 109 Switching Schedules and Safety Documentation..................................................................... 117 The Golden Rules of HV Working............................................................................................... 121 Table HV1 - Senior Authorised Person Procedures.................................................................. 122 Location, Identification, and Spiking of Cables......................................................................... 123 Testing High-voltage Installations.............................................................................................. 135 Terminology................................................................................................................................. 139 Common Abbreviations (Electrical)........................................................................................... 142 Standard Symbols for Isolation and Earthing Diagram............................................................ 143
 
-SANCTION-FOR-TESTEXAMPLE................................................................................................. 144
+SANCTION-FOR-TEST EXAMPLE................................................................................................. 144
 
 LIMITATION OF ACCESS EXAMPLE............................................................................................. 14o7 York MOD HV Ring Diversion Exercise ...................................................................................... 148 Evening Exercise No.l.................................................................................................................. 164 Evening Exercise No.2.................................................................................................................. 171 IDMT Test Exercise...................................................................................................................... 178 Delegate Notes ............................................................................................................................ 181
 
@@ -227,7 +227,7 @@ Consult the manufacturer's instructions
 
 HV Working - Health and Safety Rules and Regulations
 
-Health and SafetyLegislation
+Health and Safety Legislation
 
 The Health and Safety at Work Act (HASAWA)is supported by subordinate regulations known as statutory instruments and approved codes of practice (ACOPs).
 
@@ -255,7 +255,7 @@ regulations
 
 1
 
-Guidancenotes * Supplementary information to the
+Guidance notes * Supplementary information to the
 
 ACOPs
 
@@ -267,7 +267,7 @@ Employers
 
 • Provide and maintain safe plant and systems of work
 
-• Reducethe risks to health and safety relating to the use, handling, storage and transport of articles and substances
+• Reduce the risks to health and safety relating to the use, handling, storage and transport of articles and substances
 
 • Provide information, instruction, training and supervision to ensure the health and safety at work of employees
 
@@ -466,7 +466,7 @@ The recipient of a permit is responsible for ensuring that the safety precaution
 
 When work is to be carried out on HV switchgear or equipment, it is likely that those doing the work will need to be designated 'authorised person'.
 
-More information on the operational safety documents specific to this course can befound in the "Develop High-voltageSafety Rules and Procedures" section of this workbook.
+More information on the operational safety documents specific to this course can be found in the "Develop High-voltage Safety Rules and Procedures" section of this workbook.
 
 ### 繁體中文學習譯文
 
@@ -523,7 +523,7 @@ The regulations cover:
 • Responsibility for observing safety policy to be clearly defined.
 • All equipment and tools to be appropriate for safe working.
 The regulations apply to all operational voltages, electrical systems, and equipment within the workplace. Some of the systems and equipment to which these regulations apply may have to conform with additional standards, for example BS7671, but must ultimately comply with the Electricity at Works Regulations1989.
-The HSEguidance document, HSR 25, accompanies the regulation to provide plain speakingguidance on the regulations and gives technical and legal guidance on them
+The HSE guidance document, HSR 25, accompanies the regulation to provide plain speaking guidance on the regulations and gives technical and legal guidance on them
 
 ### 繁體中文學習譯文
 
@@ -595,7 +595,7 @@ Interpretations used in the Regulations:
 
 ### English — saved correction
 
-Regulation3 - Personson whom duties are imposed by these Regulations It is the duty of every employer and self-employed person to comply with the provisions of these Regulations in so far as they relate to matters which are within their control.
+Regulation 3 - Persons on whom duties are imposed by these Regulations It is the duty of every employer and self-employed person to comply with the provisions of these Regulations in so far as they relate to matters which are within their control.
 
 While at work every employee has the duty to:
 
@@ -603,7 +603,7 @@ a) to co-operate with their employer, so far as is necessary, to allow the emplo
 
 b) to comply with the provisions of the Regulations for matters which are within their control.
 
-A person may find themselves responsible for causingdanger to arise elsewhere in an electrical system, at a point beyond their own installation. Because such circumstances are within their control, the effect of regulation 3 is to bring responsibilities for compliance with the rest of the Regulations to that person, thus making them a dutyholder.
+A person may find themselves responsible for causing danger to arise elsewhere in an electrical system, at a point beyond their own installation. Because such circumstances are within their control, the effect of regulation 3 is to bring responsibilities for compliance with the rest of the Regulations to that person, thus making them a dutyholder.
 
 What is meant by absolute and reasonably practicable? Duties in some of the Regulations are subject to the qualifying term 'reasonably practicable'. Where qualifying terms are absent the requirement in the regulation is said to be absolute.
 
@@ -652,7 +652,7 @@ Regulation 4(1)
 
 "All systems shall at all times be of such construction as to prevent, so far as is reasonably practicable, danger."
 
-When assessingthe suitability of the construction of an electrical system, consideration should be given to the conditions of actual application or use of the electrical equipment in the system. This will include the testing, commissioning, operation, and maintenance of the equipment throughout the life of the system.
+When assessing the suitability of the construction of an electrical system, consideration should be given to the conditions of actual application or use of the electrical equipment in the system. This will include the testing, commissioning, operation, and maintenance of the equipment throughout the life of the system.
 
 The safety of a system depends upon the proper selection of all the electrical equipment in the system and the proper consideration of the inter-relationship between the individual items of equipment.
 
@@ -695,11 +695,11 @@ Safe systems of work incorporating safety isolation procedures are important for
 
 The operation, maintenance, and testing of electrical systems and equipment must only be carried out by those people who are competent for that work.
 
-Regulation4(4)
+Regulation 4(4)
 
-"Any equipment provided under these Regulationsfor the purpose of protecting persons at work on or near electrical equipment shall be suitable for the use for which it is provided, be maintained in a condition suitablefor that use, and be properly used."
+"Any equipment provided under these Regulations for the purpose of protecting persons at work on or near electrical equipment shall be suitable for the use for which it is provided, be maintained in a condition suitable for that use, and be properly used."
 
-'Protective equipment' typically refers to those specialtools, protective clothing, and insulating screening materials necessary to do work safely on live electrical equipment.
+'Protective equipment' typically refers to those special tools, protective clothing, and insulating screening materials necessary to do work safely on live electrical equipment.
 
 The regulation requires the protective equipment to be:
 
@@ -745,16 +745,13 @@ Regulation 5 - Strength & capability of electrical equipment "No electrical equi
 
 Before equipment is energised, the characteristics of the system to which the equipment is connected must be considered. This should include those existing under normal conditions, possible transient conditions, and prospective fault conditions, so that the equipment is not subjected to stress which it is not capable of handling without giving rise to danger. The effects to be considered include voltage stress and the heating and electromagnetic effects of current.
 
-The term 'strength and capability' of electrical equipment refers to the ability of the equipment to withstand the thermal, electromagnetic, electrochemical, or other effects of the electrical currents which might be expected to flow when the equipment is part of a system. These currents include:
+The term 'strength and capability' of electrical equipment refers to the ability of the equipment to withstand the thermal, electromagnetic, electrochemical, or other effects of the electrical currents which might be expected to flow when the equipment is part of a system. 
 
+These currents include:
 • load currents
-
 • transient overloads
-
 • fault currents
-
 • pulses of current
-
 • currents at various power factors and frequencies (ac circuits).
 
 Insulation must be effective to enable the equipment to withstand the applied voltage and any likely transient over-voltages.
@@ -777,7 +774,13 @@ shall be of such construction or as necessary protected as to prevent, so far as
 
 第 5 條：電氣裝置的強度與能力。若使用裝置可能超出其強度及能力並產生危險，就不得投入使用。
 裝置送電前，必須考量所連線系統在正常、可能的暫態及預期故障條件下的特性，避免裝置承受無法安全應付的應力；包括電壓應力，以及電流的熱效應與電磁效應。
-「強度與能力」指裝置承受系統中預期電流所造成之熱、電磁、電化學及其他效應的能力。電流包括負載電流、暫態過載、故障電流、脈衝電流，以及交流電路中不同功率因數與頻率的電流。絕緣必須有效，使裝置承受施加電壓及可能出現的暫態過電壓。
+「強度與能力」指裝置承受系統中預期電流所造成之熱、電磁、電化學及其他效應的能力。
+
+電流包括
+負載電流、暫態過載、故障電流、脈衝電流，以及交流電路中不同功率因數與頻率的電流。
+
+絕緣必須有效，使裝置承受施加電壓及可能出現的暫態過電壓。
+
 第 6 條：不利或危險環境。若合理可預見裝置會暴露於 
 
 a）機械損傷；
@@ -786,7 +789,9 @@ b）天候、自然危害、溫度或壓力；
 
 c）潮濕、髒汙、粉塵或腐蝕環境；
 
-d）任何可燃或爆炸性物質，包括粉塵、蒸氣或氣體，則其構造或必要保護應在合理可行範圍內防止這些暴露造成危險。
+d）任何可燃或爆炸性物質，包括粉塵、蒸氣或氣體
+
+則其構造或必要保護應在合理可行範圍內防止這些暴露造成危險。
 
 > 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
@@ -795,29 +800,29 @@ d）任何可燃或爆炸性物質，包括粉塵、蒸氣或氣體，則其構�
 
 ## PDF p17｜第 7–11 條：絕緣、接地及過電流保護
 
-### English OCR
+### English — saved correction
 
 Regulation 7 Insulation, protection and placing of conductors
 
 "All conductors in a system which may give rise to danger shall either -
 
-a) be suitably covered with insulating material and as necessary protected so as to prevent, sofar as is reasonably practicable, danger; or
+a) be suitably covered with insulating material and as necessary protected so as to prevent, so far as is reasonably practicable, danger; or
 
-b) have such precautions taken in respect of them (including, where appropriate, their being suitably placed) as will prevent, sofar as is reasonably practicable, danger."
+b) have such precautions taken in respect of them (including, where appropriate, their being suitably placed) as will prevent, so far as is reasonably practicable, danger."
 
-Regulation8
+Regulation 8
 
-"Precautions shall be taken, either by earthing or by other suitable means, to prevent danger arising when any conductor (other than a circuit conductor) which may reasonably foreseeably become charged as a result of either the useof a system, or afault in a system, becomes so charged; and, for the purposes of ensuring compliance with this regulation, a ( inductor shall be regarded as earthed when it is connected to the general mass of earth by conductors of sufficient strength and current-carrying capability to discharge electrical energy to earth."
+"Precautions shall be taken, either by earthing or by other suitable means, to prevent danger arising when any conductor (other than a circuit conductor) which may reasonably foreseeably become charged as a result of either the use of a system, or a fault in a system, becomes so charged; and, for the purposes of ensuring compliance with this regulation, a ( inductor shall be regarded as earthed when it is connected to the general mass of earth by conductors of sufficient strength and current-carrying capability to discharge electrical energy to earth."
 
-Regulation9
+Regulation 9
 
-"If a circuit conductor is connected to earth or to any other reference point, nothing which might reasonably be expected to give rise to danger by breaking the electrical continuity or introducing high impedanceshall be placed in that conductor unless suitable precautions are taken to prevent that danger."
+"If a circuit conductor is connected to earth or to any other reference point, nothing which might reasonably be expected to give rise to danger by breaking the electrical continuity or introducing high impedance shall be placed in that conductor unless suitable precautions are taken to prevent that danger."
 
 Regulation 10
 
-"Where necessary to prevent danger, every joint and connection in a system shall be \nechanically and electrically suitablefor use".
+"Where necessary to prevent danger, every joint and connection in a system shall be \nechanically and electrically suitable for use".
 
-Regulation11- Means for protectingfrom excessof current "Efficient means, suitably located, shall be providedfor protectingfrom excess of current every part of a system as may be necessary to prevent danger."
+Regulation 11- Means for protecting from excess of current "Efficient means, suitably located, shall be provided for protecting from excess of current every part of a system as may be necessary to prevent danger."
 
 This regulation requires that systems and parts of systems are protected against the effects of short circuits and overloads if these would result in currents which would otherwise result in danger. The means of protection is likely to be in the form of fuses or circuit breakers controlled by relays etc, or it may be provided by some other means capable of interrupting the current or reducing it to a safe value.
 
@@ -825,18 +830,21 @@ Attention should also be given to where the protection is placed within the syst
 
 ### 繁體中文學習譯文
 
-第 7 條：導體的絕緣、保護與配置。系統中可能產生危險的所有導體，必須 
+第 7 條：導體的絕緣、保護與配置
+
+系統中可能產生危險的所有導體，必須 
 
 a）以適當絕緣材料覆蓋，並視需要加以保護；或 
 
-b）採取適當預防措施，包括適當配置位置；兩者目的皆是在合理可行範圍內防止危險。
+b）採取適當預防措施 (包括適當配置位置)；兩者目的皆是在合理可行範圍內防止危險。
+
 第 8 條：對於非電路導體，若可合理預見會因系統使用或故障而帶電荷，應以接地或其他適當方法防止危險。為符合本條，導體須藉具有足夠強度與載流能力的導體連線至大地，能將電能洩放入地，才視為已接地。
 第 9 條：若電路導體連線大地或其他參考點，除非已採適當預防措施，不得在該導體中設定可能因中斷電氣連續性或引入高阻抗而造成危險的物件。
 第 10 條：為防止危險，系統每一處接頭與連線，都必須在機械與電氣方面適合使用。
 第 11 條：過電流保護。應在適當位置提供有效措施，保護系統各必要部分免受過電流危險。
 若短路或過載電流會造成危險，就必須提供相應保護。常見方式是熔絲、由繼電器控制的斷路器，或其他可中斷電流／將電流降至安全值的方法。也必須注意保護裝置在系統中的設定位置。
 
-
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p17。
 
@@ -847,13 +855,13 @@ b）採取適當預防措施，包括適當配置位置；兩者目的皆是在�
 
 Regulation 12 - Means for cutting off the supply and for isolation
 
-1. "Subject to paragraph (3), where necessary to prevent danger, suitable means (including, where appropriate, methods of identifying circuits) shall be availablefor -
+1. "Subject to paragraph (3), where necessary to prevent danger, suitable means (including, where appropriate, methods of identifying circuits) shall be available for -
 
 a) cutting off the supply of electrical energy to any electrical equipment; and
 
 b) the isolation of any electrical equipment.
 
-2. In. paragraph (1), "isolation" means the disconnection and separation of the electrical equipmentfrom every source of electrical energy in such a way that this disconnection and separation is secure.
+2. In. paragraph (1), "isolation" means the disconnection and separation of the electrical equipment from every source of electrical energy in such a way that this disconnection and separation is secure.
 
 3. Paragraph (1) shall not apply to electrical equipment which is itself a source of electrical energy but, in such a case as is necessary, precautions shall be taken to prevent, so far as is reasonably practicable, danger."
 
@@ -863,13 +871,13 @@ The objective of this part of the regulation is to ensure that, where necessary 
 
 Regulation 12(l)(b)
 
-This part of the regulation requires that there will be available suitable means of ensuring that the supply will remain switched off and inadvertent reconnection prevented. This is isolation. Thisprovision, in conjunction with safe working practices, will enable work to be carried out on electrical equipment without risk of it becoming live during the course of that work.
+This part of the regulation requires that there will be available suitable means of ensuring that the supply will remain switched off and inadvertent reconnection prevented. This is isolation. This provision, in conjunction with safe working practices, will enable work to be carried out on electrical equipment without risk of it becoming live during the course of that work.
 
 DO NOT
 
 OPERATE
 
-EQUIPMENT LOCKEDOUT
+EQUIPMENT LOCKED OUT
 
 ### 繁體中文學習譯文
 
@@ -901,11 +909,11 @@ Source figure 1 · PDF p18
 
 The two functions of switching off and isolation are not the same, even though in some circumstances they are performed by the same action or by the same equipment.
 
-Regulation12(3)
+Regulation 12(3)
 
 This part of the regulation recognises the impracticability in some cases of switching off or isolating that equipment which is itself an integral part of a source of electrical energy. The regulation requires precautions to be taken in these circumstances so that danger is prevented so far as is reasonably practicable.
 
-Regulation13 - Precautions for work on equipment made dead "Adequate precautions shall be taken to prevent electrical equipment, which has been made dead in order to prevent danger while work is carried out on or near that equipment, from becoming electrically charged during that work if danger may thereby arise."
+Regulation 13 - Precautions for work on equipment made dead "Adequate precautions shall be taken to prevent electrical equipment, which has been made dead in order to prevent danger while work is carried out on or near that equipment, from becoming electrically charged during that work if danger may thereby arise."
 
 c
 
@@ -1281,9 +1289,9 @@ Switchgear is a generic term used to cover all types of equipment specifically d
 
 High-Voltage Switches
 
-HVSwitches - are normally used where operational or maintenance isolation is required oij where local isolation is required at an item of equipment, such as a transformer sited at a location remote from its source of supply.
+HV Switches - are normally used where operational or maintenance isolation is required oij where local isolation is required at an item of equipment, such as a transformer sited at a location remote from its source of supply.
 
-Although oil has been the insulating medium used in HVswitchgear for many years, and is still widely used, switches are now available which useSF6 (sulphur hexafluoride) as the insulating medium.
+Although oil has been the insulating medium used in HV switchgear for many years, and is still widely used, switches are now available which useSF6 (sulphur hexafluoride) as the insulating medium.
 
 ### 繁體中文學習譯文
 
@@ -1308,7 +1316,7 @@ Source figure 1 · PDF p26
 
 Duties
 
-In serviceSwitches have been designed to perform the following duties:
+In service Switches have been designed to perform the following duties:
 
 • make 'normal' or 'load' current (load make).
 
@@ -1330,25 +1338,25 @@ S2631 (Section 2) requires oil switches to be rated in terms of the following:
 
 • Number of Poles - Normally 3
 
-• Voltage - BSStandard rating - 3.6kV, 7.2kV,12kV, etc
+• Voltage - BS Standard rating - 3.6kV, 7.2kV,12kV, etc
 
-• Normal Current - 'The RMSvalue of the current that a switch is capable of carrying continually under prescribed conditions'
+• Normal Current - 'The RMS value of the current that a switch is capable of carrying continually under prescribed conditions'
 
 • Frequency - Normally 50 Hz
 
-• BreakingCurrent - "The current that exists at the instant of contact separation expressed as an RMSvalue"
+• Breaking Current - "The current that exists at the instant of contact separation expressed as an RMS value"
 
 • Making Capacity - "the making-current that a switch is capable of making and carrying instantaneously at the rated voltage".
 
 "Making-current" is defined as- "The peak value of the maximum current loop (including the de component) in any pole during the first cycle of current when the circuit is closed by a switch".
 
-BSStandard Ratings are:
+BS Standard Ratings are:
 
 • 20.1kA (equivalent to 150 MVA @ llkV) and
 
 • 33.4kA (equivalent to 250 MVA @ llkV)
 
-Short Time Current - "The RMSvalue of current that a switch is capable of carrying for the stated time under prescribed conditions".
+Short Time Current - "The RMS value of current that a switch is capable of carrying for the stated time under prescribed conditions".
 
 ### 繁體中文學習譯文
 
@@ -1432,7 +1440,7 @@ Fig1 Reyrolle Oil Switch
 
 9. 3 Phase Bushing assembly
 
-Fig 2 Longand Crawford Oil Switch
+Fig 2 Long and Crawford Oil Switch
 
 ### 繁體中文學習譯文
 
@@ -1475,7 +1483,7 @@ Source figure 2 · PDF p28
 
 ### English OCR
 
-OperatingMechanism
+Operating Mechanism
 
 For Switches which have rated voltage above llkV or have a rated making current more than 33.4 peak kA, it is recommended that the operating mechanism should store energy during the first part of the movement of the operating handle which is released during the latter half of the same operation. This type of operating mechanism is referred to as 'Independent Manual'. Normally this is achieved by charging a set of springs during the first part of the handle movement (without moving the switch contacts) which are released during the latter part of the operation to 'free' the switch contacts to either the open or closed position, i.e., the speed of operation of the switch contacts is independent of the speed of movement of the handle.
 
@@ -1510,7 +1518,7 @@ Earthing
 
 Switches are fitted with earthing facilities to enable the cable side to be earthed. The arrangement is integral to the switch and the earthing switch has the same rated making capacity and rated short-time current as the main contacts of the switch. It is not required to have a rated breaking-current or a rated normal-current.
 
-TestProbes
+Test Probes
 
 IABLE
 
@@ -1538,7 +1546,7 @@ Once the test connections have been made the interlocks on the switch will allow
 
 o
 
-When test connections are made either by test probes or fixed test points it is possible to carry out the full range of cable tests, Continuity, Insulation, HV PressureTest, dead phasing etc, but as the cable has to be earthed before any test connections can be made it is not possible to use test probes to prove that the cable is dead
+When test connections are made either by test probes or fixed test points it is possible to carry out the full range of cable tests, Continuity, Insulation, HV Pressure Test, dead phasing etc, but as the cable has to be earthed before any test connections can be made it is not possible to use test probes to prove that the cable is dead
 
 Under no circumstances should the cable be energised from the remote end whilst test probes are inserted or the cover over any fixed test points is open
 
@@ -1569,7 +1577,7 @@ Source figure 1 · PDF p30
 
 Switch Fuses or Fuse Switches
 
-These items of switchgear are a combination of a switch and an HRCfuse. The term switch fuse indicates that the fuse is fixed, and the term fused switch indicates that the fuse forms part of the moving contact arrangement. The switch fuse is the more common type of device. The switch provides the facilities described previously and the addition of the HRCfuse provides the device with a fault break capacity. All fault currents are broken initially by the HRCfuse and as the fault may be present on only one phase, the fuses are provided with striker pins which eject with the operation of the fuse. The pin ejecting causes a tripping bar to open the switch and disconnect all 3 phases from the source of the supply.
+These items of switchgear are a combination of a switch and an HRC fuse. The term switch fuse indicates that the fuse is fixed, and the term fused switch indicates that the fuse forms part of the moving contact arrangement. The switch fuse is the more common type of device. The switch provides the facilities described previously and the addition of the HRC fuse provides the device with a fault break capacity. All fault currents are broken initially by the HRC fuse and as the fault may be present on only one phase, the fuses are provided with striker pins which eject with the operation of the fuse. The pin ejecting causes a tripping bar to open the switch and disconnect all 3 phases from the source of the supply.
 
 r
 
@@ -1581,7 +1589,7 @@ X, 'Making-current' is defined as - 'The peak value of the maximum current loop 
 
 ” MVA).
 
-Short Time Current - 'The RMSvalue of current that a switch is capable of carrying for the stated time under prescribed conditions.
+Short Time Current - 'The RMS value of current that a switch is capable of carrying for the stated time under prescribed conditions.
 
 The rated short time current of a switch shall be not less than its rated making current divided by 2.55 (i.e.., the RMS of the maximum current loop excluding the de component).
 
@@ -1769,7 +1777,7 @@ VT's and CT's, until recently, could not be accommodated within the switch fuse 
 
 Ratings
 
-TheSwitch:
+The Switch:
 
 a) complies generally with BS 2631 (or BS5463)
 
@@ -1783,11 +1791,11 @@ e) short-time current 13.1kA for 3 secs (250MVA at llkV).
 
 o
 
-The FuseSwitch: maximum normal current is dictated by the maximum fuse rating which can be fitted with all the other ratings as for the oil switch.
+The Fuse Switch: maximum normal current is dictated by the maximum fuse rating which can be fitted with all the other ratings as for the oil switch.
 
-Typical examples of oil insulated RingMain Units are as follows:
+Typical examples of oil insulated Ring Main Units are as follows:
 
-a) South WalesSwitchgear "Tiger" (non-extensible)
+a) South Wales Switchgear "Tiger" (non-extensible)
 
 b) Long and Crawford T3GF3 (non-extensible, but obtainable with 2 switch fuses).
 
@@ -1795,11 +1803,11 @@ c) Reyrolle ROKSS(extensible and non-extensible versions).
 
 d) Lucy FRMU (extensible and non-extensible versions).
 
-Typical examples of SF6insulated RingMain Units are as follows:
+Typical examples of SF6insulated Ring Main Units are as follows:
 
 a) Hawker Siddeley Falcon (Alpha or Beta)
 
-b) LucySCRMU
+b) Lucy SCRMU
 
 c) Merlin Gerin (Schneider) RN2-Tor RN2-C(extensible and non-extensible versions).
 
@@ -1832,17 +1840,17 @@ SF₆ 絕緣 RMU 例：Hawker Siddeley Falcon（Alpha／Beta）；Lucy SCRMU；M
 
 Indoor High-Voltage Switchgear
 
-Indoor switchgear is widely used where complex protection, metering and power operation is required. The most common type of switchgear found indoors is the HVCircuit Breaker where it performs the dual functions of electrical isolation (a) for maintenance or operational reasons and (b) the protection of equipment by automatic disconnection.
+Indoor switchgear is widely used where complex protection, metering and power operation is required. The most common type of switchgear found indoors is the HV Circuit Breaker where it performs the dual functions of electrical isolation (a) for maintenance or operational reasons and (b) the protection of equipment by automatic disconnection.
 
-When electrical isolation for maintenance or operational reasons only is required the cheaper indoor HVswitch may be used.
+When electrical isolation for maintenance or operational reasons only is required the cheaper indoor HV switch may be used.
 
 Instrument
 
 ENCLOSURE
 
-Fig6 HV circuitbreaker
+Fig6 HV circuit breaker
 
-The traditional HVCircuit Breaker (fig 6) comes in two parts the fixed portion (enclosure) is where the permanent HVconnections are made it also houses the auxiliary parts such as the T's, the VT, meters and relays.
+The traditional HV Circuit Breaker (fig 6) comes in two parts the fixed portion (enclosure) is where the permanent HV connections are made it also houses the auxiliary parts such as the T's, the VT, meters and relays.
 
 The moving portion (truck) houses the main load breaking contacts and the associated operating mechanism, being removable this facilitates the maintenance of the active parts of the Circuit Breaker.
 
@@ -1918,7 +1926,7 @@ Service Voltage
 
 "This is the upper limit of the highest voltage of systems for which the Circuit Breaker is intended".
 
-BSStandard ratings - 3.6kV, 7.2kV, 12kV
+BS Standard ratings - 3.6kV, 7.2kV, 12kV
 
 It is advisable to buy CBs with a voltage rating suitable for the highest system voltage normally used, i.e., llkV, this permits standardisation, and the switchgear can be used in systems where the voltage is below 11 kV.
 
@@ -1943,11 +1951,11 @@ Source figure 1 · PDF p36
 
 ### English OCR
 
-InsulationLevel
+Insulation Level
 
 This is the maximum voltage that the switchgear can withstand for a short time under fault conditions e.g., lightning strikes.
 
-For switchgear having a service voltage rating of 12kV the BSvalues are:
+For switchgear having a service voltage rating of 12kV the BS values are:
 
 • Lightning impulse withstand voltage - 60 or 75kV(peak)
 
@@ -1965,9 +1973,9 @@ Normal Current
 
 "The rms value of the current which the Circuit Breaker shall be able to carry continuously without deterioration under prescribed conditions".
 
-BSStandard ratings 400A, 500A, 630A, 800A, 1250A
+BS Standard ratings 400A, 500A, 630A, 800A, 1250A
 
-Short Circuit BreakingCurrent
+Short Circuit Breaking Current
 
 "The current that can be broken at a stated voltage".
 
@@ -1979,7 +1987,7 @@ b) a de component - short (4-5 cycle) transient due to the discharge of stored m
 
 Of these components, (a) can be calculated, but (b) is unpredictable (as it depends on several factors such as the instantaneous voltage at time of fault).
 
-For this reason, when determining the BreakingCapacity of a CBthe current considered is the RatedShort Circuit Current.
+For this reason, when determining the Breaking Capacity of a CB the current considered is the Rated Short Circuit Current.
 
 ### 繁體中文學習譯文
 
@@ -2304,7 +2312,7 @@ Current Transformer
 
 Current transformers with a secondary rating of 5A (or 1A) and primary rating in the range 3 0A, 50A, 75A, 100A, 200A,400A are common.
 
-Thesecondarywinding should never be open circuited when the primary is energised, as this will result in the generation of HV at the secondary terminals leading to insulation breakdown. If it is required to disconnect the secondary circuit whilst the primary is energised, the secondary winding should first be short circuited.
+The secondary winding should never be open circuited when the primary is energised, as this will result in the generation of HV at the secondary terminals leading to insulation breakdown. If it is required to disconnect the secondary circuit whilst the primary is energised, the secondary winding should first be short circuited.
 
 Measuring CTs are used to supply ammeters, wattmeter's etc. and are accurate to approx 120%of rating and saturate at approx 125%of rating, to protect the meter movements.
 
@@ -2366,9 +2374,9 @@ Circuit breakers are categorised around their moving contact insulation, and arc
 
 Oil Circuit Breakers (OCB)
 
-This was the most popular and least expensive HVcircuit breaker to buy; metal-clad using light mineral oil as in insulant and arc quenching media and utilising some form of arc control device, the oil circuit breaker has catered for all the circuit interrupting requirements of power engineering for many years at distribution voltages. However, today it must be conceded that the oil circuit breaker has virtually reached the limits of its potential development to meet the demands of circuit interruption and in comparison, with some of its more modern alternatives is much more expensive in maintenance cost.
+This was the most popular and least expensive HV circuit breaker to buy; metal-clad using light mineral oil as in insulant and arc quenching media and utilising some form of arc control device, the oil circuit breaker has catered for all the circuit interrupting requirements of power engineering for many years at distribution voltages. However, today it must be conceded that the oil circuit breaker has virtually reached the limits of its potential development to meet the demands of circuit interruption and in comparison, with some of its more modern alternatives is much more expensive in maintenance cost.
 
-On the later types of OCB's, with ratings of 250 MVA at llkV, the method of arc control is by use of a Cross Jet ExplosionPot. The cross-jet explosion pot is a device made up of insulating material to form a chamber surrounded by a strong shell so that the contacts are completely surrounded (SeeFig11). When the contacts part the arc drawn causes the oil to break down and form a gas. The gas causes a ) pressure to build up inside the chamber and as the moving contact reveals the side vents the gas and arc products are forced out through these vents, displacing and lengthening the arc. At each current zero the arc is extinguished, and fresh oil enters the chamber and at some point, in this process the insulation value between the fixed and moving contacts will be sufficiently high to prevent a re-strike. An OCBhas a defined operating sequence which is: O-T-CO-T-CO
+On the later types of OCB's, with ratings of 250 MVA at llkV, the method of arc control is by use of a Cross Jet Explosion Pot. The cross-jet explosion pot is a device made up of insulating material to form a chamber surrounded by a strong shell so that the contacts are completely surrounded (SeeFig11). When the contacts part the arc drawn causes the oil to break down and form a gas. The gas causes a ) pressure to build up inside the chamber and as the moving contact reveals the side vents the gas and arc products are forced out through these vents, displacing and lengthening the arc. At each current zero the arc is extinguished, and fresh oil enters the chamber and at some point, in this process the insulation value between the fixed and moving contacts will be sufficiently high to prevent a re-strike. An OCB has a defined operating sequence which is: O-T-CO-T-CO
 
 O = Operates
 T = Time
@@ -2432,7 +2440,7 @@ REAR OIL
 
 PASSAGE
 
-Fig.ll Oil Circuit Breaker CrossJetExplosionPot
+Fig.ll Oil Circuit Breaker Cross Jet Explosion Pot
 
 The earlier types of OCB's having a breaking capacity up to 150 MVA at llkV were of the Plain Break type. In this type the quenching of the arc is achieved by contact separation and the head of oil in the tank. The head of oil above the contacts affects the gas bubble formation and must be sufficient to ensure ample pressure at the arc and to prevent a chimney of gas from the arc to the oil surface. A small volume of air above the oil will result in a higher pressure for a given volume of gas and consequently a reduction in arcing time. It is therefore most important that the recommended oil level be maintained.
 
@@ -2553,7 +2561,7 @@ Not only does sulphur hexafluoride possess a high dielectric strength to prevent
 
 SF6 is, therefore, very suitable for quenching electric arcs. It is, in fact, of the order of 100 times more effective than air.
 
-Sulphur hexafluoride was first produced in Paris in the year 1900 and initial research concerning industrial applications was performed by GECin 1937. In 1960 the first SF6 circuit breakers and switches were launched simultaneously in Europe and the USA. It was logical that initially SF6 would find its way into EHVcircuit breakers where the cost of expensive ancillary equipment could be supported.
+Sulphur hexafluoride was first produced in Paris in the year 1900 and initial research concerning industrial applications was performed by GEC in 1937. In 1960 the first SF6 circuit breakers and switches were launched simultaneously in Europe and the USA. It was logical that initially SF6 would find its way into EHV circuit breakers where the cost of expensive ancillary equipment could be supported.
 
 o
 
@@ -2590,9 +2598,9 @@ As the SF6 switchgear contact assemblies and arc control devices are virtually m
 
 This is considerably smaller and cheaper than traditional withdrawable pattern switchgear, which have separate enclosures and circuit breaker trucks.
 
-CIRCUITBREAKER
+CIRCUIT BREAKER
 
-SWITCHING OFF CIRCUITBREAKER ON
+SWITCHING OFF CIRCUIT BREAKER ON
 
 SF6 TANK MOVING
 
@@ -2813,7 +2821,7 @@ Power Transformers
 
 Introduction
 
-ATransformer is an item of electrical apparatus which consists of two or more electrical circuits interlinked by a common magnetic circuit for the purpose of transferring electrical energy between them.
+A Transformer is an item of electrical apparatus which consists of two or more electrical circuits interlinked by a common magnetic circuit for the purpose of transferring electrical energy between them.
 
 In an electricity supply network transformer are used to step up (increase) and step down (decrease) voltages, so as to make them more appropriate for Transmission, Distribution and Utilisation.
 
@@ -2833,7 +2841,7 @@ L
 
 Primary Secondary
 
-Fig1. Principleof operation of Transformer
+Fig1. Principle of operation of Transformer
 
 ### 繁體中文學習譯文
 
@@ -2888,7 +2896,7 @@ Yellow
 
 Phase Phase
 
-Fig2. Constructionof Three phase transformer
+Fig2. Construction of Three phase transformer
 
 ### 繁體中文學習譯文
 
@@ -2926,7 +2934,7 @@ The core of a modern transformer is generally constructed of a number of laminat
 
 Apart from electrical and thermal considerations the windings must have great mechanical strength.
 
-In general, there is only one LV winding per limb, which in the past consisted of a single layer. Thishas now been superseded by a two-layer winding which has the following advantages: o
+In general, there is only one LV winding per limb, which in the past consisted of a single layer. This has now been superseded by a two-layer winding which has the following advantages: o
 
 1. Improved cooling (There are four winding surfaces).
 
@@ -3029,7 +3037,7 @@ a2 c3 c4 a1 c1
 
 O-yn
 
-Fig.5 Zigzagconnected windings and associated Vector diagram
+Fig.5 Zigzag connected windings and associated Vector diagram
 
 ### 繁體中文學習譯文
 
@@ -3368,7 +3376,7 @@ Source figure 2 · PDF p64
 
 A common form of tap-changing switch consists of a moveable shoe which makes contact between two contacts at a time. Common tapping points are 105%, 102.5%, 100% 97.5% and 95% of the HV turns.
 
-The general policy for oil-immersed power transformers is to specify OFF-CIRCUITtap-changing switches, thus tap-changing must be carried out with the transformer isolated. A typical plate showing switch positions and corresponding HV turns is shown in Table 5. Assuming the switch is in position 3 and the secondary voltage has to be increased by 2.5%. Then it will be necessary to reduce the HV turns, to say 97.5% by changing switch position 4.
+The general policy for oil-immersed power transformers is to specify OFF-CIRCUIT tap-changing switches, thus tap-changing must be carried out with the transformer isolated. A typical plate showing switch positions and corresponding HV turns is shown in Table 5. Assuming the switch is in position 3 and the secondary voltage has to be increased by 2.5%. Then it will be necessary to reduce the HV turns, to say 97.5% by changing switch position 4.
 
 Table 5 - Tapping Switch Label
 
@@ -3608,7 +3616,7 @@ The need to withstand system voltage transients due to lightning and switching s
 
 ### English OCR
 
-Insulating oils in service are subject to deterioration due to the conditions of use. The transformer "breathes" causingmoisture and impurities in the atmosphere to be absorbed by the oil. This can cause oxidation, subsequent sludge formation and failure of the dielectric strength.
+Insulating oils in service are subject to deterioration due to the conditions of use. The transformer "breathes" causing moisture and impurities in the atmosphere to be absorbed by the oil. This can cause oxidation, subsequent sludge formation and failure of the dielectric strength.
 
 The temperature of the oil has considerable effect on its satisfactory life. This varies from the "ambient" to the "hot spot" (the point of maximum internal temperature). Overheating will cause an increased rate of oxidation and risk of fire and explosion.
 
@@ -3622,9 +3630,9 @@ Paint Work
 
 The transformer tank and fittings should be carefully examined to see if rust is forming, especially at the welded seams. If so, it should be completely removed with a wire brush or other means and the metal given a coat of red oxide paint followed by an appropriate undercoat and finally the finishing coat.
 
-DehydratingBreather
+Dehydrating Breather
 
-Examine the colour of the SilicaGel Charge and if the pink showing has reached halfway up the container, it is recommended that the charge be changed for a fully active one.
+Examine the colour of the Silica Gel Charge and if the pink showing has reached halfway up the container, it is recommended that the charge be changed for a fully active one.
 
 "Reactivation: It is not recommended that breathers should be reactivated by heating them to dry out the silica gel as at temperatures above 170°Fthe silica gel crystals can be irreversibly damaged.
 
@@ -3664,7 +3672,7 @@ Switch Adjustment
 
 The mercury switches should be adjusted to operate at the required values. The recommended maximum settings are:
 
-Oil Temperature WindingTemperature
+Oil Temperature Winding Temperature
 
 85°C 105°C
 
@@ -3729,7 +3737,7 @@ The oil in a transformer operating under normal load conditions adequately venti
 
 Oil Sampling(BS5263:1975 or I.E.C. 475:1974)
 
-Samples of oil should be drawn from the transformer when the oil is warm. Samplingof dielectrics is covered by BS5263:1975 and I.E.C.475:1974.
+Samples of oil should be drawn from the transformer when the oil is warm. Sampling of dielectrics is covered by BS5263:1975 and I.E.C.475:1974.
 
 Samples taken on site are frequently found to be contaminated owing to inadequate cleaning of the drain valve. It is essential that the valve be first thoroughly cleaned externally and then wiped with clean material reasonably free from fibre (such as thin smooth paper) followed by a similar material soaked in clean oil.
 
@@ -3739,7 +3747,7 @@ Stoppered glass sampling bottles of one-quart size are recommended. They must be
 
 Tests should be carried out as soon as possible after drawing a sample.
 
-Inspectionof Samples
+Inspection of Samples
 
 A limited but useful amount of information can be obtained from the colour and odour of the oil and this should be noted for record purposes.
 
@@ -3747,7 +3755,7 @@ Cloudiness in the oil may be due to suspended moisture or suspended solid matter
 
 If the oil is dark brown, the presence of dissolved Asphaltenes may be suspected. If the colour is green the presence of copper soaps is indicated, and it may be expected that further deterioration of the oil will be rapid. An acrid smell is indicative of volatile acids which can cause corrosion, and which may render the oil unsuitable for treatment on site; a petrol-like or acetylene odour may indicate a low flash-point due to a fault or some other cause.
 
-ElectricStrength
+Electric Strength
 
 The electric strength of the oil should be tested after filling or refilling prior to energising then after 1 year and subsequently every 6 years (for transformer less than 80kV).
 
@@ -3884,7 +3892,7 @@ The deterioration of oil in circuit breakers due to the effects of oxidation is 
 
 Voltage Transformers (VTs)
 
-Require the oil to be replaced at the same time as the relevant OCBoil.
+Require the oil to be replaced at the same time as the relevant OCB oil.
 
 ### 繁體中文學習譯文
 
@@ -3907,7 +3915,7 @@ Maintenance of Switchgear Oil
 
 Maintenance of switchgear oil should be carried out in accordance with manufacturer's handbook.
 
-ChangingInsulatingOil
+Changing Insulating Oil
 
 A small extra quantity of new oil is needed to rinse the interior of the tank and immersed parts. It is essential that the tank and surfaces of conductors and insulators be kept free from fibres. Such fibres can be introduced by the use of unsatisfactory cleaning materials during plant maintenance. In practice the only efficient and permissible materials are plastics, and chamois leathers.
 
@@ -4012,7 +4020,7 @@ o
 
 ‘Circuit Conductor' means any conductor in a system which is intended to carry electric current in normal conditions, or to be energised in normal conditions, and include a combined neutral and earth conductor, but does not include a conductor provided solely to perform a protective function by connection to earth or other reference point;
 
-'ElectricalEquipment' includes anything used, intended to be used or installed for use, to generate, provide, transmit, transform, rectify, convert, conduct, distribute, control, store, measure or use electrical energy.
+'Electrical Equipment' includes anything used, intended to be used or installed for use, to generate, provide, transmit, transform, rectify, convert, conduct, distribute, control, store, measure or use electrical energy.
 
 'System' means an electrical system in which all the electrical equipment is, or may be, electrically connected to a common source of electrical energy, and include such source and such equipment.
 
@@ -4164,7 +4172,7 @@ Source figure 2 · PDF p80
 
 ### English OCR
 
-Closed RingMains
+Closed Ring Mains
 
 The design of ring mains will depend upon the way in which they are to be operated. If there is a requirement for high security of supply, then a ring main that can be operated as a Closed ring may be selected. The typical arrangement of a closed ring system is shown in Fig
 
@@ -4279,7 +4287,7 @@ Source figure 1 · PDF p82
 
 ### English OCR
 
-Switches, Fuse switches and RingMain Units are all available as outdoor switchgear, thus there is no need for a building to house them.
+Switches, Fuse switches and Ring Main Units are all available as outdoor switchgear, thus there is no need for a building to house them.
 
 Under normal conditions all switchgear would be switched on (unless subject to interlocking
 
@@ -4289,17 +4297,17 @@ In determining which switch should form the open point the following factors sho
 
 a) The importance of loads
 
-b) Balancingthe number of switches to be operated either side of the open point ( ) Cable route lengths.
+b) Balancing the number of switches to be operated either side of the open point ( ) Cable route lengths.
 
-A fault on a ring feeder cable would lead to the circuit breaker located in the ISSor SBSS disconnecting the faulty circuit. This would result in a loss of supply to all sub-stations between that circuit breaker and OPEN point.
+A fault on a ring feeder cable would lead to the circuit breaker located in the ISS or SBSS disconnecting the faulty circuit. This would result in a loss of supply to all sub-stations between that circuit breaker and OPEN point.
 
 In order to locate the fault (in the absence of earth fault passage indicators) it will be necessary to carry out sequential switching. This will consist of switching off all switches on the affected leg of the ring and then switching on the circuit breaker and then the switches sequentially.
 
-z Where the numbers of Distribution Sub-stations is excessive (say15 to 20+) or the total load \jn Ringexceeds (say) 4000 kVA, then it may be necessary to consider the following alternatives:
+z Where the numbers of Distribution Sub-stations is excessive (say15 to 20+) or the total load \jn Ring exceeds (say) 4000 kVA, then it may be necessary to consider the following alternatives:
 
-Formation of a second open ring main from ISSto SBSS
+Formation of a second open ring main from ISS to SBSS
 
-Installation of an interconnector from the ISSor SBSSto a sub-station (equipped with circuit breakers) located at approximately mid point of the existing ring (see Fig6).
+Installation of an interconnector from the ISS or SBSS to a sub-station (equipped with circuit breakers) located at approximately mid point of the existing ring (see Fig6).
 
 ### 繁體中文學習譯文
 
@@ -4477,11 +4485,11 @@ Consideration should always be given to the use of cables having aluminium (AL) 
 
 Where armouring of single core ac cables is necessary, non-magnetic armour should be specified.
 
-Care should be taken to ensure that PVCcables will not be installed or operated outside the ( ,'mperature range recommended by the manufacturer, as:
+Care should be taken to ensure that PVC cables will not be installed or operated outside the ( ,'mperature range recommended by the manufacturer, as:
 
 a) they are liable to crack if handled at temperatures in the region of 00Cor lower, and
 
-b) at high working temperatures the insulant will soften and may flow, causingvariation in the insulation thickness.
+b) at high working temperatures the insulant will soften and may flow, causing variation in the insulation thickness.
 
 Ethylene propylene rubber (EPR)insulated cable, which have greater flexibility and a higher operating temperature limit is suitable for use up to llkV in appropriate circumstances i.e. cables are run across water-logged ground.
 
@@ -4491,7 +4499,7 @@ Cross linked Polyethylene (XLPE)insulated cables are now the most commonly avail
 
 Conductor Sizing
 
-For LVcables reference should be made to the IEEWiring Regulations and/or Manufacturers data to assist in considering the factors listed on page one.
+For LV cables reference should be made to the IEE Wiring Regulations and/or Manufacturers data to assist in considering the factors listed on page one.
 
 ### 繁體中文學習譯文
 
@@ -4521,19 +4529,19 @@ Cable Handling and Laying
 
 The need for care when handling and laying cables cannot be over emphasised. Apart form the obvious cases of workmen inadvertently piercing cables, faults on underground cables are nearly always attributable to poor workmanship either in laying or jointing.
 
-UnloadingCableDrums
+Unloading Cable Drums
 
 Where a crane is available it must be used to unload drums of cable using a suitable spindfl through the centre of the drum as a means of lifting. Should a crane not be available then a suitable ramp of heavy timber should be constructed for the purpose. The drum should be rolled down the ramp, its progress carefully controlled by ropes secured to a spindle through the centre of the drum. On no occasion should a drum of cable be dropped, even onto soft ground as flattening of the inner layers will occur. Damage of this sort will not be easily apparent.
 
-RollingCables
+Rolling Cables
 
 Drums of cable must be rolled in the direction of the arrow painted on the side - this again is to avoid damaging the cable.
 
 c
 
-LayingCablesDirectin the Ground
+Laying Cables Direct in the Ground
 
-a) It is recommended that trenches shall be excavated to provide the minimum cover specified in Table1 and minimum distance between cablesTable 2.
+a) It is recommended that trenches shall be excavated to provide the minimum cover specified in Table1 and minimum distance between cables Table 2.
 
 b) Before cables are laid the bottom of the trench shall be evenly graded, cleared of loose stones and then covered with a 75mm layer of earth which has passed through a sieve, with a maximum mesh of 12mm or with sand where local ground is unsuitable. To avoid risk of damage during handling, cable laying shall be carried out only when the ambient temperature is above OoCand the cable is above this temperature and has been so for the previous 24 hours.
 
@@ -4652,13 +4660,13 @@ Source figure 2 · PDF p89
 
 ### English OCR
 
-WarningTapesand Covers
+Warning Tapes and Covers
 
 a) A warning tape shall be placed above each cable that is laid direct in the ground and above each cable duct. The tape shall be laid at a depth of 300mm below the finished surface level except where the depth of roadway or paved area base exceeds 300mm in which case the tape shall be laid immediately below the base.
 
-b) Warning tapes shall be of polyethylene not less than 150mm wide and 0.1mm thick. They shall be red for HV and yellow for LVand bear the continuously repeated legend 0- CautionElectric Cable Below-0, or similar, in black letters not less than 30mm high.
+b) Warning tapes shall be of polyethylene not less than 150mm wide and 0.1mm thick. They shall be red for HV and yellow for LV and bear the continuously repeated legend 0- Caution Electric Cable Below-0, or similar, in black letters not less than 30mm high.
 
-TheSealingof CableDuctsinto Buildings
+The Sealing of Cable Ducts into Buildings
 
 If the fabric of a building is breached below ground level (to permit the passage of power and telephone cables, gas, water, drainage, and other services)it is essential that such ( entries are effectively sealed to prevent gas from leaking or damaged main entering the building and creating an explosive atmosphere.
 
@@ -4670,9 +4678,9 @@ For a single service it is generally sufficient for the gap between cable or pip
 
 Several types of proprietary mastic compounds are available. The compounds chosen should, however, be non-hardening, non-cracking and resistant to both moisture and gas. They should also be resistant to mineral acids, alkalis and salts and should be of a nature unlikely to cause corrosion of any materials with which they are liable to come into contact. The service cable or pipe should be wrapped with a suitable tape prior to mastic sealingin all cases where proprietary materials are being used, the manufacturer's instructions and recommendations should be carefully followed.
 
-Testingof Laid Cables(HV)
+Testing of Laid Cables(HV)
 
-All HVcables are to be pressure tested prior to commissioning and following repairs or alterations.
+All HV cables are to be pressure tested prior to commissioning and following repairs or alterations.
 
 ### 繁體中文學習譯文
 
@@ -4693,9 +4701,9 @@ All HVcables are to be pressure tested prior to commissioning and following repa
 
 Pressure testing is to be carried out in accordance with the Electricity Safety Regulations in force on that site. Particular attention must be paid to the Regulations relating to HV enclosures and 'Sanction to Test' procedures.
 
-The HVpressure test should be preceded by an insulation test (minimum 1000V) between conductors and earth for a period of not less than one minute to establish any serious faults.
+The HV pressure test should be preceded by an insulation test (minimum 1000V) between conductors and earth for a period of not less than one minute to establish any serious faults.
 
-The HVpressure test will use a de voltage of the value specified by the cable maker. The voltage shall be applied and increased gradually to the full value and maintained continuously at that value for 15 minutes.
+The HV pressure test will use a de voltage of the value specified by the cable maker. The voltage shall be applied and increased gradually to the full value and maintained continuously at that value for 15 minutes.
 
 Where the cable to be tested is a mix of old and new cables the test voltage must be that specified for old cables.
 
@@ -4726,15 +4734,15 @@ The Electricity at Work Regulations1989 state in Regulation 11 that - "Efficient
 
 This requirement is met by the installation of protection systems arranged to trip items of switchgear. The protection is set to prevent damage to electrical apparatus and to avoid danger in the event of a fault.
 
-An additional objective for any protection scheme is to ensure the maximum continuity of supply. This is done by determining the location of a fault and disconnecting the minimurn amount of apparatus necessary to clear it. When a fault occurs, a number of protective devicesmay detect it, but only those directly associated with the faulty apparatus are required to operate. This is achieved by discrimination.
+An additional objective for any protection scheme is to ensure the maximum continuity of supply. This is done by determining the location of a fault and disconnecting the minimurn amount of apparatus necessary to clear it. When a fault occurs, a number of protective devices may detect it, but only those directly associated with the faulty apparatus are required to operate. This is achieved by discrimination.
 
-A number of different high-voltage protective devices and systems are available. High rupturing capacity fuses are installed in the primary circuit whereas ACtrip coils and protective relays require a secondary circuit fed from auxiliary transformers (CT'sand VTs).
+A number of different high-voltage protective devices and systems are available. High rupturing capacity fuses are installed in the primary circuit whereas AC trip coils and protective relays require a secondary circuit fed from auxiliary transformers (CT'sand VTs).
 
 High-voltage HRC Fuses
 
 o
 
-The most common HVhigh rupturing capacity (HRC) fuse in use is of the powder filled type manufactured to BS2692: 1986. These can be suitable for installation in air or immersion in oil and are used in Ring Main Units and distribution fusegear.
+The most common HV high rupturing capacity (HRC) fuse in use is of the powder filled type manufactured to BS2692: 1986. These can be suitable for installation in air or immersion in oil and are used in Ring Main Units and distribution fusegear.
 
 The fuse comprises a stout ceramic or alumina barrel with sealed end capping's of metal (with or without lugs as required). The main fuse element consists of a number of parallel wires or strips, often of silver, having reduced cross sections at their fusing points. The fuse element is surrounded by an inert powder serving to extinguish the arc which forms on operation. In some cases, this powder is stated to be a "chemically treated quartz dust".
 
@@ -4776,9 +4784,9 @@ HIGH RESISTANCE STAR FORMER
 
 ELEMENT ALUMINA BARREL
 
-Fig1 Sectionthrougha TypicalFuse
+Fig1 Section through a Typical Fuse
 
-High-voltage HRC fuses are generally used for transformer protection and are fitted in ■'witch fuses or fused switches. It is recommended that transformers up to and including the sizes indicated below should normally be protected by HVfuses.
+High-voltage HRC fuses are generally used for transformer protection and are fitted in ■'witch fuses or fused switches. It is recommended that transformers up to and including the sizes indicated below should normally be protected by HV fuses.
 
 1. 800 kVA (llkV)
 
@@ -4980,7 +4988,7 @@ Three phase over-current and earth fault protection
 
 Fig3
 
-Prior to 1966 trip coils and TLF's were provided by switchgear manufacturers which subsequently had operating characteristics that differed widely. A few of these are still in service and can be quickly recognised by the construction of the TLFwhich consists of a short glass barrel (50mm long 15mm diameter) with metal end caps suitable for clip mounting. The trip coils are normally of 5A, 2.5A or 1.25A rating.
+Prior to 1966 trip coils and TLF's were provided by switchgear manufacturers which subsequently had operating characteristics that differed widely. A few of these are still in service and can be quickly recognised by the construction of the TLF which consists of a short glass barrel (50mm long 15mm diameter) with metal end caps suitable for clip mounting. The trip coils are normally of 5A, 2.5A or 1.25A rating.
 
 With the older type of trip coils and TLF's it is important to match them correctly as the operating characteristics are only valid when used with the coil with which it was tested (i.e. same maker).
 
@@ -5036,7 +5044,7 @@ COIL
 
 + - BATTERY
 
-Fig4 SingleElementof an Electromagnetic IDMT relay
+Fig4 Single Element of an Electromagnetic IDMT relay
 
 ### 繁體中文學習譯文
 
@@ -5067,7 +5075,7 @@ To enable the relay sensitivity to be adjusted to give the desired primary curre
 
 Current Current
 
-Fig 5 Effect of ChangingPlug Setting Fig6 Effect of ChangingTMS
+Fig 5 Effect of Changing Plug Setting Fig6 Effect of Changing TMS
 
 The angle through which the disc has to turn can be varied to suit the operating time required. This adjustment is made by advancing the position of the disc by a time setting dial calibrated in 'time multipliers. The effect of reducing the Time Multiplier Setting is to move the time/current characteristic down the time scale, (see Fig 6).
 
@@ -5171,9 +5179,9 @@ The following types of protective device are used in time graded protection syst
 
 o
 
-1. HRCfuses.
+1. HRC fuses.
 
-2. ACtrip coils in conjunction with Time Limit Fuses (TLFs).
+2. AC trip coils in conjunction with Time Limit Fuses (TLFs).
 
 3. Inverse Definite Minimum Time (IDMT) relays.
 
@@ -5212,11 +5220,11 @@ In determining suitable time separation between the operating characteristics of
 
 RELAY PROTECTED
 
-CIRCUITBREAKER
+CIRCUIT BREAKER
 
 T.L.F. PROTECTED
 
-CIRCUITBREAKER
+CIRCUIT BREAKER
 
 H.R.C. FUSE
 
@@ -5372,7 +5380,7 @@ Source figure 1 · PDF p103
 
 Construction and Principle of Operation
 
-Every type of fault which occurs under the oil in a transformer gives rise to generation of gas which may be slow in the case of minor or incipient faults and violent in the case of heavy faults. This fact is made use of in the Buchholz relay which is inserted in the pipe connection between the transformer tank and conservator (seeFig 2).
+Every type of fault which occurs under the oil in a transformer gives rise to generation of gas which may be slow in the case of minor or incipient faults and violent in the case of heavy faults. This fact is made use of in the Buchholz relay which is inserted in the pipe connection between the transformer tank and conservator (see Fig 2).
 
 CONSERVATOR
 
@@ -5396,7 +5404,7 @@ PLATE FLOAT
 
 DRAIN PLUG
 
-Fig3 - Sectionof a typical BuchholzRelay
+Fig3 - Section of a typical Buchholz Relay
 
 ### 繁體中文學習譯文
 
@@ -5446,7 +5454,7 @@ E
 
 E
 
-Fig4 - Front and SideElevationof a typical Buchholz Relay
+Fig4 - Front and Side Elevation of a typical Buchholz Relay
 
 The relay is also fitted with a lower petcock (seeFig4), which is used for taking oil samples. Both the lower and upper petcocks are also used for testing purposes.
 
@@ -5474,7 +5482,7 @@ Source figure 1 · PDF p105
 
 Installation
 
-As already discussed, the relay is sited in the oil pipe between the top of the transformer tank and the conservator (seeFig 2). It should always be mounted in a straight run of piping at least five pipe diameters on the transformer side of the relay and a minimum of three diameters on the conservator side of the relay. These straight runs of piping should slope up from the tank to the oil conservator at an angle between 1 and 9 degrees to the horizontal. Care should be taken when mounting that the arrow on the relay is in the same direction as the oil flow to the conservator.
+As already discussed, the relay is sited in the oil pipe between the top of the transformer tank and the conservator (see Fig 2). It should always be mounted in a straight run of piping at least five pipe diameters on the transformer side of the relay and a minimum of three diameters on the conservator side of the relay. These straight runs of piping should slope up from the tank to the oil conservator at an angle between 1 and 9 degrees to the horizontal. Care should be taken when mounting that the arrow on the relay is in the same direction as the oil flow to the conservator.
 
 The top petcock on the relay should be below the bottom of the conservator, whilst the distance between the bottom of the device and the transformer tank should be at least 75
 
@@ -5517,7 +5525,7 @@ AR BOTTLE
 
 AR PUMP
 
-Fig5 - Connectionof Air Bottle for Testinga BuchholzRelay
+Fig5 - Connection of Air Bottle for Testinga Buchholz Relay
 
 An air pump is connected to the inlet valve of the air bottle, and the flexible hose from the outlet valve on the bottle to the lower petcock on the relay. The bottle can now be charged to a pressure of 5 to 10 psi by means of the air pump. Opening the lower petcock will allow air to enter the relays gas chamber and result in operation of the upper float.
 
@@ -5581,7 +5589,7 @@ Maintenance
 
 The relay should be inspected annually, and any accumulated gas released from the Buchholz float chamber (testing if suspect). The manufacturers also recommend that the contacts and alarms are checked. In order to avoid tripping out the transformer, it is desirable to disconnect the tripping connections from the relays before performing these tests, and to substitute an auxiliary operation indicator. Tripping tests can be carried out during switchgear maintenance to minimise disruption.
 
-Specialprecautions are required when transformer oil has been replaced, or is being circulated for cleaning, because of trapped air bubbles which can displace the floats.
+Special precautions are required when transformer oil has been replaced, or is being circulated for cleaning, because of trapped air bubbles which can displace the floats.
 
 ### 繁體中文學習譯文
 
@@ -5726,23 +5734,23 @@ e）對將負責區域的系統／裝置有基本知識，並逐步熟悉更複�
 
 Responsibilities include:
 
-a) The Authorising Engineeris to define in writing, using drawings and diagrams if considered appropriate, the exact extent of the systems and installations for which each Senior Authorised/ Authorised Persons is to be responsible and maintain a register of all Senior Authorised/ Authorised Person.
+a) The Authorising Engineer is to define in writing, using drawings and diagrams if considered appropriate, the exact extent of the systems and installations for which each Senior Authorised/ Authorised Persons is to be responsible and maintain a register of all Senior Authorised/ Authorised Person.
 
 b) If necessary, suspend the appointment of a Senior Authorised/ Authorised Persons by withdrawing their Certificate of Appointment
 
 c) Report any deficiency in the number of suitably trained and experienced Senior Authorised/ Authorised Persons that significantly impairs the Company's ability to provide a safe and effective service.
 
-d) Audit the performance and record the operational experience of eachSenior Authorised/ Authorised Persons at twelve monthly intervals.
+d) Audit the performance and record the operational experience of each Senior Authorised/ Authorised Persons at twelve monthly intervals.
 
-e) At intervals not exceedingthree years, undertake comprehensive audits, in accordancdQ) with Section 7.4 of the application of these Rules to all systems and installations and review eachSenior Authorised/ Authorised Persons operational experience
+e) At intervals not exceeding three years, undertake comprehensive audits, in accordancdQ) with Section 7.4 of the application of these Rules to all systems and installations and review each Senior Authorised/ Authorised Persons operational experience
 
-f) Notify the Company of any known defect reports or Operational Restrictions issued by a Distribution Network Operator, a manufacturer or supplier of electrical equipment, which is applicable to equipment within the areas for which the Authorising Engineeris responsible
+f) Notify the Company of any known defect reports or Operational Restrictions issued by a Distribution Network Operator, a manufacturer or supplier of electrical equipment, which is applicable to equipment within the areas for which the Authorising Engineer is responsible
 
-g) Ensure that a system is in place to circulate relevant information on Operating Restrictions and DangerousOccurrences to all Authorised Persons.
+g) Ensure that a system is in place to circulate relevant information on Operating Restrictions and Dangerous Occurrences to all Authorised Persons.
 
-h) Investigate all DangerousOccurrences involving electrical equipment, systems and installations for which the Authorising Engineeris responsible
+h) Investigate all Dangerous Occurrences involving electrical equipment, systems and installations for which the Authorising Engineer is responsible
 
-Senior AuthorisedPerson(SAP)
+Senior Authorised Person(SAP)
 
 A person appointed, in writing, by an Authorising Engineer, in accordance with the Rules, to be responsible for the implementation of the Rules, in respect of the control and operation of High-voltage electrical systems including the issue of all Safety Documents.
 
@@ -5791,7 +5799,7 @@ c) Be technically competent and qualified to safely operate, and make safe to wo
 
 d) Be familiar with the equipment, systems or installations for which appointment is sought.
 
-e) Have successfully completed a Senior Authorised Persons initial HVtraining course approved by the Authorising Engineer.
+e) Have successfully completed a Senior Authorised Persons initial HV training course approved by the Authorising Engineer.
 
 f) Be able to demonstrate competency and suitability for the role, prior to their appointment, through a formal interview carried out by the Authorising Engineer.
 
@@ -5915,7 +5923,7 @@ AP 責任：控制高壓配電系統並操作高壓開關裝置；對受任範�
 
 ### English OCR
 
-SafetyPerson
+Safety Person
 
 A person not involved in the work or test, who has received Emergency First Aid training and who has adequate knowledge, experience, and ability to avoid danger, keep watch, prevent interruption, apply First Aid, and summon help. The person is to be familiar with the system or installation being worked on or tested and is to have been instructed on the action to be taken to disconnect the equipment in the event of an accident.
 
@@ -5929,7 +5937,7 @@ c) Whilst the Senior Authorised Person is spiking a cable. ( ') Whilst testing i
 
 e) Whilst a High-voltage potential indicator is in use.
 
-f) Whilst voltage and phasingtests are being undertaken at High-voltage.
+f) Whilst voltage and phasing tests are being undertaken at High-voltage.
 
 g) Whilst any person is opening or working in a High-voltage Enclosure.
 
@@ -5937,15 +5945,15 @@ Safety Documents
 
 Permit to Work
 
-A written authority, issued by the Duty Senior Authorised Person to a Competent Person for work to be undertaken on defined HVelectrical equipment, that has been made safe.
+A written authority, issued by the Duty Senior Authorised Person to a Competent Person for work to be undertaken on defined HV electrical equipment, that has been made safe.
 
-Sanctionfor Test
+Sanction for Test
 
-A written authority issued by the Duty Senior Authorised Person for testing to be undertaken on defined HVelectrical equipment.
+A written authority issued by the Duty Senior Authorised Person for testing to be undertaken on defined HV electrical equipment.
 
-Limitationof Access
+Limitation of Access
 
-A written authority, issued by the Duty Senior Authorised or Authorised Person allowing a named person to enter and carry out specified tasks (which do not require the issue of a Permit to Work or Sanction for Test) in an HVSubstation or any other location which is under the control of the an Authorised Person.
+A written authority, issued by the Duty Senior Authorised or Authorised Person allowing a named person to enter and carry out specified tasks (which do not require the issue of a Permit to Work or Sanction for Test) in an HV Substation or any other location which is under the control of the an Authorised Person.
 
 ### 繁體中文學習譯文
 
@@ -5979,11 +5987,11 @@ g）任何人開啟或進入高壓圍護空間工作。
 
 ### English OCR
 
-IsolationandEarthingDiagram
+Isolation and Earthing Diagram
 
 A diagram attached to the Permit to Work or Sanction for Test illustrating the safety measures taken.
 
-SwitchingSchedule
+Switching Schedule
 
 A document issued by the Duty Senior Authorised Person, after countersignature, setting out the sequence of operations to be followed before a Permit to Work or a Sanction for Test is issued.
 
@@ -5995,13 +6003,13 @@ Logbook entries are to be made in chronological order; each entry being ruled of
 
 a) The acceptance and relinquishing of responsibility between Senior Authorised / Authorised Persons.
 
-b) The removal returns and the transfer of the Authorised Person'sKey from the Authorised Person'sKeyBox.
+b) The removal returns and the transfer of the Authorised Person's Key from the Authorised Person's Key Box.
 
-c) Each individual operation of High-voltage switchgear and of low voltage distribution switchgear up to and including the Main LVIntake Switches.
+c) Each individual operation of High-voltage switchgear and of low voltage distribution switchgear up to and including the Main LV Intake Switches.
 
 d) Adjustment of the Mimic Diagram to indicate the present state of the system or installation.
 
-e) The issue and return of any key for HVequipment, ie, switchgear, sub-stations, transformers etc.
+e) The issue and return of any key for HV equipment, ie, switchgear, sub-stations, transformers etc.
 
 f) The issue, cancellation, loss, or withdrawal of a Permit to Work, Sanction for Test, or Limitation of Access.
 
@@ -6009,9 +6017,9 @@ g) Spiking of a cable
 
 h) The receipt, termination and remedial action associated with an Operational Restriction.
 
-i) The withdrawal or replacement of the Authorised Person'sDuplicate Key, and of any other duplicate keys.
+i) The withdrawal or replacement of the Authorised Person's Duplicate Key, and of any other duplicate keys.
 
-j) The 3-monthly inspection of HVswitch rooms and Substations.
+j) The 3-monthly inspection of HV switch rooms and Substations.
 
 k) The annual inspection of protective equipment, test equipment and the six-monthly inspections off portable earthing equipment.
 
@@ -6155,15 +6163,15 @@ Switching Schedules and Safety Documentation
 
 Discipline
 
-HVswitching for maintenance/installation work and for fault sectionalising requires planning and discipline. When you undertake any HVswitching make yourself fully aware of what needs to be done. Prepare your schedule and have it checked by another Authorised Person. Study your system schematic carefully and ensure that you understand how the system is normally operated. Be fully aware of any Operational restrictions that may be associated with the switchgear that you will be operating. Remember that operational restrictions are there because of incidents that may have injured (possibly fatally) other Authorised Persons.
+HV switching for maintenance/installation work and for fault sectionalising requires planning and discipline. When you undertake any HV switching make yourself fully aware of what needs to be done. Prepare your schedule and have it checked by another Authorised Person. Study your system schematic carefully and ensure that you understand how the system is normally operated. Be fully aware of any Operational restrictions that may be associated with the switchgear that you will be operating. Remember that operational restrictions are there because of incidents that may have injured (possibly fatally) other Authorised Persons.
 
-discipline yourself and check, double check and check again. Have you isolated and fitted safety locks and caution signs where appropriate? Have you operated the correct switch or circuit breaker? Are you even in the right substation? These are some of the questions that you need to be constantly askingyourself, it is very easy to make an error which in the worst instance may prove fatal.
+discipline yourself and check, double check and check again. Have you isolated and fitted safety locks and caution signs where appropriate? Have you operated the correct switch or circuit breaker? Are you even in the right substation? These are some of the questions that you need to be constantly asking yourself, it is very easy to make an error which in the worst instance may prove fatal.
 
-After you have completed your HVswitching operations it is important to update your diagrams or mimic when practicably possible to ensure that subsequent switching errors do not occur.
+After you have completed your HV switching operations it is important to update your diagrams or mimic when practicably possible to ensure that subsequent switching errors do not occur.
 
 afety Switching Schedules
 
-SafetySwitching Schedules form the basis from which the relevant safety documentation will be issued and, as an Authorised Person issuing documentation, you are legally responsible for ensuring that safety documentation is correct and that safety procedures are adhered to. The procedures are there for your safety as well as the safety of others.
+Safety Switching Schedules form the basis from which the relevant safety documentation will be issued and, as an Authorised Person issuing documentation, you are legally responsible for ensuring that safety documentation is correct and that safety procedures are adhered to. The procedures are there for your safety as well as the safety of others.
 
 The main documents applicable to the model Safety Rules are:
 
@@ -6190,19 +6198,19 @@ The main documents applicable to the model Safety Rules are:
 
 ### English OCR
 
-1. Limitationof Access A Limitation of Access is a safety document that is judgemental. It is issued when the Authorised Person believes verbal instructions are insufficient. The most common instances of issue would be when nonelectrical personnel require access to a substation to undertake work not associated with the electrical system, for example, painting the walls in a substation or taking meter readings. Of course, electrical personnel may also be issued with a Limitation of Access, possibly to install a 13A socket, telephone socket, or some task similar.
+1. Limitation of Access A Limitation of Access is a safety document that is judgemental. It is issued when the Authorised Person believes verbal instructions are insufficient. The most common instances of issue would be when nonelectrical personnel require access to a substation to undertake work not associated with the electrical system, for example, painting the walls in a substation or taking meter readings. Of course, electrical personnel may also be issued with a Limitation of Access, possibly to install a 13A socket, telephone socket, or some task similar.
 
-Maintenance being undertaken on a withdrawable truck type circuit breaker would also come under the Limitation of Access document. This is because the truck has been removed from the system, discharged to earth and the bus bar and circuit shutters have been locked shut, therefore, no access to the HVsystem is available.
+Maintenance being undertaken on a withdrawable truck type circuit breaker would also come under the Limitation of Access document. This is because the truck has been removed from the system, discharged to earth and the bus bar and circuit shutters have been locked shut, therefore, no access to the HV system is available.
 
 o
 
 If the Authorised Person is going to be present for the duration of the work then they may not feel that a Limitation of Access is necessary, it is the responsibility of the Authorised Person to determine this.
 
-2. Sanctionfor Test A Sanction for Test is a safety document that would be issued if certain tests need to be undertaken on the HVsystem. These tests include continuity testing, cable identification and pressure testing. This document can only be issued after isolation and earthing of part of the HVsystem, ensuring that safety locks and signs have been positioned at the appropriate points. This document allows the restricted removal and application of earths on the isolated section.
+2. Sanction for Test A Sanction for Test is a safety document that would be issued if certain tests need to be undertaken on the HV system. These tests include continuity testing, cable identification and pressure testing. This document can only be issued after isolation and earthing of part of the HV system, ensuring that safety locks and signs have been positioned at the appropriate points. This document allows the restricted removal and application of earths on the isolated section.
 
 It may be found in certain circumstances that a Sanction for Test is used 1) before a Permit to work is issued and 2) after a Permit to Work has been cancelled. For example, a cable may need identifying before work is undertaken and testing after the work has been completed.
 
-ASanction for Test is normally issued by a Senior Authorised Person to a Competent Person. This may allow the use of contractors' Competent Persons to undertake the testing. However, it will be the responsibility of the Authorised Person to ascertain the competency of the Competent Person.
+A Sanction for Test is normally issued by a Senior Authorised Person to a Competent Person. This may allow the use of contractors' Competent Persons to undertake the testing. However, it will be the responsibility of the Authorised Person to ascertain the competency of the Competent Person.
 
 ### 繁體中文學習譯文
 
@@ -6220,11 +6228,11 @@ SFT：用於高壓系統特定測試，如導通、電纜識別及耐壓。須�
 
 ### English OCR
 
-3. Permitto Work A Permit to Work is a safety document that would be issued if work is to be undertaken on the HVsystem. The definition of 'work' as against operations is open to interpretation but if the task to be undertaken involves touching the HVsystem without the use of insulated tools or PPEthen a Permit to Work would be required. To issue a Permit to Work the HV system in question must be isolated and earthed with safety locks and signs fitted at the appropriate points. The earths cannot be removed whilst a Permit to Work is in force. The most obvious instances of issue would be when maintenance work was being undertaken on a RingMain Unit or HVSwitchboard, or when jointing on an HVcable.
+3. Permit to Work A Permit to Work is a safety document that would be issued if work is to be undertaken on the HV system. The definition of 'work' as against operations is open to interpretation but if the task to be undertaken involves touching the HV system without the use of insulated tools or PPE then a Permit to Work would be required. To issue a Permit to Work the HV system in question must be isolated and earthed with safety locks and signs fitted at the appropriate points. The earths cannot be removed whilst a Permit to Work is in force. The most obvious instances of issue would be when maintenance work was being undertaken on a Ring Main Unit or HV Switchboard, or when jointing on an HV cable.
 
 As the Senior Authorised Person, you are responsible for the section of isolated and earthed network and all the personnel working on it during that time.
 
-( he Permit to Work must state clearly the name and location of the Senior Authorised Person issuingthe work, the name of the Competent Person doing the work, the extent of the work permitted, location of all isolation and earthing points, location of all safety locks and signs, methods of rendering automatic fire extinguisher systems inoperative, etc. and any relationship between the HVpermit and other safety permits in use at the same location.
+( he Permit to Work must state clearly the name and location of the Senior Authorised Person issuing the work, the name of the Competent Person doing the work, the extent of the work permitted, location of all isolation and earthing points, location of all safety locks and signs, methods of rendering automatic fire extinguisher systems inoperative, etc. and any relationship between the HV permit and other safety permits in use at the same location.
 
 The Permit to Work is issued to a Competent Person and it is the responsibility of the Authorised Person to ensure that the Competent Person fully understands the work that is to be undertaken and that the working area is clearly defined both electrically and geographically.
 
@@ -6253,9 +6261,9 @@ CP 可在工作點加可攜式接地，但須在接收 PTW 後施加，並在簽
 
 ### English OCR
 
-For live HVphasing tests a document is not required.
+For live HV phasing tests a document is not required.
 
-For dead HV phasingtests a document is required (Sanction for Test). An isolated area is live until proved dead.
+For dead HV phasing tests a document is required (Sanction for Test). An isolated area is live until proved dead.
 
 Safety Locks and Caution Signs are fitted at points of isolation.
 
@@ -6383,7 +6391,7 @@ Work.
 
 Step 3 - Prove Dead
 
-Prove dead, with a high-voltage potential indicator, at all accessible points of isolation (where appropriate, prove dead on the Low Voltage side of A transformer, i.e., LVFeeder Pillars, LV Distribution Boards etc).
+Prove dead, with a high-voltage potential indicator, at all accessible points of isolation (where appropriate, prove dead on the Low Voltage side of A transformer, i.e., LV Feeder Pillars, LV Distribution Boards etc).
 
 Step 4- Earth
 
@@ -6397,7 +6405,7 @@ Step 5 - Issue the Permit to Work
 
 The Competent Person is to be shown the Isolation and Earthing Diagram and the safety arrangements at all the point/s of isolation and at the Point/s of the Work.
 
-Issue the Permit to Work, Isolation and Earthing Diagram and the Competent Person's key to the Safety KeyBox to the Competent Person.
+Issue the Permit to Work, Isolation and Earthing Diagram and the Competent Person's key to the Safety Key Box to the Competent Person.
 
 Step 6 - Undertake the Work
 
@@ -6602,7 +6610,7 @@ Source figure 2 · PDF p127
 
 Cable Identification
 
-DistinguishingBetweenLVand HV Cables
+Distinguishing Between LV and HV Cables
 
 1. If cable is plastic over sheathed inspect for voltage rating.
 
@@ -6620,13 +6628,13 @@ Note: Again, a thorough knowledge of the cables is required.
 
 5. Expose all cables adjacent to the cable required to confirm that they are in the correct relative position according to the records.
 
-6. Use signal injection to positively identify any LVcable which is required for work.
+6. Use signal injection to positively identify any LV cable which is required for work.
 
-7. Use signal injection to positively identify any HVcable that could be mistaken for the required LVcable.
+7. Use signal injection to positively identify any HV cable that could be mistaken for the required LV cable.
 
-DistinguishingBetweenLVCables
+Distinguishing Between LV Cables
 
-Where more than one LVcable is present it will be necessary to positively identify the required LVcable, this being achieved by signal injection. Alternatively, positive identification may be obtained by temporarily interrupting supply.
+Where more than one LV cable is present it will be necessary to positively identify the required LV cable, this being achieved by signal injection. Alternatively, positive identification may be obtained by temporarily interrupting supply.
 
 /|\ Accuracy of records must never be assumed.
 
@@ -6679,7 +6687,7 @@ dote: The use of a rope noose around the cable as a positive marker is recommend
 
 8. If the circuit termination has been proved dead by an approved voltage indicating device, and connected to earth, then no further means of proving dead are required at the point of work.
 
-9. If a cable terminates within the HVcable box attached directly to an HV/LVtransformer then, for the purpose of proving the HVcable dead, it will be enough to prove the transformer dead by testing for the absence of voltage on its LVside. The transformer should be confirmed dead on the LVafter the earth is applied to the HVSide.
+9. If a cable terminates within the HV cable box attached directly to an HV/LV transformer then, for the purpose of proving the HV cable dead, it will be enough to prove the transformer dead by testing for the absence of voltage on its LV side. The transformer should be confirmed dead on the LV after the earth is applied to the HV Side.
 
 ### 繁體中文學習譯文
 
@@ -6768,9 +6776,9 @@ a) Only approved cable identifying equipment shall be used.
 
 b) The positive identification must be demonstrated to the person who is to work upon it.
 
-c) Where a joint box or a portion of the cable sheath is to be removed, or the cable cores exposed, this shall be done under a Sanction-for-Test and the PersonalSupervision of the Senior Authorised Person in charge of the work.
+c) Where a joint box or a portion of the cable sheath is to be removed, or the cable cores exposed, this shall be done under a Sanction-for-Test and the Personal Supervision of the Senior Authorised Person in charge of the work.
 
-ElectricalEquipment Usedfor Identification
+Electrical Equipment Used for Identification
 
 Most of the equipment used for identifying dead(isolated) cables operate by detecting the external field produced when current is passed round a loop formed by 2 of the cores of the cable or trefoil under test. The injected current is usually at audio frequency and pulsed to ( d recognition in the presence of power frequencies or interference.
 
@@ -6802,9 +6810,9 @@ c）拆接頭箱／護套或露出線芯，必須在 SFT 下由負責 SAP 親自
 
 ### English OCR
 
-Connecting the SignalInjection Transmitter after the Issue of a Sanction-for-Test
+Connecting the Signal Injection Transmitter after the Issue of a Sanction-for-Test
 
-a) To a PlainFeeder
+a) To a Plain Feeder
 
 1. Insert test probes at one end.
 
@@ -6816,11 +6824,11 @@ a) To a PlainFeeder
 
 5. Identify cable at point of work.
 
-Do not connect the transmitter between one core and earth as the injected signalwill not remain confined solely to the intended cable circuit.
+Do not connect the transmitter between one core and earth as the injected signal will not remain confined solely to the intended cable circuit.
 
-b) To ATeed Feeder
+b) To A Teed Feeder
 
-1. Insert test probes atone end.
+1. Insert test probes at one end.
 
 2. Connect transmitter to 2 cores via test probes.
 
@@ -6832,15 +6840,15 @@ b) To ATeed Feeder
 
 6. Identify cable at point of work.
 
-c) To a Transformer Feeder(Switch-fuseOr FuseSwitch)
+c) To a Transformer Feeder(Switch-fuse Or Fuse Switch)
 
-1. Switch HVswitch-fuse/fuse switch to on.
+1. Switch HV switch-fuse/fuse switch to on.
 
-2. Prove dead at LVincomer contacts.
+2. Prove dead at LV incomer contacts.
 
-3. Connect transmitter to 2 cores via LVincomer contacts.
+3. Connect transmitter to 2 cores via LV incomer contacts.
 
-4. Confirm signal in the cable adjacent to HVswitch-fuse/fuse switch.
+4. Confirm signal in the cable adjacent to HV switch-fuse/fuse switch.
 
 5. Identify cable at point of work.
 
@@ -6914,7 +6922,7 @@ c
 
 10.The hollow carrying the greatest signal will change if the cable is the correct one.
 
-Note: The phase identities of the single cores can be determined prior to exposingthe cores.
+Note: The phase identities of the single cores can be determined prior to exposing the cores.
 
 No change in signal amplitude with longitudinal movement will be apparent with single core cables (no twist).
 
@@ -6946,7 +6954,7 @@ Always use the minimum sender output which will give a distinctive signal at the
 
 Identification of Disused Cables
 
-When an HVcable has been disused for a period or is disconnected from the system, and it is required to identify it at some point along its length, the following steps must be taken to enable tests to be made:
+When an HV cable has been disused for a period or is disconnected from the system, and it is required to identify it at some point along its length, the following steps must be taken to enable tests to be made:
 
 1. All capped ends must be removed, and the cores insulated from each other and the sheath.
 
@@ -7033,11 +7041,11 @@ Procedure for spikinga cable
 
 3. Excavate the cable to expose the cable to be worked on.
 
-4. Usingcable tracing to positively identify the cable.
+4. Using cable tracing to positively identify the cable.
 
 o
 
-At this point you will have to ascertain that this is the correct cable. If you cannotbe 100% certainsoyou will have to spike the cable
+At this point you will have to ascertain that this is the correct cable. If you cannot be 100% certain so you will have to spike the cable
 
 5. All safety paperwork is to be prepared
 
@@ -7109,7 +7117,7 @@ PPE 是否適當；
 
 Testing High-voltage Installations
 
-1. The Commissioningof New or Modified Circuits
+1. The Commissioning of New or Modified Circuits
 
 1.1.Pressure testing should be carried out after extensions, modifications, alterations, or repairs have been carried out to the high-voltage conductors of the distribution system.
 
@@ -7123,7 +7131,7 @@ Testing High-voltage Installations
 
 2. Test Voltages
 
-2.1 Distribution cable should be tested to BSrecommended values (seeTable 1).
+2.1 Distribution cable should be tested to BS recommended values (see Table 1).
 
 2.2 When testing cables terminated to switchgear the test voltage may be limited by the manufacturers recommended test values for the switchgear. Most modern switchgear, however, is so designed that those parts which cannot be readily disconnected are capable of withstanding the cable test voltage. The following switchgear meets these requirements:
 
@@ -7131,7 +7139,7 @@ Testing High-voltage Installations
 
 2.2.2 Oil Switches on RMU's complying with ESIS41-12.
 
-2.2.3 Switchgear should be pressure tested to BSrecommended values (seeTable 2). The test voltage can be either ACor DCand is applied both between conductors and earth.
+2.2.3 Switchgear should be pressure tested to BS recommended values (see Table 2). The test voltage can be either ACor DC and is applied both between conductors and earth.
 
 2.2.4 When testing older types of switchgear, it may be necessary to de-rate the test voltages. Switchgear manufacturers should be consulted (giving age, type, serial number etc) for maximum recommended test pressures.
 
@@ -7416,7 +7424,7 @@ Where is it Going
 
 A. ISS OCB RING TO DSS A
 
-B. DSS A OILSWITCH RING TO ISS
+B. DSS A OIL SWITCH RING TO ISS
 
 C. DSS A OIL FUSESWITCH TO TRANSFORMER
 
@@ -7796,7 +7804,7 @@ To,
 
 The following High-voltage Equipment has been made safe in accordance with the Distribution Safety Rules for the Testing described on this Sanction-for-Test to proceed:
 
-TREAT ALLOTHER EQUIPMENT ASLIVE
+TREAT ALL OTHER EQUIPMENT AS LIVE
 
 The points of isolation are (Safety Locks and Caution Signs Fitted):
 
@@ -7804,9 +7812,9 @@ Danger Signs are placed at (Adjacent live equipment) -- if none state NONE:
 
 Circuit Main Earths are applied at (safety locks fitted unless Earth to be removed for testing):
 
-Earthsthatmay be removed for testing (Working Locks Fitted):
+Earths that may be removed for testing (Working Locks Fitted):
 
-Brief description of testing to becarried out:
+Brief description of testing to be carried out:
 
 Special Instructions - If None State NONE:
 
@@ -7982,7 +7990,7 @@ York MOD HV Ring Diversion Exercise
 
 The Scenario
 
-You are the authorised person for the MOD High-voltage Open RingMain. It has been decided that a new building is to be erected on your site. The area that has been chosen for the new building will cross the route of your existing high-voltage cable.
+You are the authorised person for the MOD High-voltage Open Ring Main. It has been decided that a new building is to be erected on your site. The area that has been chosen for the new building will cross the route of your existing high-voltage cable.
 
 You must now make the necessary preparations to divert the high-voltage cable so that it is out with the footprint of the new building
 
@@ -7996,21 +8004,21 @@ The Task
 
 Complete the following documentation as per Develop's High-voltage Safety Rules and Procedures:
 
-a) TheSwitchingSchedule and Isolation and Earthing Diagram for the activities/operations you perform to enable a Permit to Work to be issued for the cable diversion work to be carried out.
+a) The Switching Schedule and Isolation and Earthing Diagram for the activities/operations you perform to enable a Permit to Work to be issued for the cable diversion work to be carried out.
 
-b) TheSite Logfor the activities/operations you should perform up to and including the issue of the Permit to Work.
+b) The Site Log for the activities/operations you should perform up to and including the issue of the Permit to Work.
 
 c) Parts1 and 2 of the Permit to Work.
 
-d) TheSwitching Schedule and Isolation and Earthing Diagram for the activities/operations you perform to enable a Sanction to Test to be issued for the cable testing to be carried
+d) The Switching Schedule and Isolation and Earthing Diagram for the activities/operations you perform to enable a Sanction to Test to be issued for the cable testing to be carried
 
 out.
 
-e) TheSite Logfor the activities/operations you should perform up to and including the issue of the Sanction to Test.
+e) The Site Log for the activities/operations you should perform up to and including the issue of the Sanction to Test.
 
-f) TheSwitching Schedule for the activities/operations you perform to carry out live phasingand restore the system to normal to be carried out.
+f) The Switching Schedule for the activities/operations you perform to carry out live phasing and restore the system to normal to be carried out.
 
-g) TheSite Logfor the activities/operations you should perform up to and including the restoration of the system to normal.
+g) The Site Log for the activities/operations you should perform up to and including the restoration of the system to normal.
 
 ### 繁體中文學習譯文
 
@@ -8482,7 +8490,7 @@ To, /up PEA
 
 The following High-voltage Equipment has been made safe in accordance with the Distribution Safety Rules for the work described on this Permit-to-Work to proceed:
 
-HV CABLE BETWEEN ISS AND DSS 'A' TREAT ALLOTHER EQUIPMENT ASLIVE
+HV CABLE BETWEEN ISS AND DSS 'A' TREAT ALL OTHER EQUIPMENT AS LIVE
 
 The points of isolation are (Safety Locks and Caution Signs Fitted):
 
@@ -8494,7 +8502,7 @@ ranger Signs are placed at (Adjacent live equipment) - if None State NONE:
 
 NONE REQUIRED
 
-Circuit Main Earths are applied at (Safety LocksFitted):
+Circuit Main Earths are applied at (Safety Locks Fitted):
 
 ISS OCB RING TO DSS 'A‘
 
@@ -8508,7 +8516,7 @@ INSERTING A NEW LENGTH OF HV CABLE A JOINTS
 
 Special Instructions - If None State NONE:
 
-1 HV CABLESPIKED ATPOINTS OF WORK TO CONFIRM DEAD
+1 HV CABLE SPIKED AT POINTS OF WORK TO CONFIRM DEAD
 
 Senior Authorised Person
 
@@ -9118,7 +9126,7 @@ ISS OCB bNO INCOMER OPERATING HANbLE
 
 ISS OCB RING TO bSS A CIRCUIT
 
-b A diL CH TO ISS ____________________________________________________ Earths that may be removed fortesting (Working LocksFitted): ___________________________________________________
+b A diL CH TO ISS ____________________________________________________ Earths that may be removed for testing (Working Locks Fitted): ___________________________________________________
 
 ISS OCB RING TO bSS A CIRCUIT
 
@@ -9997,7 +10005,7 @@ Source figure 1 · PDF p174
 
 ### English OCR
 
-Question7 __________________________________________________________________ Under BSguidance how many times can an oil circuit breaker be re-closed after opening under
+Question7 __________________________________________________________________ Under BS guidance how many times can an oil circuit breaker be re-closed after opening under
 
 fault conditions?
 
@@ -10009,7 +10017,7 @@ _____Mark
 
 /I
 
-Question8__________________________________________________________________ What are the five golden rules that must be obeyed before work on HVequipment can begin?
+Question8__________________________________________________________________ What are the five golden rules that must be obeyed before work on HV equipment can begin?
 
 Delegate Answer _______
 
@@ -10021,7 +10029,7 @@ Mark
 
 I Question9 ___________________________________________________________
 
-If an Operational Restriction arrives, what action should the SAPtake on receipt of it?
+If an Operational Restriction arrives, what action should the SAP take on receipt of it?
 
 Delegate Answer
 
@@ -10073,7 +10081,7 @@ Mark
 
 TF
 
-Question 12 __________________________________________________________ On an IDMT relay what does 125% PSindicate and what does 0.2 TMS indicate?
+Question 12 __________________________________________________________ On an IDMT relay what does 125% PS indicate and what does 0.2 TMS indicate?
 
 Delegate Answer
 
@@ -10146,7 +10154,7 @@ Source figure 1 · PDF p177
 
 ### English OCR
 
-Question15 __________________________________________ What is meant by discrimination, when referring to HVprotection
+Question15 __________________________________________ What is meant by discrimination, when referring to HV protection
 
 Delegate Answer
 
@@ -10273,13 +10281,13 @@ FEEDER
 
 PILLAR
 
-Figure 1- HV DistributionSystem
+Figure 1- HV Distribution System
 
-It is necessary to carry out the routine testing of the protection fitted to the incoming supply oil circuit breaker. Details of the protection are given on a Switchgear and Transformer Schedule, and details of the tests are typically given in a JobSheet, for example PSA job sheet 22.103.
+It is necessary to carry out the routine testing of the protection fitted to the incoming supply oil circuit breaker. Details of the protection are given on a Switchgear and Transformer Schedule, and details of the tests are typically given in a Job Sheet, for example PSA job sheet 22.103.
 
 Will this testing interrupt the supply to the client, if so, what arrangements would you tak prior to the commencement of the test?
 
-2. If you are carrying out the work yourself, what paperwork you would issuefor the job, and what safety measures you would take?
+2. If you are carrying out the work yourself, what paperwork you would issue for the job, and what safety measures you would take?
 
 3. What would be different if a contractor was carrying out this testing on your behalf?
 
