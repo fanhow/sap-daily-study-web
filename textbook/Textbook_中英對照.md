@@ -69,7 +69,7 @@ Web: www.developtraining.co.uk
 
 Tel: 01332 25 35 00
 
-Email:enquiries@developtraining.co.uk
+Email: enquiries@developtraining.co.uk
 
 ### 繁體中文學習譯文
 
@@ -146,7 +146,7 @@ Modern industrial and commercial organisations rely heavily on the safe and secu
 
 Electricity is dangerous and without the appropriate training, equipment, or precautions in place working on or near electrical systems can have severe consequences, such as the loss of life, severe injury, damage to property and considerable financial loss.
 
-Whenever electrical work is to be carried out on extensive and complex systems,managers are required to establish a system of written rules and procedures which embody a methodical approach so that the safety principles involved can be clearly understood by everyone. This is especially true in relation to the use, maintenance, and operation of high-voltage switchgear.
+Whenever electrical work is to be carried out on extensive and complex systems, managers are required to establish a system of written rules and procedures which embody a methodical approach so that the safety principles involved can be clearly understood by everyone. This is especially true in relation to the use, maintenance, and operation of high-voltage switchgear.
 
 High-voltage switchgear must only be operated by people who are competent to do so. Being competent means having sufficient knowledge or experience to prevent danger or injury; or being under such degree of supervision as may be appropriate for the nature of the work. Switchgear operated incorrectly can result in danger both to those operating it and others.
 
@@ -177,7 +177,7 @@ nature = 工作性質 / 工作本身的特性
 
 Using this Workbook
 
-To help you understand how to undertake the roles and responsibilities of an Authorised Person,a training course has been developed in conjunction with this workbook. This is not a self-teaching document. You must attend a training course and have received instructions from a qualified trainer before working assuming the responsibilities of an Authorised Person working in an industrial or commercial environment.
+To help you understand how to undertake the roles and responsibilities of an Authorised Person, a training course has been developed in conjunction with this workbook. This is not a self-teaching document. You must attend a training course and have received instructions from a qualified trainer before working assuming the responsibilities of an Authorised Person working in an industrial or commercial environment.
 
 The amount of training you will require will depend largely upon your previous experience, but there are many aspects involved in the role of Authorised Person and many skills that must be mastered.
 
@@ -368,7 +368,11 @@ that someone could be harmed by the hazard(s)
 • 安排在場內工作的其他公司員工之安全措施（第 12 條）。
 • 確保員工入職或轉調新工作時接受安全訓練（第 13 條）。
 • 員工應依指導與訓練工作，並通報健康安全安排的缺失（第 14 條）。
-風險評估：每位僱主都必須對下列人員的健康安全風險作適當且充分的評估：a）工作時暴露於風險的員工；b）並非其員工但可能受影響的人。
+風險評估：每位僱主都必須對下列人員的健康安全風險作適當且充分的評估：
+
+a）工作時暴露於風險的員工；
+
+b）並非其員工但可能受影響的人。
 風險評估是一套有系統的程式：辨識活動或任務的危害、評估人員受害的可能性，再實施控制措施以降低風險。圖中 risk 指人員因危害而受傷害的可能性。
 
 > 法規條號按教材保留；本頁為教材翻譯，未將其改寫為現行法律核對結果。
@@ -448,40 +452,40 @@ Source figure 1 · PDF p9
 
 ## PDF p10｜測試許可與工作許可責任
 
-### English OCR
+### English — saved correction
 
 • Sanction for test - issued to allow specified HV equipment to be tested, identifying the conditions under which the testing is to be carried out and the actions taken to safeguard the people performing the test, and anyone else who may have access to the area. A sanction for test may allow temporary earth connections applied as part of the protective measures specified for a work activity to be removed for the purposes of testing.
 
-A A permit-to-work should only be issued by someone who is competent and / • \ authorised to do so.
+A permit-to-work should only be issued by someone who is competent and authorised to do so.
 
 Permits-to-work should only be given to people capable of understanding the precautions and limitations of the activity described on the permit.
 
 Ideally, a permit should be issued at the work location and the task clearly explained to the recipient before the permit is handed over.
 
-DEVELOP
-
-PwitrfthrJTLGrove
-
-AP15- AUTHORISEDPERSON:HV
-
-PERMITTOWORK
-
 The recipient of a permit is responsible for ensuring that the safety precautions identified are adhered to, and that only the permitted work is completed, confined to the area defined in the permit. It is important that the recipient understands these responsibilities and is, to the best of their knowledge, satisfied that the precautions are adequate for the work they or their work group are about to complete when the permit is received.
 
 When work is to be carried out on HV switchgear or equipment, it is likely that those doing the work will need to be designated 'authorised person'.
 
-More information on the operational safety documents specific to this coursecan befound in the "Develop High-voltageSafety Rules and Procedures" section of this workbook.
+More information on the operational safety documents specific to this course can befound in the "Develop High-voltageSafety Rules and Procedures" section of this workbook.
 
 ### 繁體中文學習譯文
 
 • 測試許可（Sanction for test）：允許對指定高壓裝置進行測試，指出測試條件，以及保護測試人員與可能進入區域之其他人員的措施。為測試目的，SFT 可能允許移除原先作為工作保護措施而加設的臨時接地。
-工作許可只能由具能力且獲授權的人發出，也只能交給能理解許可所述預防措施與活動限制的人。理想上應在工作地點發出，在交付前向接收人清楚說明工作。
+
+工作許可只能由具能力且獲授權的人發出。
+
+也只能交給能理解許可所述預防措施與活動限制的人
+
+理想上應在工作地點發出，在交付前向接收人清楚說明工作。
+
 接收人負責確保遵守檔案列明的安全預防措施，只執行許可範圍內的工作，且不超出指定區域。接收時，接收人必須理解這些責任，並依自己所知，確認措施足以保障自己或工作小組即將執行的工作。
+
 在高壓開關裝置或其他高壓裝置工作的人員，可能需要被指定為「授權人員」。
+
 圖示為 AP15 高壓工作許可表（Permit to Work）。
 本課程操作安全檔案的更多說明，見本手冊「Develop 高壓安全規則與程式」章。
 
-
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p10。
 
@@ -498,34 +502,27 @@ Source figure 2 · PDF p10
 
 ## PDF p11｜工作場所電氣法規
 
-### English OCR
+### English — saved correction
 
 The Electricity at Work Regulations
 
 The Electricity at Work Regulations represent a genuine initiative to improve electrical safety. They attempt to ensure that all systems are constructed in such a way to prevent (as far as is reasonably practical) a risk of injury, and that every work activity, including the operation, use, and maintenance of a system should be carried out in such a manner as not to give rise to danger. All places of work are covered by these regulations.
 
-They are detailed, precise and applicable in the most up-to-date work systems.Ignoring them will be regarded as a criminal offence. A thorough knowledge of the Regulations as they apply in any particular workplace, and a genuine desire never to abuse them will significantly reduce the number of injuries caused by the most common source of energy - Electricity.
+They are detailed, precise and applicable in the most up-to-date work systems. Ignoring them will be regarded as a criminal offence. A thorough knowledge of the Regulations as they apply in any particular workplace, and a genuine desire never to abuse them will significantly reduce the number of injuries caused by the most common source of energy - Electricity.
 
 The regulations cover:
 
-• All systems,plant, and equipment to be designed to ensure maximum practical level of safety.
-
+• All systems, plant, and equipment to be designed to ensure maximum practical level of safety.
 • Installation and maintenance to reflect specific safety requirements.
-
 • Access, Light and Working Space to be adequate.
-
 • Means of cutting off power and isolating equipment to be available.
-
 • Precautions to be taken to prevent charging.
-
 • No live working unless absolutely essential.
-
-• Specific precautions to be taken where live working is essential. ' All persons to be effectively trained and supervised. “• Responsibility for observing safety policy to be clearly defined.
-
+• Specific precautions to be taken where live working is essential. 
+• All persons to be effectively trained and supervised. 
+• Responsibility for observing safety policy to be clearly defined.
 • All equipment and tools to be appropriate for safe working.
-
-The regulations apply to all operational voltages, electrical systems,and equipment within the workplace. Some of the systems and equipment to which these regulations apply may have to conform with additional standards, for example BS7671,but must ultimately comply with the Electricity at Works Regulations1989.
-
+The regulations apply to all operational voltages, electrical systems, and equipment within the workplace. Some of the systems and equipment to which these regulations apply may have to conform with additional standards, for example BS7671, but must ultimately comply with the Electricity at Works Regulations1989.
 The HSEguidance document, HSR 25, accompanies the regulation to provide plain speakingguidance on the regulations and gives technical and legal guidance on them
 
 ### 繁體中文學習譯文
@@ -542,9 +539,11 @@ The HSEguidance document, HSR 25, accompanies the regulation to provide plain sp
 • 所有人員都應接受有效訓練與監督。
 • 清楚界定遵守安全政策的責任。
 • 所有裝置與工具均應適合安全使用。
-規定適用於工作場所內所有操作電壓、電氣系統及裝置。部分系統或裝置可能還須符合 BS 7671 等標準，但最終仍須符合《1989 年工作場所電氣法規》。HSE 指南 HSR 25 以白話配合法規，提供技術與法律指引。
 
+規定適用於工作場所內所有操作電壓、電氣系統及裝置。部分系統或裝置可能還須符合 BS 7671 等標準，但最終仍須符合《1989 年工作場所電氣法規》。
+HSE 指南 HSR 25 以白話配合法規，提供技術與法律指引。
 
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p11。
 
@@ -556,7 +555,7 @@ Source figure 1 · PDF p11
 
 ## PDF p12｜法規中的用語定義
 
-### English OCR
+### English — saved correction
 
 Interpretations used in the Regulations:
 
@@ -571,8 +570,6 @@ Interpretations used in the Regulations:
 5. Injury means death or personal injury from electric shock, electric burn, electrical explosion, or arcing, and from fire or explosion initiated by electrical energy, where any such death or injury is associated with the generation, provision, transmission, transformation, rectification, conversion, conduction, distribution, control, storage, measurement, or use of electrical energy.
 
 6. System means an electrical system in which all the electrical equipment is, or may be, electrically connected to a common source of electrical energy, and includes such source and such equipment.
-
-c
 
 7. Charged/Live - The terms 'charged' and live' have different meanings; they are not defined in the Regulations, so they take their ordinary meaning. 'Live' means that the item in question is at a voltage, by being connected to a source of electricity for example as in normal use. 'Charged' means that the item has acquired a charge either because it is live or because it has become charged by other means such as by static or induction charging or has retained or regained a charge due to capacitance effects - even though it may be disconnected from the rest of the system.
 
@@ -589,70 +586,47 @@ c
 7. 帶電荷／帶電（Charged／Live）：兩詞意義不同，法規未特別定義，故採一般意義。Live 指物體處於某電壓，例如正常使用時接到電源。Charged 指物體已帶有電荷，原因可能是接上電源、靜電、感應，或因電容效應而保留或重新產生電荷；即使已與系統其他部分斷開，也可能如此。
 8. 無電（Dead）：法規未特別定義，採一般意義；在此指導體既非 live，也非 charged。
 
-
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p12。
 
 
 ## PDF p13｜第 3 條：責任人；絕對義務
 
-### English OCR
+### English — saved correction
 
 Regulation3 - Personson whom duties are imposed by these Regulations It is the duty of every employer and self-employed person to comply with the provisions of these Regulations in so far as they relate to matters which are within their control.
 
 While at work every employee has the duty to:
 
-a) to co-operate with their employer, so far as is necessary,to allow the employer to comply with the duties placed on them by the Regulations
+a) to co-operate with their employer, so far as is necessary, to allow the employer to comply with the duties placed on them by the Regulations
 
 b) to comply with the provisions of the Regulations for matters which are within their control.
 
-A person may find themselves responsible for causingdanger to arise elsewhere in an electrical system, at a point beyond their own installation. Because such circumstances are \thin their control, the effect of regulation 3 is to bring responsibilities for compliance with the rest of the Regulations to that person, thus making them a dutyholder.
+A person may find themselves responsible for causingdanger to arise elsewhere in an electrical system, at a point beyond their own installation. Because such circumstances are within their control, the effect of regulation 3 is to bring responsibilities for compliance with the rest of the Regulations to that person, thus making them a dutyholder.
 
-Managing Director
-
-Authorising
-
-Engineer
-
-Facilities
-
-Management
-
-A SafeSystem of
-
-Work
-
-Authorised
-
-Person
-
-Authorised
-
-Person
-
-Authorised
-
-Person
-
-Competent Person Competent Person
-
-Example of Dutyholder within the Workplace
-
-What ismeant by absolute and reasonablypracticable? Duties in some of the Regulations are subject to the qualifying term 'reasonably practicable'. Where qualifying terms are absent the requirement in the regulation is said to be absolute.
+What is meant by absolute and reasonably practicable? Duties in some of the Regulations are subject to the qualifying term 'reasonably practicable'. Where qualifying terms are absent the requirement in the regulation is said to be absolute.
 
 Absolute
-
 If the requirement in a regulation is 'absolute', for example if the requirement is not qualified by the words 'so far as is reasonably practicable', the requirement must be met regardless of cost or any other consideration. Regulations making such absolute requirements are subject to the defence provision of regulation 29.
 
 ### 繁體中文學習譯文
 
-第 3 條：法規施加責任的人員。每位僱主及自僱人士，都有義務就其控制範圍內的事項遵守規定。員工工作時有義務：a）在必要範圍內與僱主合作，使僱主能履行法規責任；b）就自身控制範圍內事項遵守規定。
-一個人可能使電氣系統的其他位置產生危險，即使該位置已超出自己的裝置邊界。只要相關情況仍在其控制範圍內，第 3 條就使其成為 dutyholder（法定責任承擔者），須承擔遵守其他條文的責任。
-工作場所責任架構示例圖：董事總經理（Managing Director）、授權工程師（Authorising Engineer）、設施管理、安全工作制度、各授權人員（AP）與具能力人員（CP）。連線關係請對照原圖。
+第 3 條：法規施加責任的人員。每位僱主及自僱人士，都有義務就其控制範圍內的事項遵守規定。員工工作時有義務：
+
+a）在必要範圍內與僱主合作，使僱主能履行法規責任；
+
+b）就自身控制範圍內事項遵守規定。
+
+某人可能因造成電氣系統其他位置出現危險而須承擔責任，即使該位置已超出其自身裝置的範圍。由於此類情況在其控制範圍內，第 3 條規定使該人負有遵守本法規其餘規定的責任，因此成為責任承擔者（Dutyholder）。
+
+工作場所責任架構示例圖：
+
+董事總經理（Managing Director）、授權工程師（Authorising Engineer）、設施管理、安全工作制度、各授權人員（AP）與具能力人員（CP）。連線關係請對照原圖。
 「絕對」與「合理可行」是什麼？部分條文附有 reasonably practicable 限定；若未附此類限定，要求即稱為絕對要求。
 絕對義務：若要求未以「在合理可行範圍內」等語句限制，就必須遵守，不論成本或其他考量。此類要求仍受第 29 條的抗辯規定所規範。
 
-
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p13。
 
@@ -664,11 +638,11 @@ Source figure 1 · PDF p13
 
 ## PDF p14｜合理可行；第 4 條系統與工作活動
 
-### English OCR
+### English — saved correction
 
 Reasonably practicable
 
-Generally, you should do everything 'reasonably practicable' to protect people from harm. This means balancing the level of risk against the measuresneeded to control the real risk in terms of money, time, or trouble.
+Generally, you should do everything 'reasonably practicable' to protect people from harm. This means balancing the level of risk against the measures needed to control the real risk in terms of money, time, or trouble.
 
 In the context of the Regulations, where the risk is very often that of death and where the precautions are so often simple and affordable the level of duty to prevent that danger approaches that of an absolute duty.
 
@@ -676,7 +650,7 @@ Regulation 4 - Systems, work activities and protective equipment
 
 Regulation 4(1)
 
-"All systems shall at all times be of such construction as to prevent, so far as is reasonably practicable, clanger."
+"All systems shall at all times be of such construction as to prevent, so far as is reasonably practicable, danger."
 
 When assessingthe suitability of the construction of an electrical system, consideration should be given to the conditions of actual application or use of the electrical equipment in the system. This will include the testing, commissioning, operation, and maintenance of the equipment throughout the life of the system.
 
@@ -692,7 +666,7 @@ Maintenance should be sufficient to prevent danger so far as reasonably practica
 
 Regulation 4(3)
 
-"Every work activity, including operation, use and maintenance of a system and work near a system, shall be carried out in such a manner as not to give rise, sofar as is reasonably practicable, to danger."
+"Every work activity, including operation, use and maintenance of a system and work near a system, shall be carried out in such a manner as not to give rise, so far as is reasonably practicable, to danger."
 
 ### 繁體中文學習譯文
 
@@ -704,28 +678,28 @@ Regulation 4(3)
 本款關注的是藉維護確保系統安全的必要性，而非如何安全地執行維護。維護程度應足以在合理可行範圍內防止危險。
 4(3)：每項工作活動，包括系統操作、使用、維護及在系統附近工作，都應以在合理可行範圍內不產生危險的方式進行。
 
-
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p14。
 
 
 ## PDF p15｜第 4 條：無電作業與保護裝置
 
-### English OCR
+### English — saved correction
 
 This regulation requires that work activities of any sort, whether directly or indirectly associated with an electrical system, must be carried out in a way which, as far as is reasonably practicable, does not give rise to danger.
 
-In the case of electrical work, it is preferable that the conductors are made dead before work starts. In such cases,it is essential that the equipment is isolated, and the conductors proved dead at the point of work before the work starts. Where a test instrument or voltage indicator is used for this purpose, this device should itself be proved immediately before and immediately after testing the conductors.
+In the case of electrical work, it is preferable that the conductors are made dead before work starts. In such cases, it is essential that the equipment is isolated, and the conductors proved dead at the point of work before the work starts. Where a test instrument or voltage indicator is used for this purpose, this device should itself be proved immediately before and immediately after testing the conductors.
 
-Safe systems of work incorporating safety isolation procedures are important for work on equipment which is to be made dead before work starts. Particular consideration is needed where multiple sources of supply can exist. Some work, such as fault finding and testing or ( /e jointing by the electricity supply industry, may require electrical equipment to remain energised during the work.
+Safe systems of work incorporating safety isolation procedures are important for work on equipment which is to be made dead before work starts. Particular consideration is needed where multiple sources of supply can exist. Some work, such as fault finding and testing or live jointing by the electricity supply industry, may require electrical equipment to remain energised during the work.
 
 The operation, maintenance, and testing of electrical systems and equipment must only be carried out by those people who are competent for that work.
 
 Regulation4(4)
 
-"Any equipment provided under these Regulationsfor the purpose of protecting persons at work on or near electrical equipment shall be suitablefor the usefor which it is provided, be maintained in a condition suitablefor that use, and be properly used."
+"Any equipment provided under these Regulationsfor the purpose of protecting persons at work on or near electrical equipment shall be suitable for the use for which it is provided, be maintained in a condition suitablefor that use, and be properly used."
 
-, 'Protective equipment' typically refers to those specialtools, protective clothing, and \nsulating screening materials necessary to do work safely on live electrical equipment.
+'Protective equipment' typically refers to those specialtools, protective clothing, and insulating screening materials necessary to do work safely on live electrical equipment.
 
 The regulation requires the protective equipment to be:
 
@@ -735,29 +709,41 @@ b) maintained in that condition
 
 c) properly used.
 
-Advice on safe working practices is given in HSEguidance.
+Advice on safe working practices is given in HSE guidance.
 
 ### 繁體中文學習譯文
 
-任何直接或間接涉及電氣系統的工作，都必須以在合理可行範圍內不產生危險的方式進行。
-電氣工作宜在開始前使導體無電。此時必須隔離裝置，並在工作位置確認導體無電。若使用測試儀器或電壓指示器，應在測試導體的緊接之前與之後，確認儀器本身正常。
-對於工作前必須無電的裝置，納入安全隔離程式的安全工作制度非常重要；存在多重電源時尤其要注意。部分工作，例如故障查詢、測試，或供電業者的帶電接續，可能需要裝置在工作時保持通電。
-電氣系統與裝置的操作、維護及測試，只能由具備該項工作能力的人員執行。
+本條規定要求，任何類型的作業活動，無論與電氣系統直接或間接相關，都必須以在合理可行範圍內盡可能不造成危險的方式進行。
+
+進行電氣作業時，宜在開始作業前使導體處於無電狀態。在這種情況下，作業開始前必須將設備隔離，並在作業位置驗證導體確實無電。若使用測試儀器或電壓指示器進行驗電，必須在測試導體的緊接之前及之後，確認該儀器本身功能正常。
+
+對於須在作業開始前使設備處於無電狀態的工作，建立包含安全隔離程序的安全作業制度十分重要。當設備可能存在多個供電來源時，尤其需要審慎考量。某些工作，例如故障查找、測試，或電力供應業進行的帶電接續作業，可能需要設備在作業期間維持帶電狀態。
+
+電氣系統及設備的操作、維護與測試，只能由具備執行該項工作能力的人員進行。
+
 4(4)：依本法規為保護在電氣裝置上或附近工作的人員而提供的裝置，必須適合其用途、維持適用狀態，並正確使用。
-保護裝置通常指為安全執行帶電電氣工作所需的特殊工具、防護衣及絕緣遮蔽物。規定要求它們：a）適合使用；b）維持該適用狀態；c）正確使用。HSE 指南提供安全工作實務建議。
+保護裝置通常指為安全執行帶電電氣工作所需的特殊工具、防護衣及絕緣遮蔽物。規定要求它們：
 
+a）適合使用；
 
+b）維持該適用狀態；
+
+c）正確使用
+
+HSE 指南提供安全工作實務建議。
+
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p15。
 
 
 ## PDF p16｜第 5、6 條：裝置能力與不利環境
 
-### English OCR
+### English — saved correction
 
 Regulation 5 - Strength & capability of electrical equipment "No electrical equipment shall be put into use where its strength and capability may be exceeded in such a way as may give rise to danger."
 
-Before equipment is energised,the characteristics of the system to which the equipment is connected must be considered. This should include those existing under normal conditions, possible transient conditions, and prospective fault conditions, so that the equipment is not subjected to stress which it is not capable of handling without giving rise to danger. The effects to be considered include voltage stress and the heating and electromagnetic effects of current.
+Before equipment is energised, the characteristics of the system to which the equipment is connected must be considered. This should include those existing under normal conditions, possible transient conditions, and prospective fault conditions, so that the equipment is not subjected to stress which it is not capable of handling without giving rise to danger. The effects to be considered include voltage stress and the heating and electromagnetic effects of current.
 
 The term 'strength and capability' of electrical equipment refers to the ability of the equipment to withstand the thermal, electromagnetic, electrochemical, or other effects of the electrical currents which might be expected to flow when the equipment is part of a system. These currents include:
 
@@ -792,9 +778,17 @@ shall be of such construction or as necessary protected as to prevent, so far as
 第 5 條：電氣裝置的強度與能力。若使用裝置可能超出其強度及能力並產生危險，就不得投入使用。
 裝置送電前，必須考量所連線系統在正常、可能的暫態及預期故障條件下的特性，避免裝置承受無法安全應付的應力；包括電壓應力，以及電流的熱效應與電磁效應。
 「強度與能力」指裝置承受系統中預期電流所造成之熱、電磁、電化學及其他效應的能力。電流包括負載電流、暫態過載、故障電流、脈衝電流，以及交流電路中不同功率因數與頻率的電流。絕緣必須有效，使裝置承受施加電壓及可能出現的暫態過電壓。
-第 6 條：不利或危險環境。若合理可預見裝置會暴露於 a）機械損傷；b）天候、自然危害、溫度或壓力；c）潮濕、髒汙、粉塵或腐蝕環境；d）任何可燃或爆炸性物質，包括粉塵、蒸氣或氣體，則其構造或必要保護應在合理可行範圍內防止這些暴露造成危險。
+第 6 條：不利或危險環境。若合理可預見裝置會暴露於 
 
+a）機械損傷；
 
+b）天候、自然危害、溫度或壓力；
+
+c）潮濕、髒汙、粉塵或腐蝕環境；
+
+d）任何可燃或爆炸性物質，包括粉塵、蒸氣或氣體，則其構造或必要保護應在合理可行範圍內防止這些暴露造成危險。
+
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p16。
 
@@ -803,7 +797,7 @@ shall be of such construction or as necessary protected as to prevent, so far as
 
 ### English OCR
 
-Regulation 7 Insulation,protectionandplacingof conductors
+Regulation 7 Insulation, protection and placing of conductors
 
 "All conductors in a system which may give rise to danger shall either -
 
@@ -813,7 +807,7 @@ b) have such precautions taken in respect of them (including, where appropriate,
 
 Regulation8
 
-"Precautions shall be taken, either by earthing or by other suitable means, to prevent danger arising when any conductor (other than a circuit conductor) which may reasonably foreseeably become charged as a result of either the useof a system, or afault in a system, becomes so charged; and,for the purposes of ensuring compliance with this regulation, a ( inductor shall be regarded as earthed when it is connected to the general mass of earth by conductors of sufficient strength and current-carrying capability to discharge electrical energy to earth."
+"Precautions shall be taken, either by earthing or by other suitable means, to prevent danger arising when any conductor (other than a circuit conductor) which may reasonably foreseeably become charged as a result of either the useof a system, or afault in a system, becomes so charged; and, for the purposes of ensuring compliance with this regulation, a ( inductor shall be regarded as earthed when it is connected to the general mass of earth by conductors of sufficient strength and current-carrying capability to discharge electrical energy to earth."
 
 Regulation9
 
@@ -823,7 +817,7 @@ Regulation 10
 
 "Where necessary to prevent danger, every joint and connection in a system shall be \nechanically and electrically suitablefor use".
 
-Regulation11- Means for protectingfrom excessof current "Efficient means,suitably located, shall be providedfor protectingfrom excess of current every part of a system as may be necessary to prevent danger."
+Regulation11- Means for protectingfrom excessof current "Efficient means, suitably located, shall be providedfor protectingfrom excess of current every part of a system as may be necessary to prevent danger."
 
 This regulation requires that systems and parts of systems are protected against the effects of short circuits and overloads if these would result in currents which would otherwise result in danger. The means of protection is likely to be in the form of fuses or circuit breakers controlled by relays etc, or it may be provided by some other means capable of interrupting the current or reducing it to a safe value.
 
@@ -831,7 +825,11 @@ Attention should also be given to where the protection is placed within the syst
 
 ### 繁體中文學習譯文
 
-第 7 條：導體的絕緣、保護與配置。系統中可能產生危險的所有導體，必須 a）以適當絕緣材料覆蓋，並視需要加以保護；或 b）採取適當預防措施，包括適當配置位置；兩者目的皆是在合理可行範圍內防止危險。
+第 7 條：導體的絕緣、保護與配置。系統中可能產生危險的所有導體，必須 
+
+a）以適當絕緣材料覆蓋，並視需要加以保護；或 
+
+b）採取適當預防措施，包括適當配置位置；兩者目的皆是在合理可行範圍內防止危險。
 第 8 條：對於非電路導體，若可合理預見會因系統使用或故障而帶電荷，應以接地或其他適當方法防止危險。為符合本條，導體須藉具有足夠強度與載流能力的導體連線至大地，能將電能洩放入地，才視為已接地。
 第 9 條：若電路導體連線大地或其他參考點，除非已採適當預防措施，不得在該導體中設定可能因中斷電氣連續性或引入高阻抗而造成危險的物件。
 第 10 條：為防止危險，系統每一處接頭與連線，都必須在機械與電氣方面適合使用。
@@ -855,7 +853,7 @@ a) cutting off the supply of electrical energy to any electrical equipment; and
 
 b) the isolation of any electrical equipment.
 
-2. In.paragraph (1), "isolation" means the disconnection and separation of the electrical equipmentfrom every source of electrical energy in such a way that this disconnection and separation is secure.
+2. In. paragraph (1), "isolation" means the disconnection and separation of the electrical equipmentfrom every source of electrical energy in such a way that this disconnection and separation is secure.
 
 3. Paragraph (1) shall not apply to electrical equipment which is itself a source of electrical energy but, in such a case as is necessary, precautions shall be taken to prevent, so far as is reasonably practicable, danger."
 
@@ -876,7 +874,11 @@ EQUIPMENT LOCKEDOUT
 ### 繁體中文學習譯文
 
 第 12 條：
-1. 除第 3 款情況外，為防止危險，應具備適當方法（必要時包括電路識別方法），以 a）切斷任何電氣裝置的電能供應；b）隔離任何電氣裝置。
+1. 除第 3 款情況外，為防止危險，應具備適當方法（必要時包括電路識別方法），以 
+
+a）切斷任何電氣裝置的電能供應；
+
+b）隔離任何電氣裝置。
 2. 第 1 款的隔離，指將裝置與每一個電能來源斷接並分離，且此斷接和分離必須穩固可靠。
 3. 第 1 款不適用於本身就是電源的裝置；但必要時仍須採預防措施，在合理可行範圍內防止危險。
 12(1)(a)：確保必要時可切斷任何裝置的電源。可直接以手動方式操作，或透過接觸器／斷路器控制電路的停止按鈕間接操作。
@@ -897,13 +899,13 @@ Source figure 1 · PDF p18
 
 ### English OCR
 
-The two functions of switching off and isolation are not the same,even though in some circumstances they are performed by the same action or by the same equipment.
+The two functions of switching off and isolation are not the same, even though in some circumstances they are performed by the same action or by the same equipment.
 
 Regulation12(3)
 
 This part of the regulation recognises the impracticability in some cases of switching off or isolating that equipment which is itself an integral part of a source of electrical energy. The regulation requires precautions to be taken in these circumstances so that danger is prevented so far as is reasonably practicable.
 
-Regulation13 - Precautions for work on equipment made dead "Adequate precautions shall be taken to prevent electrical equipment, which has been made dead in order to prevent danger while work is carried out on or near that equipment,from becoming electrically charged during that work if danger may thereby arise."
+Regulation13 - Precautions for work on equipment made dead "Adequate precautions shall be taken to prevent electrical equipment, which has been made dead in order to prevent danger while work is carried out on or near that equipment, from becoming electrically charged during that work if danger may thereby arise."
 
 c
 
@@ -913,7 +915,7 @@ The precautions must be effective in preventing the electrical equipment from be
 
 These precautions will prevent the equipment from becoming charged by connection to its own or normal sources of electrical energy but may not, alone, be sufficient to prevent charging. The presence of electrical energy because of electromagnetic induction, mutual capacitance or stored electrical energy may have to be guarded against.
 
-The precautions may need to include means of preventing further accumulation of electrical charge, following initial discharge,because latent energy may be stored in the system.
+The precautions may need to include means of preventing further accumulation of electrical charge, following initial discharge, because latent energy may be stored in the system.
 
 For work on high-voltage power distribution circuits, isolation procedures should include the application of circuit main earths (primary earths) at points of isolation and additional earthing around the point of work.
 
@@ -950,9 +952,9 @@ Before electrical equipment is decommissioned, dismantled, or abandoned for any 
 
 Regulation 14 - Work on or near live conductors "No person shall be engaged in any work activity on or so near any live conductor (other than one suitably covered with insulating material so as to prevent danger) that danger may arise unless -
 
-a) it is unreasonable in all the circumstancesfor it to be dead; and
+a) it is unreasonable in all the circumstances for it to be dead; and
 
-b) it is reasonable in all the circumstancesfor him to be at work on or near it while it is live;
+b) it is reasonable in all the circumstances for him to be at work on or near it while it is live;
 
 and
 
@@ -972,8 +974,11 @@ Regulation 15 - Working space, access & lighting
 適當制訂並受控的工作許可程式，會讓發出人與接收人同時聚焦於工作如何進行，以及裝置如何達到安全狀態。
 裝置除役、拆卸或廢棄前，必須與所有電源斷開，並有效確保其無電、不會意外重新通電或帶有危險電荷。可能須牢固標記或適當標示裝置、迴路及開關，防止誤送電。
 第 14 條：在帶電導體上或附近工作。若工作可能因接近帶電導體而產生危險（不包括已以適當絕緣覆蓋而避免危險的導體），除非下列三項同時成立，否則不得工作：
+
 a）綜合所有情況，要求其無電並不合理；且
+
 b）綜合所有情況，讓該人於帶電狀態下在其上或附近工作是合理的；且
+
 c）已採適當措施防止傷害，必要時包括適當防護裝置。
 本條針對可合理預見會產生危險的帶電導體作業。只有 a、b、c 全數滿足才允許。Work 不限電氣施工，也包括電氣測試等任何工作活動。
 第 15 條：工作空間、通道與照明。在電氣裝置上或附近進行可能有危險的工作時，應提供足夠工作空間、安全通道與照明，以防傷害。
@@ -987,7 +992,7 @@ c）已採適當措施防止傷害，必要時包括適當防護裝置。
 
 ### English OCR
 
-The purpose of the regulation is to ensure that sufficient space,access,and adequate illumination are provided while people are working on, at or near electrical equipment so that they may work safely. The requirement is not restricted to those circumstances where live conductors are exposed but applies where any work is being done in circumstances which may give rise to danger.
+The purpose of the regulation is to ensure that sufficient space, access, and adequate illumination are provided while people are working on, at or near electrical equipment so that they may work safely. The requirement is not restricted to those circumstances where live conductors are exposed but applies where any work is being done in circumstances which may give rise to danger.
 
 Regulation 16 - Persons to be competent to prevent danger and injury "No person shall be engaged in any work activity where technical knowledge or experience is necessary to prevent danger or, where appropriate, injury, unless he possesses such knowledge or experience, or is under such degree of supervision as may be appropriate having regard to the nature of the work."
 
@@ -1011,13 +1016,23 @@ The regulation recognises that, in many circumstances, people will require some 
 
 Regulation 29 - Defence
 
-"In any proceedings for an offence consisting of a contravention of [regulations 4(4), 5, 8, 9, 10, 11, 12, 13, 14, 15 or 16] it shall be a defencefor any person to prove that he took all reasonable steps and exercised all due diligence to avoid the commission of that offence."
+"In any proceedings for an offence consisting of a contravention of [regulations 4(4), 5, 8, 9, 10, 11, 12, 13, 14, 15 or 16] it shall be a defence for any person to prove that he took all reasonable steps and exercised all due diligence to avoid the commission of that offence."
 
 ### 繁體中文學習譯文
 
 第 15 條的目的是讓裝置上、裝置處或附近的作業具有足夠空間、進出條件與照明。不僅適用於帶電導體裸露的情況，也適用於任何可能產生危險的工作。
 第 16 條：人員必須具備防止危險與傷害的能力。若工作需要技術知識或經驗以防止危險，或在適用時防止傷害，執行者必須具備該知識／經驗，或依工作性質接受適當程度的監督。
-目的在避免因自己或他人處理電氣裝置的能力不足而使人員陷入風險。技術知識與經驗範圍應包括：a）充分電學知識；b）足夠的相關電氣工作經驗；c）瞭解欲操作的系統，且具該類系統的實務經驗；d）理解工作可能出現的危害與所需措施；e）隨時判斷是否仍可安全繼續工作的能力。
+目的在避免因自己或他人處理電氣裝置的能力不足而使人員陷入風險。技術知識與經驗範圍應包括：
+
+a）充分電學知識；
+
+b）足夠的相關電氣工作經驗；
+
+c）瞭解欲操作的系統，且具該類系統的實務經驗；
+
+d）理解工作可能出現的危害與所需措施；
+
+e）隨時判斷是否仍可安全繼續工作的能力。
 員工必須接受訓練及指導，瞭解與其工作相關的安全程式，並依僱主為安全所訂的指示與規則工作。法規承認：當知識／經驗不足以確保安全工作時，人員往往需要某種程度的監督。
 第 29 條：抗辯。就違反第 4(4)、5、8、9、10、11、12、13、14、15 或 16 條的犯罪訴訟，若能證明已採取所有合理步驟，並盡應有注意以避免犯罪，可作為抗辯。
 
@@ -1046,11 +1061,11 @@ Electricity Safety, Quality and Continuity Regulations
 
 The Electricity Safety, Quality and Continuity Regulations 2002 (ESQCR) impose
 
-requirements in respect of the generation, distribution, and supply of electricity, including supply networks and electrical equipment. The Department of Energy and Climate Change (DECC) leads on ESQCR matters, though HSEperforms some functions on DECC's behalf with regards to public safety and incident notifications. Q
+requirements in respect of the generation, distribution, and supply of electricity, including supply networks and electrical equipment. The Department of Energy and Climate Change (DECC) leads on ESQCR matters, though HSE performs some functions on DECC's behalf with regards to public safety and incident notifications. Q
 
 Personal Protective Equipment at Work (PPE) Regulations
 
-PPEis equipment that will protect the user against health or safety risks at work. It can include items such as safety helmets, gloves, eye protection, high-visibility clothing, safety footwear and safety harnesses. PPEshould be used as a last resort.
+PPE is equipment that will protect the user against health or safety risks at work. It can include items such as safety helmets, gloves, eye protection, high-visibility clothing, safety footwear and safety harnesses. PPE should be used as a last resort.
 
 Wherever there are risks to health and safety that cannot be adequately controlled in other ways, PPE must be supplied. PPE must be supplied at no charge to the employee.
 
@@ -1071,7 +1086,7 @@ IEE（電機工程師學會）配線規則：屬非強製法規的實務守則�
 
 ### English OCR
 
-These regulations require that PPEis:
+These regulations require that PPE is:
 
 • Properly assessed before use to make sure that it is fit for purpose
 
@@ -1113,9 +1128,25 @@ Reporting allows the enforcing authorities to target their work and provide advi
 
 ### 繁體中文學習譯文
 
-PPE 規則要求：使用前適當評估以確保適用；妥善維護與儲存；提供安全使用說明；由員工正確使用。
+PPE 規則要求：
+
+使用前適當評估以確保適用；
+
+妥善維護與儲存；
+
+提供安全使用說明；
+
+由員工正確使用。
 《危害健康物質控制法規》（COSHH）要求僱主依下列步驟控制有害健康的物質：辨識危害 → 評估相關風險 → 設定適當控制措施 → 執行並維持控制措施 → 提供資訊、指導與訓練。僱主還必須在適當情況下提供監測與健康監護，並規劃緊急應變。
-《傷害、疾病及危險事件通報法規》（RIDDOR）要求僱主與其他工作場所控制人通報並記錄：工作相關死亡事故；造成特定嚴重傷害的工作事故；已診斷的特定職業病；特定危險事件。
+《傷害、疾病及危險事件通報法規》（RIDDOR）要求僱主與其他工作場所控制人通報並記錄：
+
+工作相關死亡事故；
+
+造成特定嚴重傷害的工作事故；
+
+已診斷的特定職業病；
+
+特定危險事件。
 通報使執法機關能針對重點工作，並提供預防工作死亡、傷害、疾病及意外損失的建議。
 
 
@@ -1142,7 +1173,7 @@ The nature and severity of injury depends upon the magnitude, duration, and path
 
 A. Quite low currents, of the order of only a few milliamps (mA), can cause fatal / * \ electric shock.
 
-The effects of electric shock are most acute at around the public electricity supply frequency of 50 Hz.Susceptibility to electric shock is increased if a person is in:
+The effects of electric shock are most acute at around the public electricity supply frequency of 50 Hz. Susceptibility to electric shock is increased if a person is in:
 
 a) good electrical contact with earth, such as in damp or wet conditions or in conducting locations such as inside a metal tank
 
@@ -1168,8 +1199,20 @@ The injuries associated with fire are usually burns but may include other injuri
 
 觸電：人體對透過的電流有多種反應，電擊感只是其中之一，而且可能極為疼痛。電流可能在人體內走多條路徑，任一點的強度難以甚至無法預測，可能導致肌肉收縮、呼吸衰竭、心室顫動、心搏停止或體內灼傷；任一項都可能致命。
 傷害性質與嚴重程度取決於電流大小、持續時間及透過人體的路徑；交流電還與頻率有關。即使僅數毫安（mA）等級的小電流，也可能造成致命觸電。
-約 50 Hz 的公共供電頻率對人體的電擊影響特別顯著。下列情況更易受害：a）與大地導通良好，例如潮濕、積水處或金屬槽內等導電環境；b）炎熱環境下因汗水／濕氣使人潮濕，降低衣物提供的絕緣保護。
-電氣起火的主要原因：a）導體過載造成電纜與裝置過熱；b）不良或不足的絕緣造成漏電；c）可燃物靠裝置太近而過熱；d）裝置電弧或火花引燃可燃物。
+約 50 Hz 的公共供電頻率對人體的電擊影響特別顯著。下列情況更易受害：
+
+a）與大地導通良好，例如潮濕、積水處或金屬槽內等導電環境；
+
+b）炎熱環境下因汗水／濕氣使人潮濕，降低衣物提供的絕緣保護。
+電氣起火的主要原因：
+
+a）導體過載造成電纜與裝置過熱；
+
+b）不良或不足的絕緣造成漏電；
+
+c）可燃物靠裝置太近而過熱；
+
+d）裝置電弧或火花引燃可燃物。
 火災傷害通常是燒傷，也可能包括吸入煙霧等其他傷害，每一種都有致命可能。
 
 
@@ -1240,7 +1283,7 @@ High-Voltage Switches
 
 HVSwitches - are normally used where operational or maintenance isolation is required oij where local isolation is required at an item of equipment, such as a transformer sited at a location remote from its source of supply.
 
-Although oil has been the insulating medium used in HVswitchgear for many years,and is still widely used, switches are now available which useSF6 (sulphur hexafluoride) as the insulating medium.
+Although oil has been the insulating medium used in HVswitchgear for many years, and is still widely used, switches are now available which useSF6 (sulphur hexafluoride) as the insulating medium.
 
 ### 繁體中文學習譯文
 
@@ -1309,7 +1352,17 @@ Short Time Current - "The RMSvalue of current that a switch is capable of carryi
 
 ### 繁體中文學習譯文
 
-使用中的開關設計可執行下列功能：接通正常／負載電流；承載正常／負載電流；切斷正常／負載電流；接通異常／故障電流；在指定時間內承載異常／故障電流。
+使用中的開關設計可執行下列功能：
+
+接通正常／負載電流；
+
+承載正常／負載電流；
+
+切斷正常／負載電流；
+
+接通異常／故障電流；
+
+在指定時間內承載異常／故障電流。
 注意：開關不是用來切斷異常或故障電流的裝置。
 教材引用 BS 2631 第 2 節，油開關額定專案包括：
 • 極數：通常為 3。
@@ -1385,7 +1438,23 @@ Fig 2 Longand Crawford Oil Switch
 
 教材規定：開關額定短時間電流不得低於額定接通電流除以 2.55，即不含直流分量之最大電流波形的 RMS；持續時間為 3 秒。
 圖 1：Reyrolle 油開關。A 項 OCR 未辨識出名稱；B 絕緣隔板；C 固定接地接點；D 可動接點刀片；E 固定負載接點；F 匯流排室；G 測試插頭的調整止擋。
-圖 2：Long and Crawford 油開關。1 匯流排；2 匯流排連線；3 主固定接點；4 相間隔板；5 刀片接點；6 固定接地接點；7 直式匯流排套管（紅、藍相）；8 斜式匯流排套管（黃相）；9 三相套管元件。
+圖 2：Long and Crawford 油開關。1 匯流排；
+
+2 匯流排連線；
+
+3 主固定接點；
+
+4 相間隔板；
+
+5 刀片接點；
+
+6 固定接地接點；
+
+7 直式匯流排套管（紅、藍相）；
+
+8 斜式匯流排套管（黃相）；
+
+9 三相套管元件。
 
 > 圖 1 的 A 標籤請看原掃描，未從殘缺 OCR 猜補。
 
@@ -1500,7 +1569,7 @@ Source figure 1 · PDF p30
 
 Switch Fuses or Fuse Switches
 
-These items of switchgear are a combination of a switch and an HRCfuse. The term switch fuse indicates that the fuse is fixed, and the term fused switch indicates that the fuse forms part of the moving contact arrangement. The switch fuse is the more common type of device. The switch provides the facilities described previously and the addition of the HRCfuse provides the device with a fault break capacity. All fault currents are broken initially by the HRCfuse and as the fault may be present on only one phase,the fuses are provided with striker pins which eject with the operation of the fuse. The pin ejecting causes a tripping bar to open the switch and disconnect all 3 phases from the source of the supply.
+These items of switchgear are a combination of a switch and an HRCfuse. The term switch fuse indicates that the fuse is fixed, and the term fused switch indicates that the fuse forms part of the moving contact arrangement. The switch fuse is the more common type of device. The switch provides the facilities described previously and the addition of the HRCfuse provides the device with a fault break capacity. All fault currents are broken initially by the HRCfuse and as the fault may be present on only one phase, the fuses are provided with striker pins which eject with the operation of the fuse. The pin ejecting causes a tripping bar to open the switch and disconnect all 3 phases from the source of the supply.
 
 r
 
@@ -1514,7 +1583,7 @@ X, 'Making-current' is defined as - 'The peak value of the maximum current loop 
 
 Short Time Current - 'The RMSvalue of current that a switch is capable of carrying for the stated time under prescribed conditions.
 
-The rated short time current of a switch shall be not less than its rated making current divided by 2.55 (i.e.., the RMSof the maximum current loop excluding the de component).
+The rated short time current of a switch shall be not less than its rated making current divided by 2.55 (i.e.., the RMS of the maximum current loop excluding the de component).
 
 5.4fcyl Rated short time current = = 2.1/c/l
 2.55
@@ -1737,7 +1806,17 @@ c) Merlin Gerin (Schneider) RN2-Tor RN2-C(extensible and non-extensible versions
 ### 繁體中文學習譯文
 
 過去 switch fuse／fuse switch 不易容納 VT 與 CT；教材指出部分製造商已開發可裝入開關熔絲單元的量測 VT／CT，讓裝置可作就地計量。
-開關額定值：a）一般符合 BS 2631（或 BS 5463）；b）正常電流 500 A 或 630 A；c）遮斷電流 500 A；d）11 kV 時接通能力 33.4 kA 峰值；e）短時間電流 13.1 kA、3 秒（11 kV 時 250 MVA）。
+開關額定值：
+
+a）一般符合 BS 2631（或 BS 5463）；
+
+b）正常電流 500 A 或 630 A；
+
+c）遮斷電流 500 A；
+
+d）11 kV 時接通能力 33.4 kA 峰值；
+
+e）短時間電流 13.1 kA、3 秒（11 kV 時 250 MVA）。
 熔絲開關：最大正常電流由可安裝熔絲的最大額定值決定，其他額定值如油開關。
 油絕緣 RMU 例：South Wales Switchgear Tiger（不可擴充）；Long and Crawford T3GF3（不可擴充，但有兩組 switch fuse 型式）；Reyrolle ROKSS（有可擴充及不可擴充型）；Lucy FRMU（兩種型式皆有）。
 SF₆ 絕緣 RMU 例：Hawker Siddeley Falcon（Alpha／Beta）；Lucy SCRMU；Merlin Gerin（Schneider）RN2-T／RN2-C（有可擴充及不可擴充型）。
@@ -1763,7 +1842,7 @@ ENCLOSURE
 
 Fig6 HV circuitbreaker
 
-The traditional HVCircuit Breaker (fig 6) comes in two parts the fixed portion (enclosure) is where the permanent HVconnections are made it also houses the auxiliary parts such as the T's,the VT,meters and relays.
+The traditional HVCircuit Breaker (fig 6) comes in two parts the fixed portion (enclosure) is where the permanent HVconnections are made it also houses the auxiliary parts such as the T's, the VT, meters and relays.
 
 The moving portion (truck) houses the main load breaking contacts and the associated operating mechanism, being removable this facilitates the maintenance of the active parts of the Circuit Breaker.
 
@@ -1773,7 +1852,11 @@ A Circuit Breaker is defined as a switching device capable of making, carrying, 
 
 ### 繁體中文學習譯文
 
-需要複雜保護、計量及動力操作時，常用室內開關裝置。最常見的是高壓斷路器，兼具 a）為維護或運轉而進行電氣隔離；b）以自動切斷保護裝置兩項功能。若只需維護／運轉隔離，可採較便宜的室內高壓開關。
+需要複雜保護、計量及動力操作時，常用室內開關裝置。最常見的是高壓斷路器，兼具 
+
+a）為維護或運轉而進行電氣隔離；
+
+b）以自動切斷保護裝置兩項功能。若只需維護／運轉隔離，可採較便宜的室內高壓開關。
 圖 6，高壓斷路器：傳統型式分兩部分。固定部（外殼）具有永久高壓連線，也容納 CT、VT、儀表及繼電器等輔助裝置。可動部（臺車）容納主負載遮斷接點及操作機構，可移出，便於維護活動部件。
 斷路器定義：可在正常電路條件下接通、承載與切斷電流，並可在短路等指定異常條件下接通、承載指定時間及切斷電流的開關裝置。
 
@@ -1900,11 +1983,17 @@ For this reason, when determining the BreakingCapacity of a CBthe current consid
 
 ### 繁體中文學習譯文
 
-絕緣等級：開關裝置在雷擊等條件下短時間可承受的最高電壓。對工作電壓額定 12 kV 的裝置，教材列 BS 值：雷電衝擊耐壓 60 或 75 kV 峰值；較新真空與 SF₆ 斷路器採 95 kV 衝擊耐壓亦不罕見；1 分鐘工頻耐壓 28 kV RMS。
+絕緣等級：開關裝置在雷擊等條件下短時間可承受的最高電壓。對工作電壓額定 12 kV 的裝置，教材列 BS 值：雷電衝擊耐壓 60 或 75 kV 峰值；較新真空與 SF₆ 斷路器採 95 kV 衝擊耐壓亦不罕見；
+
+1 分鐘工頻耐壓 28 kV RMS。
 頻率：通常標示 50／60 Hz，以適用不同地區。
 正常電流：規定條件下，斷路器可連續承載且不劣化的電流 RMS；標準額定例 400、500、630、800、1250 A。
 短路遮斷電流：在指定電壓下可切斷的電流。遮斷能力決定斷路器可切除的最大故障電流。
-配電系統故障電流包含：a）對稱交流分量，由可用電力與網路阻抗決定；b）直流分量，教材描述為儲存磁能流入故障所產生的短暫（4–5 週期）暫態。
+配電系統故障電流包含：
+
+a）對稱交流分量，由可用電力與網路阻抗決定；
+
+b）直流分量，教材描述為儲存磁能流入故障所產生的短暫（4–5 週期）暫態。
 交流分量可計算，直流分量受故障發生瞬間電壓等多種因素影響。教材因此以額定短路電流作為決定遮斷能力時考量的電流。
 
 
@@ -2207,9 +2296,9 @@ Circuit Breakers, depending on position and usage, are fitted with meters, instr
 
 Voltage Transformers
 
-Voltage transformers are normally supplied with a secondary voltage of 110V, with the primary voltage to suit the system voltage. Normally oil immersed, star wound HVand LV,both windings being fused, the LV winding being earthed at the yellow phase.Thus, the neutral is fused, and the yellow phase "linked".
+Voltage transformers are normally supplied with a secondary voltage of 110V, with the primary voltage to suit the system voltage. Normally oil immersed, star wound HV and LV, both windings being fused, the LV winding being earthed at the yellow phase. Thus, the neutral is fused, and the yellow phase "linked".
 
-Where solenoid or motor wound spring power closing of a CBis required (e.g., standby sets), the power is normally derived from an additional power closing secondary winding (although sub-station batteries are sometimes used). The voltage required for power operation varies from 110 to 220Vbut is commonly 165V on existing switchgear. Modern motor wound spring mechanism use110 or 220V ac/dc universal motors.
+Where solenoid or motor wound spring power closing of a CB is required (e.g., standby sets), the power is normally derived from an additional power closing secondary winding (although sub-station batteries are sometimes used). The voltage required for power operation varies from 110 to 220Vbut is commonly 165V on existing switchgear. Modern motor wound spring mechanism use110 or 220V ac/dc universal motors.
 
 Current Transformer
 
@@ -2279,7 +2368,7 @@ Oil Circuit Breakers (OCB)
 
 This was the most popular and least expensive HVcircuit breaker to buy; metal-clad using light mineral oil as in insulant and arc quenching media and utilising some form of arc control device, the oil circuit breaker has catered for all the circuit interrupting requirements of power engineering for many years at distribution voltages. However, today it must be conceded that the oil circuit breaker has virtually reached the limits of its potential development to meet the demands of circuit interruption and in comparison, with some of its more modern alternatives is much more expensive in maintenance cost.
 
-On the later types of OCB's, with ratings of 250 MVA at llkV, the method of arc control is by use of a Cross Jet ExplosionPot. The cross-jet explosion pot is a device made up of insulating material to form a chamber surrounded by a strong shell so that the contacts are completely surrounded (SeeFig11). When the contacts part the arc drawn causes the oil to break down and form a gas.The gas causes a ) pressure to build up inside the chamber and as the moving contact reveals the side vents the gas and arc products are forced out through these vents, displacing and lengthening the arc. At each current zero the arc is extinguished, and fresh oil enters the chamber and at some point, in this process the insulation value between the fixed and moving contacts will be sufficiently high to prevent a re-strike. An OCBhas a defined operating sequence which is: O-T-CO-T-CO
+On the later types of OCB's, with ratings of 250 MVA at llkV, the method of arc control is by use of a Cross Jet ExplosionPot. The cross-jet explosion pot is a device made up of insulating material to form a chamber surrounded by a strong shell so that the contacts are completely surrounded (SeeFig11). When the contacts part the arc drawn causes the oil to break down and form a gas. The gas causes a ) pressure to build up inside the chamber and as the moving contact reveals the side vents the gas and arc products are forced out through these vents, displacing and lengthening the arc. At each current zero the arc is extinguished, and fresh oil enters the chamber and at some point, in this process the insulation value between the fixed and moving contacts will be sufficiently high to prevent a re-strike. An OCBhas a defined operating sequence which is: O-T-CO-T-CO
 
 O = Operates
 T = Time
@@ -2347,7 +2436,7 @@ Fig.ll Oil Circuit Breaker CrossJetExplosionPot
 
 The earlier types of OCB's having a breaking capacity up to 150 MVA at llkV were of the Plain Break type. In this type the quenching of the arc is achieved by contact separation and the head of oil in the tank. The head of oil above the contacts affects the gas bubble formation and must be sufficient to ensure ample pressure at the arc and to prevent a chimney of gas from the arc to the oil surface. A small volume of air above the oil will result in a higher pressure for a given volume of gas and consequently a reduction in arcing time. It is therefore most important that the recommended oil level be maintained.
 
-Kegardless of the arc control method used, gas will be generated when breaking current using an oil circuit breaker. The gas generated will be a mixture of hydrocarbon gases,the majority of which will be acetylene, with all the fire and explosion risks associated with this. As acetylene is heavier than air adequate ventilation at low level must be installed to clear the potentially explosive vapour.
+Kegardless of the arc control method used, gas will be generated when breaking current using an oil circuit breaker. The gas generated will be a mixture of hydrocarbon gases, the majority of which will be acetylene, with all the fire and explosion risks associated with this. As acetylene is heavier than air adequate ventilation at low level must be installed to clear the potentially explosive vapour.
 
 When gas is generated, carbon is left in the oil which reduces its electrical strength, this means that it is essential that insulating oil is tested regularly in normal service and it should be replaced either after it is found unsatisfactory or after the circuit breaker has broken fault current.
 
@@ -2460,7 +2549,7 @@ This is another option at distribution voltage and offers similar benefits to th
 
 Sulphur hexafluoride (SF6)is an inert, non-toxic, non-flammable, colourless, odourless gas, which does not exist in a natural state and, therefore has to be synthesised. It is a very heavy gas, approximately five times heavier than air.
 
-Not only does sulphur hexafluoride possess a high dielectric strength to prevent arcs from occurring, but the dissociated molecule, caused by the arcing process,rapidly recombines after the source of arcing is removed. It should be noted however that after SF6 has been dissociated by the energy of an arc a small proportion of the breakdown products produce stable compounds some of which are toxic and therefore care should be taken if equipme?... leaks.
+Not only does sulphur hexafluoride possess a high dielectric strength to prevent arcs from occurring, but the dissociated molecule, caused by the arcing process, rapidly recombines after the source of arcing is removed. It should be noted however that after SF6 has been dissociated by the energy of an arc a small proportion of the breakdown products produce stable compounds some of which are toxic and therefore care should be taken if equipme?... leaks.
 
 SF6 is, therefore, very suitable for quenching electric arcs. It is, in fact, of the order of 100 times more effective than air.
 
@@ -2472,7 +2561,7 @@ In distribution switchgear terms, the development of interrupting devices appear
 
 (i) the use of SF6in gas blast devices, and (ii) the use of SF6in magnetic spinning arc devices.
 
-In the first case,generally referred to as a "puffer type", the gas is driven past the arc in order to cool and de-ionise it; in the second case,referred to as a "spinning arc type", the arc is driven through the gas to achieve the same effect.
+In the first case, generally referred to as a "puffer type", the gas is driven past the arc in order to cool and de-ionise it; in the second case, referred to as a "spinning arc type", the arc is driven through the gas to achieve the same effect.
 
 ### 繁體中文學習譯文
 
@@ -2480,7 +2569,11 @@ SF₆ 斷路器是配電電壓等級的另一選擇，優點與 VCB 相近。
 六氟化硫（SF₆）為惰性、無毒、不燃、無色、無味的氣體。教材稱其自然狀態不存在，須人工合成；重量約為空氣的 5 倍。
 SF₆ 介電強度高，可抑制電弧；被電弧分解的分子，在電弧能量來源移除後會迅速重新結合。但少量分解產物形成穩定化合物，其中有些有毒，因此裝置漏氣時須小心。
 教材稱其滅弧效力約為空氣的 100 倍。1900 年首次在巴黎製得，GEC 於 1937 年研究工業用途，1960 年歐洲及美國同時推出 SF₆ 斷路器／開關；早期用於可負擔昂貴輔助裝置的超高壓斷路器。
-配電開斷裝置的兩條發展路線：1）氣吹／壓氣式（puffer）：使氣體流過電弧以冷卻及去遊離；2）磁力旋弧式（spinning arc）：使電弧在氣體中旋轉，達到相同效果。
+配電開斷裝置的兩條發展路線：
+
+1）氣吹／壓氣式（puffer）：使氣體流過電弧以冷卻及去遊離；
+
+2）磁力旋弧式（spinning arc）：使電弧在氣體中旋轉，達到相同效果。
 
 
 
@@ -2565,7 +2658,17 @@ e) Lucy SCRMU which has a Vacuum circuit Breaker and associated disconnector ins
 教材敘述：旋弧式 SF₆ 斷路器作為油型裝置的經濟替代品成功後，製造商開始把 SF₆ 用於其他高壓裝置。原文稱其在環境上較能接受，此為當時教材說法。
 1980 年 Brush Switchgear 推出 Brush Falcon SF₆ RMU，由兩個可接通故障電流、切斷負載電流的開關，以及一個支線旋弧斷路器組成，全部封在表壓 4 bar 的 SF₆ 槽中。
 教材列相對於油的優點：幾乎消除火災風險、大幅減少維護，且對環境條件變化不敏感。支線改用斷路器取代傳統 HRC 熔絲，能在更完整的故障電流範圍保護變壓器、保護大於 1000 kVA 的變壓器，並免去為更換熔絲而在天候暴露下開啟 RMU 的繁重工作。
-因此 SF₆ RMU 在區域電力公司及其他營運機構廣受採用，多數主要製造商均有產品。教材例：a）原 Brush Falcon，不可擴充；b）改良 Brush Falcon Beta，可擴充；c）Merlin Gerin SF₆ Ringmaster，兩種型式皆有；d）Long and Crawford LCG SF₆，兩種型式皆有；e）Lucy SCRMU，在 SF₆ 槽內使用 VCB 及其隔離開關供應變壓器支線。
+因此 SF₆ RMU 在區域電力公司及其他營運機構廣受採用，多數主要製造商均有產品。教材例：
+
+a）原 Brush Falcon，不可擴充；
+
+b）改良 Brush Falcon Beta，可擴充；
+
+c）Merlin Gerin SF₆ Ringmaster，兩種型式皆有；
+
+d）Long and Crawford LCG SF₆，兩種型式皆有；
+
+e）Lucy SCRMU，在 SF₆ 槽內使用 VCB 及其隔離開關供應變壓器支線。
 
 > 『環境上較能接受』是原教材的歷史比較說法，並非本閱讀器對 SF₆ 現行環境影響或政策的評估。
 
@@ -2712,7 +2815,7 @@ Introduction
 
 ATransformer is an item of electrical apparatus which consists of two or more electrical circuits interlinked by a common magnetic circuit for the purpose of transferring electrical energy between them.
 
-In an electricity supply network transformer are used to step up (increase) and step down (decrease) voltages, so as to make them more appropriate for Transmission,Distribution and Utilisation.
+In an electricity supply network transformer are used to step up (increase) and step down (decrease) voltages, so as to make them more appropriate for Transmission, Distribution and Utilisation.
 
 Transformers used for Power and Distribution applications are constructed in accordance with British Standard 171:1987 Power Transformers.
 
@@ -2765,7 +2868,7 @@ Where:
 
 • N2 = Number of Secondary turns
 
-Thus,the output voltage is given by:
+Thus, the output voltage is given by:
 
 A N2
 
@@ -2831,7 +2934,7 @@ In general, there is only one LV winding per limb, which in the past consisted o
 
 A single multi-layer cylindrical HV winding would present difficulties with insulation due to the potential differences which could occur between layers. This is usually overcome by connecting a number of cylindrical windings in series.
 
-To improve flux linkage and reduce electrical stresses,the HV winding is usually wound over the top of the LV winding. This also has the advantage of reducing transformer size.
+To improve flux linkage and reduce electrical stresses, the HV winding is usually wound over the top of the LV winding. This also has the advantage of reducing transformer size.
 
 o
 
@@ -2850,7 +2953,13 @@ The interconnection of the phase windings to produce a three or four wire supply
 現代變壓器鐵心一般以冷軋方向性鋼片疊製成矩形框架，繞組同心排列於鐵心柱（legs／limbs）周圍的圓筒上。除電氣與熱條件外，繞組還須具高度機械強度。
 每柱通常只有一個低壓繞組；過去為單層，後來由雙層取代，優點是有四個繞組表面可加強冷卻，且較不易鬆散，機械強度較高。
 單一多層圓筒高壓繞組可能因層間電位差而難以絕緣，通常以數個圓筒繞組串聯解決。為改善磁通鏈結並降低電氣應力，高壓繞組通常繞在低壓繞組外，也可縮小體積。
-三相繞組互連形成三線或四線供電，可採：1）星形；2）三角形；3）互連星形／曲折形（zigzag）。
+三相繞組互連形成三線或四線供電，可採：
+
+1）星形；
+
+2）三角形；
+
+3）互連星形／曲折形（zigzag）。
 
 
 
@@ -3171,7 +3280,13 @@ Forced Directed D
 ### 繁體中文學習譯文
 
 圖 7 以 Dy11 說明接線代號與相量旋轉方向。
-教材列常用配置：1）三角形／星形 Dy11 或 Dyn11，常用於由高配電電壓降至使用電壓；2）星形／互連星形 yZ11，常用於由較低發電電壓升至配電電壓；3）星形／三角形 YNd1，常用於交流發電機供電的變壓器。大小寫按原文保留。
+教材列常用配置：
+
+1）三角形／星形 Dy11 或 Dyn11，常用於由高配電電壓降至使用電壓；
+
+2）星形／互連星形 yZ11，常用於由較低發電電壓升至配電電壓；
+
+3）星形／三角形 YNd1，常用於交流發電機供電的變壓器。大小寫按原文保留。
 冷卻：電機輸出常受繞組與絕緣容許溫升限制，變壓器尤其如此。冷卻方式以介質及其迴圈方式標示。
 表 3：礦物油 O；氣體 G；水 W；空氣 A；合成絕緣液 L 或 K。迴圈方式：自然 N；強制 F；強制導向 D。
 
@@ -3402,7 +3517,15 @@ ZB = Transformer B % impedance
 
 ### 繁體中文學習譯文
 
-兩臺變壓器並聯時，教材列須考量：1）電壓比相同；2）向量組別相同；3）相序相同；4）百分比阻抗電壓宜大致相等，以獲良好負載分配。
+兩臺變壓器並聯時，教材列須考量：
+
+1）電壓比相同；
+
+2）向量組別相同；
+
+3）相序相同；
+
+4）百分比阻抗電壓宜大致相等，以獲良好負載分配。
 對容量及／或百分比阻抗不同的並聯變壓器，原書接著給出電流分配公式，但掃描可見排版／公式錯誤，不宜照式計算。
 原件公式轉錄（保留疑點，非推薦演算法）：
 IA = [QA／(IL × ZA)]／[(QA／ZA) + (QB／ZB)]
@@ -3444,7 +3567,7 @@ The insulating oils used in modern electrical equipment are mineral oils special
 
 • Chemically neutral
 
-Although the insulating oil used in transformers and oil filled switchgear is the same,its function is different and therefore the two uses will be discussed separately.
+Although the insulating oil used in transformers and oil filled switchgear is the same, its function is different and therefore the two uses will be discussed separately.
 
 Transformers
 
@@ -3466,7 +3589,13 @@ The need to withstand system voltage transients due to lightning and switching s
 
 現代電氣裝置絕緣油為特選並精製的礦物油。理想性質：高介電強度、低黏度、不易產泥、高比熱、高閃火點、低揮發性及化學中性。
 變壓器與油式開關裝置雖用相同絕緣油，但功能不同，以下分述。
-變壓器油的三項功能：冷卻；電氣絕緣；保護繞組免受大氣影響。
+變壓器油的三項功能：
+
+冷卻；
+
+電氣絕緣；
+
+保護繞組免受大氣影響。
 油能有效吸收鐵心、繞組及導體的熱，經自然或強制迴圈，送至裝置自然或人工冷卻的外表面。
 變壓器須承受雷擊與開關突波，有時短暫超額定運轉，因此油須有良好絕緣品質；現代設計更緊湊、間距更小，更凸顯此要求。
 
@@ -3519,7 +3648,7 @@ Examine the colour of the SilicaGel Charge and if the pink showing has reached h
 
 Gas and Oil (Buchholz) Surge Relay
 
-In order to test the alarm and trip mechanisms,the relay is provided with a petcock which enables air to be injected into the body of the relay. To test operation of the alarm element, dry air from an air bottle should be slowly admitted, so that the alarm element gradually falls, until the switch operates. The quantity of air required to operate the switch may be observed on the graduate scale on inspection windows on each side of the relay and should be noted for the purpose of comparison on future tests.
+In order to test the alarm and trip mechanisms, the relay is provided with a petcock which enables air to be injected into the body of the relay. To test operation of the alarm element, dry air from an air bottle should be slowly admitted, so that the alarm element gradually falls, until the switch operates. The quantity of air required to operate the switch may be observed on the graduate scale on inspection windows on each side of the relay and should be noted for the purpose of comparison on future tests.
 
 To test the trip element, the valve controlling the air bottle should be opened quickly so that air rushes in, impinges on the flap, depresses it, and operates the switch. The approximate minimum air pressure required to operate the switch should be recorded for the purpose of future comparison.
 
@@ -3527,13 +3656,13 @@ Temperature Indicators
 
 Instrument Calibration
 
-The indicating accuracy of the instrument should be checked. Remove the temperature sensitive bulb from its pocket on the tank and immerse it in oil together with thermometer and a controlled heating element. The oil should now be warmed through definite intervals to a maximum temperature of 120oC,and instrument readings checked against the thermometer. The instrument should be allowed to steady off at each interval to allow for its inherent indicating time lag, and readings should be accurate to within ± 2oC.
+The indicating accuracy of the instrument should be checked. Remove the temperature sensitive bulb from its pocket on the tank and immerse it in oil together with thermometer and a controlled heating element. The oil should now be warmed through definite intervals to a maximum temperature of 120oC, and instrument readings checked against the thermometer. The instrument should be allowed to steady off at each interval to allow for its inherent indicating time lag, and readings should be accurate to within ± 2oC.
 
 o
 
 Switch Adjustment
 
-The mercury switches should be adjusted to operate at the required values.The recommended maximum settings are:
+The mercury switches should be adjusted to operate at the required values. The recommended maximum settings are:
 
 Oil Temperature WindingTemperature
 
@@ -3570,7 +3699,7 @@ Check oil level preferably when cold. Top up with clean oil.
 
 Oil tight joints
 
-After the equipment has been in service for some time, it may be found that the compression gaskets have shrunk a little and that small oil leaks have developed at some of the joints. It is advisable,therefore, to carry out a general tightening of the joints after a period of not more than 12 months after commissioning. The correct method is to tighten each bolt slightly, moving round the flange until the whole joint is perfectly tight. Joints should never be tightened at one point alone even if the oil leaks appear to have developed ( : this point. Failure to adopt this method of tightening may result in a serious oil leak which will be found difficult to check. If, after carrying out the tightening described above, the oil leak still persists, the oil should be lowered below the gasket level and an inspection of the gasket carried out. If damage or deterioration is evident, a replacement gasket should be fitted, and if necessary,the transformer should be vented.
+After the equipment has been in service for some time, it may be found that the compression gaskets have shrunk a little and that small oil leaks have developed at some of the joints. It is advisable, therefore, to carry out a general tightening of the joints after a period of not more than 12 months after commissioning. The correct method is to tighten each bolt slightly, moving round the flange until the whole joint is perfectly tight. Joints should never be tightened at one point alone even if the oil leaks appear to have developed ( : this point. Failure to adopt this method of tightening may result in a serious oil leak which will be found difficult to check. If, after carrying out the tightening described above, the oil leak still persists, the oil should be lowered below the gasket level and an inspection of the gasket carried out. If damage or deterioration is evident, a replacement gasket should be fitted, and if necessary, the transformer should be vented.
 
 Oil Maintenance
 
@@ -3680,7 +3809,15 @@ KOH = Potassium Hydroxide
 1）將直徑 12.5 mm 金屬棒加熱至暗紅，降至容器底部並充分攪拌；不應聽到爆裂聲，不合格油須適當處理。
 2）乾淨乾燥、長約 125 mm、直徑 12.5 mm 的試管裝油約四分之一，初始油溫 15–25°C；以無聲火焰加熱至油開始沸騰，若有可聽見的爆裂聲，表示有水。
 酸值：刺鼻氣味可提示酸性；有此氣味時，應立即檢查油麵以上油箱／頂蓋腐蝕，並量測酸值。教材對低於 80 kV 變壓器建議每 6 年測試。儀器、溶液可向實驗器材／化學品供應商取得，有疑問詢問油商。
-建議界限：a）低於 0.3 mg KOH/g，其他性質良好則不需處置；b）高於 0.3 mg KOH/g，提高試驗頻率；c）超過 0.5 mg KOH/g，換油並再生處理舊油；d）超過 2.5 KOH/g，要求更換變壓器。KOH = 氫氧化鉀。
+建議界限：
+
+a）低於 0.3 mg KOH/g，其他性質良好則不需處置；
+
+b）高於 0.3 mg KOH/g，提高試驗頻率；
+
+c）超過 0.5 mg KOH/g，換油並再生處理舊油；
+
+d）超過 2.5 KOH/g，要求更換變壓器。KOH = 氫氧化鉀。
 
 > 這是原教材試驗方法之翻譯，不作實作指令；涉及高溫油與火源。第 d 項原文缺 mg，不能自行補為已確認單位。
 
@@ -3696,17 +3833,17 @@ Source figure 1 · PDF p73
 
 ### English OCR
 
-If the acidity is allowed to exceed l.Omg KOH/g,there is a considerable risk of sludge precipitation and corrosion of metal surfaces above oil level by condensed acidic vapours. It may be possible to retain oil in service with acidity above this figure, provided that frequent internal examination of the transformer is made, but this practice is not recommended since the oil may reach a state at which it is not economical for it to be reconditioned.
+If the acidity is allowed to exceed l.Omg KOH/g, there is a considerable risk of sludge precipitation and corrosion of metal surfaces above oil level by condensed acidic vapours. It may be possible to retain oil in service with acidity above this figure, provided that frequent internal examination of the transformer is made, but this practice is not recommended since the oil may reach a state at which it is not economical for it to be reconditioned.
 
 Regular filtration checks the development of acidity but is not effective in removing acid once it has formed. To remove acid the oil may be returned to the oil supplier for reconditioning, or new oil may be provided, but in either case the lower the acidity at the time of changing the oil, the less the new filling will be affected by acid absorption from the core and windings.
 
 Sludge
 
-Although severe sludge is not frequently experienced in transformer oil in service,it is, ( nevertheless, a most serious form of deterioration, not only because of the danger of insulation breakdown owing to the restriction of cooling, but also because a transformer with sludge deposits is difficult to clean thoroughly without dismantling.
+Although severe sludge is not frequently experienced in transformer oil in service, it is, ( nevertheless, a most serious form of deterioration, not only because of the danger of insulation breakdown owing to the restriction of cooling, but also because a transformer with sludge deposits is difficult to clean thoroughly without dismantling.
 
-Although there may be no solid deposit visible in oil samples,it is still possible that sludge may have formed, and that the concentration in the oil has not yet reached a point where deposition is occurring. The presence of sludge may then be detected by dilution of the oil with normal Heptane and it is recommended that a test should be carried out when the acidity of the oil approaches l.Omg KOH/g.
+Although there may be no solid deposit visible in oil samples, it is still possible that sludge may have formed, and that the concentration in the oil has not yet reached a point where deposition is occurring. The presence of sludge may then be detected by dilution of the oil with normal Heptane and it is recommended that a test should be carried out when the acidity of the oil approaches l.Omg KOH/g.
 
-When comparison of records as suggested under "Recording the Results"indicates the presence of precipitated sludge it may be necessary,even though the acidity may be within the prescribed limit, to consider applying treatment or changing the oil. When sludge is allowed to accumulate, the oil circulating ducts become choked which results in higher core and winding temperatures with consequent formation of still more sludge,the action being cumulative.
+When comparison of records as suggested under "Recording the Results"indicates the presence of precipitated sludge it may be necessary, even though the acidity may be within the prescribed limit, to consider applying treatment or changing the oil. When sludge is allowed to accumulate, the oil circulating ducts become choked which results in higher core and winding temperatures with consequent formation of still more sludge, the action being cumulative.
 
 Flashpoint(Closed)
 
@@ -3735,7 +3872,7 @@ foreign matter providing a conducting path between live parts and the frame of t
 
 Recording the Results
 
-It is essential to keep records of all tests. The acidity should be plotted on a graph with time as the base,and the records should include relevant operating data such as maximum loads and maximum oil temperatures.
+It is essential to keep records of all tests. The acidity should be plotted on a graph with time as the base, and the records should include relevant operating data such as maximum loads and maximum oil temperatures.
 
 Switchgear Oil
 
@@ -3875,7 +4012,7 @@ o
 
 ‘Circuit Conductor' means any conductor in a system which is intended to carry electric current in normal conditions, or to be energised in normal conditions, and include a combined neutral and earth conductor, but does not include a conductor provided solely to perform a protective function by connection to earth or other reference point;
 
-'ElectricalEquipment' includes anything used, intended to be used or installed for use,to generate, provide, transmit, transform, rectify, convert, conduct, distribute, control, store, measure or use electrical energy.
+'ElectricalEquipment' includes anything used, intended to be used or installed for use, to generate, provide, transmit, transform, rectify, convert, conduct, distribute, control, store, measure or use electrical energy.
 
 'System' means an electrical system in which all the electrical equipment is, or may be, electrically connected to a common source of electrical energy, and include such source and such equipment.
 
@@ -3934,7 +4071,19 @@ Distribution Sub-stations should be sited in accessible positions with direct ro
 
 ### 繁體中文學習譯文
 
-技術及經濟因素決定採高壓配電時，須考量：當前需求與未來場址發展；使用者供電可靠度要求；重要／非重要負載區分及停電後復電速度；備用電源的需要、容量、型式及位置；配合電力電纜敷設控制、指示、保護電纜的需要；操作與維護需求。
+技術及經濟因素決定採高壓配電時，須考量：
+
+當前需求與未來場址發展；
+
+使用者供電可靠度要求；
+
+重要／非重要負載區分及停電後復電速度；
+
+備用電源的需要、容量、型式及位置；
+
+配合電力電纜敷設控制、指示、保護電纜的需要；
+
+操作與維護需求。
 兩種基本方式：放射式饋線（Radial feeders）與環網（Ring mains）。圖 1：ISS = 進線變電站；DSS = 配電變電站；圖列 DSS A、B、C。
 若能符合要求，教材建議盡可能採放射式。實務上，配電站超過約 6 座及／或有集中備用電源時，常用環網，備用電源站常設於離進線站較遠處。
 DSS 應設於可直接由道路進入的可及位置，盡可能接近負載中心或最大負載，再以低壓饋線供應各個建築。
@@ -4146,7 +4295,7 @@ A fault on a ring feeder cable would lead to the circuit breaker located in the 
 
 In order to locate the fault (in the absence of earth fault passage indicators) it will be necessary to carry out sequential switching. This will consist of switching off all switches on the affected leg of the ring and then switching on the circuit breaker and then the switches sequentially.
 
-z Where the numbers of Distribution Sub-stations is excessive (say15 to 20+) or the total load \jn Ringexceeds (say) 4000 kVA,then it may be necessary to consider the following alternatives:
+z Where the numbers of Distribution Sub-stations is excessive (say15 to 20+) or the total load \jn Ringexceeds (say) 4000 kVA, then it may be necessary to consider the following alternatives:
 
 Formation of a second open ring main from ISSto SBSS
 
@@ -4299,7 +4448,17 @@ i) Cost and delivery time.
 
 ### 繁體中文學習譯文
 
-選擇電纜路徑應考量：a）沿道路、圍籬等實體特徵；b）避開空地，尤其可能開發處；c）避開排水、管道、樹木及水域等障礙；d）避開敏感或限制進出區；e）可行時多條電纜共用路徑，但替代電源及往返變電站的環網電纜應分開路徑。
+選擇電纜路徑應考量：
+
+a）沿道路、圍籬等實體特徵；
+
+b）避開空地，尤其可能開發處；
+
+c）避開排水、管道、樹木及水域等障礙；
+
+d）避開敏感或限制進出區；
+
+e）可行時多條電纜共用路徑，但替代電源及往返變電站的環網電纜應分開路徑。
 不可避免穿越鋪面或道路時，建議每條電纜各有獨立管道，另留至少 25% 備用管孔。
 選型與尺寸因素：操作電壓；正常滿載電流及連續／間歇性；降額因素（土壤熱阻、地溫、環境氣溫、埋深、分組及鄰近電纜／公用管線）；預期故障電流與保護型式；壓降；機械保護與安裝方式；外徑、柔性、最小彎曲半徑；終端型式與終端室空間；成本及交期。
 
@@ -4314,7 +4473,7 @@ i) Cost and delivery time.
 
 Where several types of cable are equally suitable on technical and delivery grounds then the selection should be made on the basis of lowest total cost (including installation and operation).
 
-Consideration should always be given to the use of cables having aluminium (AL) conductors as an alternative to copper (CU) conductors. After allowing for the larger size of an aluminium conductor necessary,the choice of aluminium may show worthwhile savings in many situations.
+Consideration should always be given to the use of cables having aluminium (AL) conductors as an alternative to copper (CU) conductors. After allowing for the larger size of an aluminium conductor necessary, the choice of aluminium may show worthwhile savings in many situations.
 
 Where armouring of single core ac cables is necessary, non-magnetic armour should be specified.
 
@@ -4384,7 +4543,11 @@ b) Before cables are laid the bottom of the trench shall be evenly graded, clear
 搬運與敷設必須謹慎。除施工人員誤刺等明顯事件外，教材認為地下電纜故障大多歸因於敷設或接續施工不良。
 卸電纜盤：有吊車時，應用合適心軸穿過盤中心起吊；沒有時，以厚木料建適當坡道，中心心軸繫繩控制滾下。任何情況都不可讓電纜盤墜落，即使地面柔軟也會壓扁內層，且不易發現。
 滾動時依盤側箭頭方向，避免損傷。
-直埋：a）溝槽埋深與電纜間距依後頁表 1、2。b）槽底整平並清除鬆石，鋪 75 mm 厚、透過最大 12 mm 網孔篩的土；現地土不適用則用砂。教材要求環境與電纜溫度均高於 0°C，且電纜過去 24 小時也保持高於此溫度，才可敷設。
+直埋：
+
+a）溝槽埋深與電纜間距依後頁表 1、2。
+
+b）槽底整平並清除鬆石，鋪 75 mm 厚、透過最大 12 mm 網孔篩的土；現地土不適用則用砂。教材要求環境與電纜溫度均高於 0°C，且電纜過去 24 小時也保持高於此溫度，才可敷設。
 
 
 
@@ -4454,7 +4617,9 @@ HV 50mm 300mm 300mm 300mm 300mm LV 300mm 25mm 150mm 150mm 300mm Telephone 300mm 
 ### 繁體中文學習譯文
 
 c）以間距適當的滾輪拉纜，多餘長度在槽寬內蛇形擺放。直線溝槽除分支外不可交叉；拉入點、接頭及接線箱須留鬆弛量，不可敷後拉緊拉直。以拉纜網套牽引時，應製作實心鉛封拉纜端，讓線芯與護套共同受力；例外為不超過 10 m 且非拉入頂管的長度。
+
 d）敷後以細篩土／適用砂覆蓋，夯實後至少 50 mm；可加警示帶／護板，再回填壓實。
+
 e）每 100 mm 一層回填，前兩層手夯，其餘可用動力夯；恢復草皮，完成面高出原地面不得超過 25 mm。
 表 1，覆土深度（按原印字）：
 • HV：空地／人行鋪面 800 mm；道路下 10000 mm。
@@ -4491,7 +4656,7 @@ WarningTapesand Covers
 
 a) A warning tape shall be placed above each cable that is laid direct in the ground and above each cable duct. The tape shall be laid at a depth of 300mm below the finished surface level except where the depth of roadway or paved area base exceeds 300mm in which case the tape shall be laid immediately below the base.
 
-b) Warning tapes shall be of polyethylene not less than 150mm wide and 0.1mm thick. They shall be red for HVand yellow for LVand bear the continuously repeated legend 0- CautionElectric Cable Below-0, or similar, in black letters not less than 30mm high.
+b) Warning tapes shall be of polyethylene not less than 150mm wide and 0.1mm thick. They shall be red for HV and yellow for LVand bear the continuously repeated legend 0- CautionElectric Cable Below-0, or similar, in black letters not less than 30mm high.
 
 TheSealingof CableDuctsinto Buildings
 
@@ -4503,7 +4668,7 @@ Where ground conditions require, the seals should be capable of withstanding gro
 
 For a single service it is generally sufficient for the gap between cable or pipe and the surrounding sleeve to be plugged with suitable filler.
 
-Several types of proprietary mastic compounds are available. The compounds chosen should, however, be non-hardening, non-cracking and resistant to both moisture and gas. They should also be resistant to mineral acids,alkalis and salts and should be of a nature unlikely to cause corrosion of any materials with which they are liable to come into contact. The service cable or pipe should be wrapped with a suitable tape prior to mastic sealingin all cases where proprietary materials are being used, the manufacturer's instructions and recommendations should be carefully followed.
+Several types of proprietary mastic compounds are available. The compounds chosen should, however, be non-hardening, non-cracking and resistant to both moisture and gas. They should also be resistant to mineral acids, alkalis and salts and should be of a nature unlikely to cause corrosion of any materials with which they are liable to come into contact. The service cable or pipe should be wrapped with a suitable tape prior to mastic sealingin all cases where proprietary materials are being used, the manufacturer's instructions and recommendations should be carefully followed.
 
 Testingof Laid Cables(HV)
 
@@ -4571,7 +4736,7 @@ o
 
 The most common HVhigh rupturing capacity (HRC) fuse in use is of the powder filled type manufactured to BS2692: 1986. These can be suitable for installation in air or immersion in oil and are used in Ring Main Units and distribution fusegear.
 
-The fuse comprises a stout ceramic or alumina barrel with sealed end capping's of metal (with or without lugs as required). The main fuse element consists of a number of parallel wires or strips, often of silver, having reduced cross sections at their fusing points. The fuse element is surrounded by an inert powder serving to extinguish the arc which forms on operation. In some cases,this powder is stated to be a "chemically treated quartz dust".
+The fuse comprises a stout ceramic or alumina barrel with sealed end capping's of metal (with or without lugs as required). The main fuse element consists of a number of parallel wires or strips, often of silver, having reduced cross sections at their fusing points. The fuse element is surrounded by an inert powder serving to extinguish the arc which forms on operation. In some cases, this powder is stated to be a "chemically treated quartz dust".
 
 Most fuses are provided with a striker pin which is ejected through the endcap via an explosive charge detonated by a second-high resistance element after the main fuse
 
@@ -4644,7 +4809,9 @@ The table overleaf give recommended fuse rating for transformer protection.
 承前：撞針帶動跳離線構，任一相熔絲動作時都使三相隔離。圖 1 標籤：端帽、銀熔體、撞針、高阻抗元件、星形骨架、氧化鋁管。
 高壓 HRC 通常裝在 switch fuse／fuse switch 保護變壓器。教材建議高壓熔絲正常保護上限：11 kV 的 800 kVA、6.6 kV 的 500 kVA、3.3 kV 的 300 kVA（含上限）。
 製造商提供時間—電流、焦耳積分、透過能量與截流特性。
-選用檢查：1）電流額定是否正確？2）適合系統電壓嗎？3）承受系統故障等級嗎？4）有撞針時，安裝方向正確嗎？5）額定是否在開關熔絲單元允許範圍？6）實體尺寸適合嗎？7）更換燒斷熔絲時，三相一起更換。
+選用檢查：
+
+1）電流額定是否正確？2）適合系統電壓嗎？3）承受系統故障等級嗎？4）有撞針時，安裝方向正確嗎？5）額定是否在開關熔絲單元允許範圍？6）實體尺寸適合嗎？7）更換燒斷熔絲時，三相一起更換。
 下頁列變壓器保護建議熔絲額定值。
 
 
@@ -4873,7 +5040,11 @@ Fig4 SingleElementof an Electromagnetic IDMT relay
 
 ### 繁體中文學習譯文
 
-反時限、定最小時間（Inverse Definite Minimum Time，IDMT）繼電器廣用於配電系統與裝置故障偵測。基本特性：1）電流越大，動作時間越短；2）超過磁飽和所需電流後，具有固定最短動作時間。
+反時限、定最小時間（Inverse Definite Minimum Time，IDMT）繼電器廣用於配電系統與裝置故障偵測。基本特性：
+
+1）電流越大，動作時間越短；
+
+2）超過磁飽和所需電流後，具有固定最短動作時間。
 傳統電磁型依感應原理工作：輕質非磁性圓盤在兩個電磁鐵極間轉動，克服螺旋復歸彈簧。圓盤軸上的接點臂轉到位時，橋接兩固定接點、完成跳脫迴路。
 上下電磁鐵磁通有足夠相位差，在圓盤產生渦流；磁通足夠即使圓盤轉動。磁通密度與盤速隨保護 CT 的一次電流增加，形成反時限特性。
 圖 4 單元：插頭設定 2.5、3.75、5、6.25、7.5、8.75、10 A，對應 50、75、100、125、150、175、200%；拔出插頭時，插頭橋會短接至最高設定。圖中亦列跳脫線圈及正負極電池。
@@ -4920,7 +5091,13 @@ The relay is normally used in the three-element form, with the elements connecte
 
 為調整靈敏度、取得所需一次動作電流，上線圈設分接頭並連至插頭橋（圖 4）。圖 5 表示提高插頭設定對時間—電流曲線的影響。
 圓盤動作前需轉過的角度可調，以配合所需時間；時間旋鈕以時間倍率標定，調整圓盤起始位置。降低時間倍率設定（TMS）會使時間—電流曲線沿時間軸往下移（圖 6）。圖 7 為 PBO 繼電器插頭與時間倍率設定。
-教材引用 BS 142:Part 2:1990《電氣保護繼電器》，標準 IDMT 要求：1）在自身額定電流時不得動作；2）準確度範圍為額定電流 1.3–20 倍；3）定最小時間為 2.2 秒。
+教材引用 BS 142:Part 2:1990《電氣保護繼電器》，標準 IDMT 要求：
+
+1）在自身額定電流時不得動作；
+
+2）準確度範圍為額定電流 1.3–20 倍；
+
+3）定最小時間為 2.2 秒。
 繼電器通常為三元件，可互連成不同保護配置（圖 8）。
 
 > 2.2 秒等為本教材所述傳統標準特性，不是所有現代 IDMT 曲線或 TMS 下的固定動作時間。
@@ -4952,7 +5129,7 @@ Fig8 IDMT Relay Connections
 
 i recent years solid state IDMT relays have been introduced. Whilst their principle of operation is vastly different to the conventional electromagnetic relay the inverse time-current characteristic is the same.
 
-The IDMT relay is generally used in the two element of over current/one element of earth fault arrangement (see Fig8). Applications are for feeder protection at both HVand LV and protection of the larger distribution transformers (above 1 MVA).
+The IDMT relay is generally used in the two element of over current/one element of earth fault arrangement (see Fig8). Applications are for feeder protection at both HV and LV and protection of the larger distribution transformers (above 1 MVA).
 
 ### 繁體中文學習譯文
 
@@ -5000,7 +5177,7 @@ o
 
 3. Inverse Definite Minimum Time (IDMT) relays.
 
-In determining suitable time separation between the operating characteristics of devices in series,the following factors are considered (see Fig1).
+In determining suitable time separation between the operating characteristics of devices in series, the following factors are considered (see Fig1).
 
 1. Fuse manufacturing tolerances.
 
@@ -5016,7 +5193,11 @@ In determining suitable time separation between the operating characteristics of
 
 保護系統應盡量維持供電連續性，定位故障並只斷開清除故障所需的最少裝置。多個保護偵測到同一故障時，只有直接相關者應動作，藉選擇性（discrimination）達成。
 選擇性定義：保護裝置偵測並正確回應故障，使只有故障迴路或裝置被隔離的能力。
-兩種方法：1）時間分級，離電源越遠的保護越快動作；2）單元保護，只保護與該裝置相關的裝置範圍。
+兩種方法：
+
+1）時間分級，離電源越遠的保護越快動作；
+
+2）單元保護，只保護與該裝置相關的裝置範圍。
 時間分級可使用 HRC 熔絲、交流跳脫線圈搭配 TLF、IDMT 繼電器。
 串聯裝置所需時間差應考慮：熔絲製造公差、CT 製造公差、繼電器製造公差、斷路器開路時間，以及繼電器過衝（例如圓盤慣性）。
 
@@ -5293,7 +5474,7 @@ Source figure 1 · PDF p105
 
 Installation
 
-As already discussed,the relay is sited in the oil pipe between the top of the transformer tank and the conservator (seeFig 2). It should always be mounted in a straight run of piping at least five pipe diameters on the transformer side of the relay and a minimum of three diameters on the conservator side of the relay. These straight runs of piping should slope up from the tank to the oil conservator at an angle between 1 and 9 degrees to the horizontal. Care should be taken when mounting that the arrow on the relay is in the same direction as the oil flow to the conservator.
+As already discussed, the relay is sited in the oil pipe between the top of the transformer tank and the conservator (seeFig 2). It should always be mounted in a straight run of piping at least five pipe diameters on the transformer side of the relay and a minimum of three diameters on the conservator side of the relay. These straight runs of piping should slope up from the tank to the oil conservator at an angle between 1 and 9 degrees to the horizontal. Care should be taken when mounting that the arrow on the relay is in the same direction as the oil flow to the conservator.
 
 The top petcock on the relay should be below the bottom of the conservator, whilst the distance between the bottom of the device and the transformer tank should be at least 75
 
@@ -5354,7 +5535,7 @@ In the main the relay will operate for one of the following three reasons.
 
 4. Gas produced by the breakdown of solid insulation.
 
-The gases produced are hydrogen, acetylene and carbon monoxide and it is the proportions of these which point to the type of fault producing the gas.The information that can be derived from analysis is as follows.
+The gases produced are hydrogen, acetylene and carbon monoxide and it is the proportions of these which point to the type of fault producing the gas. The information that can be derived from analysis is as follows.
 
 ### 繁體中文學習譯文
 
@@ -5404,9 +5585,17 @@ Specialprecautions are required when transformer oil has been replaced, or is be
 
 ### 繁體中文學習譯文
 
-教材判讀：1）主要為氫、一氧化碳低於 2%，故障可能只涉及油；2）氫加約 20% 一氧化碳，可能同時涉及固體絕緣與油。
+教材判讀：
+
+1）主要為氫、一氧化碳低於 2%，故障可能只涉及油；
+
+2）氫加約 20% 一氧化碳，可能同時涉及固體絕緣與油。
 原文稱第一類若積氣緩慢可暫留運轉；一週內連續警報則應停用檢查。第二類涉及固體絕緣燃燒，不論積氣所需時間都應停用。
-教材列現場試驗：1）少量氣體靠近裸火觀察可燃性；2）以軟管導氣透過硝酸銀溶液，若有乙炔會變混濁、日照後轉褐。原文稱兩試驗皆陽性可判為故障產氣，皆陰性可能是油／繞組釋出小氣泡。
+教材列現場試驗：
+
+1）少量氣體靠近裸火觀察可燃性；
+
+2）以軟管導氣透過硝酸銀溶液，若有乙炔會變混濁、日照後轉褐。原文稱兩試驗皆陽性可判為故障產氣，皆陰性可能是油／繞組釋出小氣泡。
 維護：每年檢查並排出累積氣體，疑似異常則檢測；製造商也建議檢查接點與警報。教材描述為避免誤跳脫，試驗前斷開跳脫接線、代以輔助動作指示器；真正跳脫測試可配合開關裝置維護以減少中斷。
 換油或迴圈清洗時須特別防範困住的氣泡使浮子動作。
 
@@ -5490,7 +5679,7 @@ Develop High-voltage Safety Rules and Procedures are written to "establish a gen
 
 3. Electricity Safety, Quality and Continuity Regulations 2002.
 
-,The following paragraphs are extracts taken from the Develop High-voltage Safety Rules and procedures for further information please refer to the original document.
+, The following paragraphs are extracts taken from the Develop High-voltage Safety Rules and procedures for further information please refer to the original document.
 
 Definition of Persons
 
@@ -5514,7 +5703,17 @@ e) have a basic knowledge of the systems and installations in use in the area fo
 
 Develop 高壓安全規則與程式旨在建立一般安全工作制度，並使公司符合教材列出的 HASAWA 1974、Electricity at Work Regulations 1989、ESQCR 2002。以下為摘錄，詳情須查原規則檔案。
 授權工程師（Authorising Engineer，AE）：由高階管理階層書面任命，負責有效管理這套規則的工程師。
-資格：a）特許工程師且至少 5 年相關經驗；或具紮實技術背景、HNC 程度、至少 8 年電氣 SAP 實務經驗的 Incorporated Engineer。b）過去 3 年內按附錄 A6 完成核準 SAP／AP 初訓。c）過去 3 年內按附錄 A6 完成核準 AE 訓練。d）熟悉欲受任區域的各類裝置、裝置與系統。e）對將負責區域的系統／裝置有基本知識，並逐步熟悉更複雜系統。
+資格：
+
+a）特許工程師且至少 5 年相關經驗；或具紮實技術背景、HNC 程度、至少 8 年電氣 SAP 實務經驗的 Incorporated Engineer。
+
+b）過去 3 年內按附錄 A6 完成核準 SAP／AP 初訓。
+
+c）過去 3 年內按附錄 A6 完成核準 AE 訓練。
+
+d）熟悉欲受任區域的各類裝置、裝置與系統。
+
+e）對將負責區域的系統／裝置有基本知識，並逐步熟悉更複雜系統。
 
 > 此為 Develop 教材所屬規則的職務資格，不直接等同其他公司、專案或 RelyOn 當班報名資格。
 
@@ -5545,27 +5744,39 @@ h) Investigate all DangerousOccurrences involving electrical equipment, systems 
 
 Senior AuthorisedPerson(SAP)
 
-A person appointed, in writing, by an Authorising Engineer, in accordance with the Rules,to be responsible for the implementation of the Rules,in respect of the control and operation of High-voltage electrical systems including the issue of all Safety Documents.
+A person appointed, in writing, by an Authorising Engineer, in accordance with the Rules, to be responsible for the implementation of the Rules, in respect of the control and operation of High-voltage electrical systems including the issue of all Safety Documents.
 
 Qualifications:
 
-a) Be over 23 years of age and be either, I. Engor EngTech and be qualified within the following range Degree,HND/HNC,OND/ONC,BTech 4 or 3, C&G,NVQat level 3 or above.
+a) Be over 23 years of age and be either, I. Engor EngTech and be qualified within the following range Degree, HND/HNC, OND/ONC, BTech 4 or 3, C&G, NVQ at level 3 or above.
 
 b) Have an adequate knowledge of these Rules and of those Regulations listed in Appendix 1 that are applicable to the systems and installations for which the appointment is sought.
 
 ### 繁體中文學習譯文
 
 AE 責任：
+
 a）書面界定每位 SAP／AP 負責的系統與裝置精確範圍，必要時配圖，並維護任命名冊。
+
 b）必要時收回任命證書，暫停 SAP／AP 任命。
+
 c）若合適受訓且有經驗的人數不足，已明顯影響公司提供安全有效服務，須通報。
+
 d）每 12 個月稽核表現並記錄各人的操作經驗。
+
 e）間隔不超過 3 年，按 7.4 全面稽核規則在所有系統／裝置的執行，並檢討各人操作經驗。
+
 f）把 DNO、製造商或供應商對責任區裝置發布的已知缺陷報告／操作限制通知公司。
+
 g）確保有制度向所有 AP 傳達操作限制與危險事件資訊。
+
 h）調查責任範圍內裝置、系統與裝置涉及的所有危險事件。
 資深授權人員（Senior Authorised Person，SAP）：依規則由 AE 書面任命，負責高壓系統控制與操作之規則執行，包括發出全部安全檔案。
-資格：a）年齡超過 23 歲，為 I.Eng 或 EngTech，並具學位、HND／HNC、OND／ONC、BTech 4／3、C&G、NVQ 第 3 級以上等所列資格。b）充分了解本規則，以及附錄 1 中適用於欲受任系統／裝置的法規。後頁續。
+資格：
+
+a）年齡超過 23 歲，為 I.Eng 或 EngTech，並具學位、HND／HNC、OND／ONC、BTech 4／3、C&G、NVQ 第 3 級以上等所列資格。
+
+b）充分了解本規則，以及附錄 1 中適用於欲受任系統／裝置的法規。後頁續。
 
 
 
@@ -5576,7 +5787,7 @@ h）調查責任範圍內裝置、系統與裝置涉及的所有危險事件。
 
 ### English OCR
 
-c) Be technically competent and qualified to safely operate, and make safe to work on or test, the equipment, systems,or installations and for which appointment is sought.
+c) Be technically competent and qualified to safely operate, and make safe to work on or test, the equipment, systems, or installations and for which appointment is sought.
 
 d) Be familiar with the equipment, systems or installations for which appointment is sought.
 
@@ -5590,7 +5801,7 @@ Responsibilities include:
 
 { ) The control of electrical distributions systems including the operation of High-voltage and major Low Voltage switch gear.
 
-b) Issue,cancel and withdraw as appropriate all Safety Documents for the systems, installations, and equipment for which the Senior Authorised Person has been appointed
+b) Issue, cancel and withdraw as appropriate all Safety Documents for the systems, installations, and equipment for which the Senior Authorised Person has been appointed
 
 c) Ensure that all Protective Equipment, Test Equipment and Portable Earthing Equipment is recorded, periodically inspected, calibrated, and maintained in accordance with the manufacturer's recommendations and is to be inspected to ensure it is in a satisfactory condition before use
 
@@ -5606,14 +5817,31 @@ g) Ensure that all records for the system for which the Senior Authorised Person
 
 ### 繁體中文學習譯文
 
-SAP 資格續：c）具技術能力及資格，能安全操作受任裝置／系統／裝置，並使其適合工作或測試。d）熟悉這些裝置與系統。e）完成 AE 核准的 SAP 高壓初訓。f）任命前，經 AE 正式面談展現能力與適任性。g）具急救知識，且過去 3 年內完成符合 7.3 的緊急急救課程。
+SAP 資格續：
+
+c）具技術能力及資格，能安全操作受任裝置／系統／裝置，並使其適合工作或測試。
+
+d）熟悉這些裝置與系統。
+
+e）完成 AE 核准的 SAP 高壓初訓。
+
+f）任命前，經 AE 正式面談展現能力與適任性。
+
+g）具急救知識，且過去 3 年內完成符合 7.3 的緊急急救課程。
 責任：
+
 a）控制配電系統，包括高壓與主要低壓開關裝置操作。
+
 b）就受任範圍發出、取消及適時撤回所有安全檔案。
+
 c）確保防護、測試及可攜接地裝置有紀錄，依製造商建議定期檢查、校正與維護，使用前確認良好狀態。
+
 d）向 AE 通報裝置缺陷、危險事件及工作中發現的危險做法。
+
 e）安排、監督或執行受任地理範圍內電纜偵測／定位。
+
 f）任命 CP 執行限定工作，維護名冊，記錄任命／到期日期、訓練內容與日期；名冊及有效 CP 證書副本存於操作程式手冊。
+
 g）確保責任系統的所有紀錄完成並持續更新。
 
 
@@ -5660,7 +5888,21 @@ A suitably trained person who has sufficient technical knowledge and experience 
 ### 繁體中文學習譯文
 
 AP：依規則由 AE 書面任命，負責指定高壓系統控制與操作之規則執行。
-資格：a）超過 23 歲；b）充分了解規則與附錄 1 適用法規；c）具安全操作受任高壓開關裝置及控制系統／裝置的技術能力與資格；d）熟悉受任裝置／系統；e）完成 AE 核准的 AP 高壓初訓；f）任命前經 AE 正式面談展現能力與適任性；g）具足夠急救知識，並在過去 3 年內完成符合 7.3 的緊急急救訓練。
+資格：
+
+a）超過 23 歲；
+
+b）充分了解規則與附錄 1 適用法規；
+
+c）具安全操作受任高壓開關裝置及控制系統／裝置的技術能力與資格；
+
+d）熟悉受任裝置／系統；
+
+e）完成 AE 核准的 AP 高壓初訓；
+
+f）任命前經 AE 正式面談展現能力與適任性；
+
+g）具足夠急救知識，並在過去 3 年內完成符合 7.3 的緊急急救訓練。
 AP 責任：控制高壓配電系統並操作高壓開關裝置；對受任範圍發出、取消及撤回 LOA（進入限制）安全檔案。
 高壓具能力人員（CPHV）：經適當訓練，具足夠技術知識與經驗避免電氣危險，瞭解本規則，適合在安全檔案或任命證書列明的裝置、裝置及地點執行特定工作。
 
@@ -5708,7 +5950,21 @@ A written authority, issued by the Duty Senior Authorised or Authorised Person a
 ### 繁體中文學習譯文
 
 安全監護人（Safety Person）：不參與工作或測試，已受緊急急救訓練，並有足夠知識、經驗及能力避免危險、監看、防止幹擾、施急救及求援；須熟悉被作業系統，並已被告知事故時如何斷開裝置。
-當值 SAP 判斷需要時，以及以下情況，監護人須在場：a）驗明／確認裝置無電；b）用開關以外方法接地；c）SAP 刺穿電纜；d）進行高壓測試；e）使用高壓驗電器；f）高壓電壓及對相測試；g）任何人開啟或進入高壓圍護空間工作。
+當值 SAP 判斷需要時，以及以下情況，監護人須在場：
+
+a）驗明／確認裝置無電；
+
+b）用開關以外方法接地；
+
+c）SAP 刺穿電纜；
+
+d）進行高壓測試；
+
+e）使用高壓驗電器；
+
+f）高壓電壓及對相測試；
+
+g）任何人開啟或進入高壓圍護空間工作。
 安全檔案：
 工作許可 PTW：由當值 SAP 發給 CP 的書面授權，允許對已使安全的指定高壓裝置工作。
 測試許可 SFT：由當值 SAP 發出的書面授權，允許測試指定高壓裝置。
@@ -5729,7 +5985,7 @@ A diagram attached to the Permit to Work or Sanction for Test illustrating the s
 
 SwitchingSchedule
 
-A document issued by the Duty Senior Authorised Person,after countersignature, setting out the sequence of operations to be followed before a Permit to Work or a Sanction for Test is issued.
+A document issued by the Duty Senior Authorised Person, after countersignature, setting out the sequence of operations to be followed before a Permit to Work or a Sanction for Test is issued.
 
 Logbook
 
@@ -5747,7 +6003,7 @@ d) Adjustment of the Mimic Diagram to indicate the present state of the system o
 
 e) The issue and return of any key for HVequipment, ie, switchgear, sub-stations, transformers etc.
 
-f) The issue, cancellation, loss,or withdrawal of a Permit to Work, Sanction for Test, or Limitation of Access.
+f) The issue, cancellation, loss, or withdrawal of a Permit to Work, Sanction for Test, or Limitation of Access.
 
 g) Spiking of a cable
 
@@ -5765,7 +6021,28 @@ k) The annual inspection of protective equipment, test equipment and the six-mon
 切換操作程式表（Switching schedule）：經副簽後由當值 SAP 發出，列明在 PTW／SFT 發出前須依循的操作順序。
 操作紀錄簿（Logbook）：每一受任地理區域須有裝訂硬皮、非活頁、連續編頁的紀錄簿，永久清楚標示場址、位置、系統／裝置；不使用時放可上鎖檔案櫃。
 按時間先後記錄，每筆以橫線劃開，內容包括：
-a）SAP／AP 間責任接受與交還；b）AP 鑰匙自鑰匙箱取出、歸還及轉交；c）每次高壓及至主要低壓進線開關為止的低壓配電操作；d）模擬圖更新至目前狀態；e）高壓裝置、站房、變壓器等鑰匙發出與歸還；f）PTW／SFT／LOA 發出、取消、遺失或撤回；g）電纜刺穿；h）操作限制的收到、終止及補救；i）AP 備用鑰匙及其他備匙取用或補回；j）每 3 個月高壓開關室／變電站檢查；k）每年防護與測試裝置檢查，及每 6 個月可攜接地裝置檢查。
+
+a）SAP／AP 間責任接受與交還；
+
+b）AP 鑰匙自鑰匙箱取出、歸還及轉交；
+
+c）每次高壓及至主要低壓進線開關為止的低壓配電操作；
+
+d）模擬圖更新至目前狀態；
+
+e）高壓裝置、站房、變壓器等鑰匙發出與歸還；
+
+f）PTW／SFT／LOA 發出、取消、遺失或撤回；
+
+g）電纜刺穿；
+
+h）操作限制的收到、終止及補救；
+
+i）AP 備用鑰匙及其他備匙取用或補回；
+
+j）每 3 個月高壓開關室／變電站檢查；
+
+k）每年防護與測試裝置檢查，及每 6 個月可攜接地裝置檢查。
 
 
 
@@ -5816,15 +6093,25 @@ For each geographical area for which Senior Authorised Persons have been appoint
 
 用完的 Logbook 自最後記錄日起在上鎖檔案櫃儲存 3 年。
 操作程式手冊（Operational Procedure Manual）：每個 SAP 受任地理區域建立環形活頁夾，清楚永久標示場址、位置、系統／裝置，不用時鎖入檔案櫃。分節收納：
+
 a）CP 任命證書；承攬商 CP 則收僱主能力證明信。
+
 b）CP 名冊，含訓練內容／日期、證書發出與檢討日期等。
+
 c）收到的操作限制。
+
 d）相關檢查報告與補救工作。
+
 e）已取消的操作限制。
+
 f）與其他組織的責任界線協議。
+
 g）與承攬商的責任界線協議。
+
 h）與 DNO 的操作協議。
+
 i）每份經核准、已完成的 Switching schedule 及 I&E 正本，包括完成後未實際使用者。
+
 j）場內防護、測試及可攜接地裝置資料，含規格、使用說明、維護說明與適用校正紀錄。每節新加入檔案須依序編號。
 操作及維護手冊：每個受任區域建立一個或多個同樣永久標示的活頁夾，不用時放上鎖檔案櫃；內容接下頁。
 
@@ -5848,8 +6135,11 @@ c) A copy of the current 'As Installed' drawings of the system(s).
 ### 繁體中文學習譯文
 
 活頁手冊須包含：
+
 a）系統／裝置內每種高低壓配電開關裝置的製造商維護與操作說明，附測試證書及相關紀錄。
+
 b）適用於其中裝置的現行操作限制副本。
+
 c）系統目前的竣工／實際安裝圖（As installed drawings）副本。
 
 
@@ -5865,7 +6155,7 @@ Switching Schedules and Safety Documentation
 
 Discipline
 
-HVswitching for maintenance/installation work and for fault sectionalising requires planning and discipline. When you undertake any HVswitching make yourself fully aware of what needs to be done. Prepare your schedule and have it checked by another Authorised Person.Study your system schematic carefully and ensure that you understand how the system is normally operated. Be fully aware of any Operational restrictions that may be associated with the switchgear that you will be operating. Remember that operational restrictions are there because of incidents that may have injured (possibly fatally) other Authorised Persons.
+HVswitching for maintenance/installation work and for fault sectionalising requires planning and discipline. When you undertake any HVswitching make yourself fully aware of what needs to be done. Prepare your schedule and have it checked by another Authorised Person. Study your system schematic carefully and ensure that you understand how the system is normally operated. Be fully aware of any Operational restrictions that may be associated with the switchgear that you will be operating. Remember that operational restrictions are there because of incidents that may have injured (possibly fatally) other Authorised Persons.
 
 discipline yourself and check, double check and check again. Have you isolated and fitted safety locks and caution signs where appropriate? Have you operated the correct switch or circuit breaker? Are you even in the right substation? These are some of the questions that you need to be constantly askingyourself, it is very easy to make an error which in the worst instance may prove fatal.
 
@@ -5906,7 +6196,7 @@ Maintenance being undertaken on a withdrawable truck type circuit breaker would 
 
 o
 
-If the Authorised Person is going to be present for the duration of the work then they may not feel that a Limitation of Access is necessary,it is the responsibility of the Authorised Person to determine this.
+If the Authorised Person is going to be present for the duration of the work then they may not feel that a Limitation of Access is necessary, it is the responsibility of the Authorised Person to determine this.
 
 2. Sanctionfor Test A Sanction for Test is a safety document that would be issued if certain tests need to be undertaken on the HVsystem. These tests include continuity testing, cable identification and pressure testing. This document can only be issued after isolation and earthing of part of the HVsystem, ensuring that safety locks and signs have been positioned at the appropriate points. This document allows the restricted removal and application of earths on the isolated section.
 
@@ -5934,7 +6224,7 @@ SFT：用於高壓系統特定測試，如導通、電纜識別及耐壓。須�
 
 As the Senior Authorised Person, you are responsible for the section of isolated and earthed network and all the personnel working on it during that time.
 
-( he Permit to Work must state clearly the name and location of the Senior Authorised Person issuingthe work, the name of the Competent Person doing the work, the extent of the work permitted, location of all isolation and earthing points, location of all safety locks and signs,methods of rendering automatic fire extinguisher systems inoperative, etc. and any relationship between the HVpermit and other safety permits in use at the same location.
+( he Permit to Work must state clearly the name and location of the Senior Authorised Person issuingthe work, the name of the Competent Person doing the work, the extent of the work permitted, location of all isolation and earthing points, location of all safety locks and signs, methods of rendering automatic fire extinguisher systems inoperative, etc. and any relationship between the HVpermit and other safety permits in use at the same location.
 
 The Permit to Work is issued to a Competent Person and it is the responsibility of the Authorised Person to ensure that the Competent Person fully understands the work that is to be undertaken and that the working area is clearly defined both electrically and geographically.
 
@@ -6225,7 +6515,13 @@ Never swing the Locator such that it moves away from the vertical.
 ### 繁體中文學習譯文
 
 5. 追蹤特定電纜須同時用接收器與發射器。
-6. 選適當連線模式，通常三種：a）把訊號產生器直接放在電纜上方，採感應模式；b）附屬 CT 夾接發射器，夾住接地排下方的整條電纜；c）接至帶電迴路，部分有附熔絲測試線，另些可插 13 A 插座，該插座須由待追蹤供電電纜供應。
+6. 選適當連線模式，通常三種：
+
+a）把訊號產生器直接放在電纜上方，採感應模式；
+
+b）附屬 CT 夾接發射器，夾住接地排下方的整條電纜；
+
+c）接至帶電迴路，部分有附熔絲測試線，另些可插 13 A 插座，該插座須由待追蹤供電電纜供應。
 7. 開啟發射器並選正確頻率／模式。教材說短距離用較低頻率，例如 8 kHz 至 200 m；長距離較高頻率。
 8. 可行位置以接收器掃過電纜，確認訊號沿纜傳播。正常掃描不要擺動至偏離垂直。
 9. 有靈敏度調整者，掃描時調至最佳。在管線不密集區，以較低靈敏度橫越電纜可得兩個最小值、中間一個最大值；最大處為中心。最高靈敏度反而可能使位置不清楚。
@@ -6438,7 +6734,13 @@ In certain circumstances it may be undesirable to spike the cable because of the
 
 ### 繁體中文學習譯文
 
-在電纜中途露出的某點，可採三種基本方法：a）參考紀錄；b）訊號注入；c）刺穿及刺穿後確認試驗。可接受的識別至少須符合其中兩種。除可從迴路終端連續目視追蹤者外，均須仔細研究相關紀錄。
+在電纜中途露出的某點，可採三種基本方法：
+
+a）參考紀錄；
+
+b）訊號注入；
+
+c）刺穿及刺穿後確認試驗。可接受的識別至少須符合其中兩種。除可從迴路終端連續目視追蹤者外，均須仔細研究相關紀錄。
 多數情況，尤其要切斷電纜時，偏好 b 後接 c。刺穿後應保留刺釘在位，再確認確實刺中正確電纜。
 兩種確認方法：
 1. 已使用注入訊號者，發射器保持開啟，測刺點兩側；發射器側應有正常訊號，另一側沒有或大幅衰減，因刺釘構成接地。
@@ -6466,7 +6768,7 @@ a) Only approved cable identifying equipment shall be used.
 
 b) The positive identification must be demonstrated to the person who is to work upon it.
 
-c) Where a joint box or a portion of the cable sheath is to be removed, or the cable cores exposed,this shall be done under a Sanction-for-Test and the PersonalSupervision of the Senior Authorised Person in charge of the work.
+c) Where a joint box or a portion of the cable sheath is to be removed, or the cable cores exposed, this shall be done under a Sanction-for-Test and the PersonalSupervision of the Senior Authorised Person in charge of the work.
 
 ElectricalEquipment Usedfor Identification
 
@@ -6480,7 +6782,13 @@ Much of the available equipment is intended primarily for cable route tracing or
 
 ### 繁體中文學習譯文
 
-承前特殊情況，允許用訊號注入作確切識別，但須：a）只用核准的電纜識別裝置；b）向實際工作者展示確證結果；c）拆接頭箱／護套或露出線芯，必須在 SFT 下由負責 SAP 親自監督。
+承前特殊情況，允許用訊號注入作確切識別，但須：
+
+a）只用核准的電纜識別裝置；
+
+b）向實際工作者展示確證結果；
+
+c）拆接頭箱／護套或露出線芯，必須在 SFT 下由負責 SAP 親自監督。
 多數無電／隔離電纜識別器，藉兩根線芯形成迴路，偵測其電流造成的外部場；注入通常為音訊且帶脈衝，以便在工頻／幹擾中辨別。
 搜尋線圈直接貼在露出電纜的外被，須具極佳方向性，正確使用時能區分緊貼並行的兩條電纜。
 裝置必須是專門的電纜識別器，不可用不適合裝置取代。許多電纜路徑追蹤或故障定位裝置，並不符合確切識別的特定要求。
@@ -6541,9 +6849,36 @@ The signal will be greatly attenuated because it passes through the transformer,
 ### 繁體中文學習譯文
 
 取得 SFT 後，教材列下列方法。
-a）單純饋線：1 插入一端測試探棒；2 經探棒將發射器接兩根線芯；3 移除探棒處接地；4 在電纜箱附近確認訊號；5 在工作點識別。不可接在單一線芯與地之間，否則訊號不會只侷限於目標電纜迴路。
-b）T 接饋線：1–4 同上；5 移除不需要訊號之遠端的接地；6 在工作點識別。
-c）變壓器饋線（switch fuse／fuse switch）：1 高壓開關熔絲合至 ON；2 在低壓進線接點驗明無電；3 經低壓進線接點將發射器接兩根導體；4 在高壓開關熔絲附近電纜確認訊號；5 在工作點識別。
+
+a）單純饋線：
+
+1 插入一端測試探棒；
+
+2 經探棒將發射器接兩根線芯；
+
+3 移除探棒處接地；
+
+4 在電纜箱附近確認訊號；
+
+5 在工作點識別。不可接在單一線芯與地之間，否則訊號不會只侷限於目標電纜迴路。
+
+b）T 接饋線：1–4 同上；
+
+5 移除不需要訊號之遠端的接地；
+
+6 在工作點識別。
+
+c）變壓器饋線（switch fuse／fuse switch）：
+
+1 高壓開關熔絲合至 ON；
+
+2 在低壓進線接點驗明無電；
+
+3 經低壓進線接點將發射器接兩根導體；
+
+4 在高壓開關熔絲附近電纜確認訊號；
+
+5 在工作點識別。
 訊號經變壓器會大幅衰減，但教材認為仍可明確識別。
 
 > 本頁是完整隔離／接地情境下的教材接線練習，不是可直接執行的現場切換或測試程式。
@@ -6567,11 +6902,11 @@ Using the Signal Injection Receiver
 
 c
 
-5. Again,rotate the receiver circumferentially round the cable.
+5. Again, rotate the receiver circumferentially round the cable.
 
 6. This will confirm whether the signal is coming from an unexposed cable at the side or underneath the cable under test.
 
-7. With a trefoil group of single core cables,the search coil should be placed along the hollow formed between each pair of cores.
+7. With a trefoil group of single core cables, the search coil should be placed along the hollow formed between each pair of cores.
 
 8. The hollow between the 2 cores carrying signal current well give the greatest amplitude of signal.
 
@@ -6720,10 +7055,48 @@ At this point you will have to ascertain that this is the correct cable. If you 
 
 ### 繁體中文學習譯文
 
-應考慮：允許刺穿的安全檔案；是否受過正確使用訓練；PPE 是否適當；是否已嘗試所有識別方式；是否向 DNO 查詢區內電纜。
+應考慮：
+
+允許刺穿的安全檔案；
+
+是否受過正確使用訓練；
+
+PPE 是否適當；
+
+是否已嘗試所有識別方式；
+
+是否向 DNO 查詢區內電纜。
 教材程式：
-1 查場址圖及路徑檔案；2 用避纜工具調查既有路徑；3 開挖露出目標；4 追蹤並確切識別。若此時仍不能百分之百確定，原文指需刺穿。
-5 準備所有安全檔案；6 使用前檢查刺穿槍；7 裝到選定刺點；8 確認監護人在場；9 確認適當 PPE；10 操作刺穿槍；11 穿正確 PPE 謹慎接近；12 檢查可能存在電壓；13 若無電壓，拆卸刺穿槍；14 發所需安全檔案；15 刺穿影響系統，記入 Logbook；16 拆洗刺穿槍後存放。
+1 查場址圖及路徑檔案；
+
+2 用避纜工具調查既有路徑；
+
+3 開挖露出目標；
+
+4 追蹤並確切識別。若此時仍不能百分之百確定，原文指需刺穿。
+5 準備所有安全檔案；
+
+6 使用前檢查刺穿槍；
+
+7 裝到選定刺點；
+
+8 確認監護人在場；
+
+9 確認適當 PPE；
+
+10 操作刺穿槍；
+
+11 穿正確 PPE 謹慎接近；
+
+12 檢查可能存在電壓；
+
+13 若無電壓，拆卸刺穿槍；
+
+14 發所需安全檔案；
+
+15 刺穿影響系統，記入 Logbook；
+
+16 拆洗刺穿槍後存放。
 
 > 本頁第 13 步拆槍與 PDF p130 刺釘保留並確認的細節須合併向講師釐清，不能自行拼成現場 SOP。
 
@@ -7643,12 +8016,19 @@ g) TheSite Logfor the activities/operations you should perform up to and includi
 
 你是 MOD 開環高壓配電系統的 Authorised Person。新建築範圍跨越既有電纜，因此需將電纜改道至建築範圍以外。需改道的是 ISS 至 DSS A 的電纜；隨附單線圖。
 準備下列檔案：
+
 a）施工用切換程式及隔離與接地圖。
+
 b）截至簽發 PTW 為止的場址操作紀錄（Site log）。
+
 c）PTW 的第 1、2 部分。
+
 d）測試用切換程式及隔離與接地圖。
+
 e）截至簽發 SFT 為止的場址操作紀錄。
+
 f）帶電對相與恢復系統所需的切換程式。
+
 g）截至系統恢復為止的場址操作紀錄。
 以下各頁是此教材情境的檔案示例；練習時應交叉核對裝置名稱、檔案編號、接地狀態及先後順序。
 
@@ -9895,7 +10275,7 @@ PILLAR
 
 Figure 1- HV DistributionSystem
 
-It is necessary to carry out the routine testing of the protection fitted to the incoming supply oil circuit breaker. Details of the protection are given on a Switchgear and Transformer Schedule,and details of the tests are typically given in a JobSheet, for example PSA job sheet 22.103.
+It is necessary to carry out the routine testing of the protection fitted to the incoming supply oil circuit breaker. Details of the protection are given on a Switchgear and Transformer Schedule, and details of the tests are typically given in a JobSheet, for example PSA job sheet 22.103.
 
 Will this testing interrupt the supply to the client, if so, what arrangements would you tak prior to the commencement of the test?
 

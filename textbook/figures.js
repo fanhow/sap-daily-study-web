@@ -74,10 +74,18 @@
     return box;
   }
   function append(col, text, lang, images, paragraph) {
-    const parts = text.split(lang === 'zh' ? /\n+/ : /\n\s*\n/);
+    const parts = text.split(lang === 'zh' ? /\n+/ : /\n\s*\n/).filter(part => part.trim());
+    if (!parts.length) parts.push(''); // Keep attachments on otherwise blank pages.
+    const joined = parts.map(normal).join('');
+    const anchorParagraph = anchor => {
+      const needle = normal(anchor), start = needle ? joined.indexOf(needle) : -1;
+      if (start < 0) return -1;
+      let end = 0;
+      return parts.findIndex(part => { end += normal(part).length; return end >= start + needle.length; });
+    };
     const pending = (images || []).filter(item => safe(item.src)).map(item => {
       const anchor = lang === 'en' ? item.afterEn : item.afterZh;
-      return { item, at: anchor ? parts.findIndex(part => normal(part).includes(normal(anchor))) : -1 };
+      return { item, at: anchorParagraph(anchor) };
     });
     // Keep scan order even when an edited paragraph no longer matches its anchor.
     let previous = 0;
