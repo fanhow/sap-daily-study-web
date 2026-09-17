@@ -44,6 +44,11 @@ www.developtraining.co.uk
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p1。
 
 
+![封面｜高壓授權人員學員手冊 · 原書圖表 1](figures/page-001-figure-01.webp)
+
+Source figure 1 · PDF p1
+
+
 ## PDF p2｜著作權
 
 ### English OCR
@@ -168,11 +173,11 @@ nature = 工作性質 / 工作本身的特性
 
 ## PDF p6｜本手冊使用方式
 
-### English OCR
+### English — saved correction
 
 Using this Workbook
 
-To help you understand how to undertake the roles and responsibilities of an Authorised Person,a training course has been developed in conjunction with this workbook. This is not a self-teaching document. You must attend a training course and have received instructions from a qualified trainer before working assumingthe responsibilities of an Authorised Person working in an industrial or commercial environment.
+To help you understand how to undertake the roles and responsibilities of an Authorised Person,a training course has been developed in conjunction with this workbook. This is not a self-teaching document. You must attend a training course and have received instructions from a qualified trainer before working assuming the responsibilities of an Authorised Person working in an industrial or commercial environment.
 
 The amount of training you will require will depend largely upon your previous experience, but there are many aspects involved in the role of Authorised Person and many skills that must be mastered.
 
@@ -195,14 +200,25 @@ Indicates that you will need to consult the manufacturer's instructions.
 為協助你理解授權人員的角色與責任，訓練課程與本手冊配合編製。本手冊並非自學檔案。在工業或商業環境承擔授權人員責任前，必須參加訓練課程並接受合資格講師指導。
 所需訓練程度主要取決於過往經驗，但授權人員工作涵蓋許多面向，也有許多必須掌握的技能。完成課程後，將評估你的表現與知識程度。
 本手冊內容經審慎研究，編者相信內容正確；但 Develop Training Ltd 不保證本指南中任何解釋或陳述的正確性、完整性，也不承擔這些陳述或所提供資訊的責任。
-本手冊供 Develop 訓練課程配套使用，讓學員瞭解安全工作實務。本書含英國健康與安全執行署（HSE）發布的公部門資訊，採 Open Government Licence v3.0 授權。
+本手冊供 Develop 訓練課程配套使用，讓學員瞭解安全工作實務。
+本書含英國健康與安全執行署（HSE）發布的公部門資訊，採 Open Government Licence v3.0 授權。
 全書符號：
 • 危險符號：可能造成嚴重傷害的危險或危害。
 • 製造商說明符號：需要查閱製造商操作說明。
 
-
+> 本頁含已儲存的文字修正；原始 PDF 與整理底稿未改動。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p6。
+
+
+![危險／危害符號](figures/page-006-figure-01.webp)
+
+Danger / hazard
+
+
+![查閱製造商說明書](figures/page-006-figure-02.webp)
+
+Consult the manufacturer's instructions
 
 
 ## PDF p7｜高壓作業：健康與安全法規
@@ -290,6 +306,16 @@ Employees
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p7。
 
 
+![高壓作業：健康與安全法規 · 原書圖表 1](figures/page-007-figure-01.webp)
+
+Source figure 1 · PDF p7
+
+
+![高壓作業：健康與安全法規 · 原書圖表 2](figures/page-007-figure-02.webp)
+
+Source figure 2 · PDF p7
+
+
 ## PDF p8｜健康安全管理法規與風險評估
 
 ### English OCR
@@ -348,6 +374,11 @@ that someone could be harmed by the hazard(s)
 > 法規條號按教材保留；本頁為教材翻譯，未將其改寫為現行法律核對結果。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p8。
+
+
+![健康安全管理法規與風險評估 · 原書圖表 1](figures/page-008-figure-01.webp)
+
+Source figure 1 · PDF p8
 
 
 ## PDF p9｜風險評估五步驟與安全工作制度
@@ -410,6 +441,11 @@ The implementation of a safety document scheme, generally referred to as a permi
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p9。
 
 
+![風險評估五步驟與安全工作制度 · 原書圖表 1](figures/page-009-figure-01.webp)
+
+Source figure 1 · PDF p9
+
+
 ## PDF p10｜測試許可與工作許可責任
 
 ### English OCR
@@ -448,6 +484,16 @@ More information on the operational safety documents specific to this coursecan 
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p10。
+
+
+![測試許可與工作許可責任 · 原書圖表 1](figures/page-010-figure-01.webp)
+
+Source figure 1 · PDF p10
+
+
+![測試許可與工作許可責任 · 原書圖表 2](figures/page-010-figure-02.webp)
+
+Source figure 2 · PDF p10
 
 
 ## PDF p11｜工作場所電氣法規
@@ -501,6 +547,11 @@ The HSEguidance document, HSR 25, accompanies the regulation to provide plain sp
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p11。
+
+
+![工作場所電氣法規 · 原書圖表 1](figures/page-011-figure-01.webp)
+
+Source figure 1 · PDF p11
 
 
 ## PDF p12｜法規中的用語定義
@@ -604,6 +655,11 @@ If the requirement in a regulation is 'absolute', for example if the requirement
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p13。
+
+
+![第 3 條：責任人；絕對義務 · 原書圖表 1](figures/page-013-figure-01.webp)
+
+Source figure 1 · PDF p13
 
 
 ## PDF p14｜合理可行；第 4 條系統與工作活動
@@ -830,6 +886,11 @@ EQUIPMENT LOCKEDOUT
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p18。
+
+
+![第 12 條：切斷電源與隔離 · 原書圖表 1](figures/page-018-figure-01.webp)
+
+Source figure 1 · PDF p18
 
 
 ## PDF p19｜隔離與無電裝置工作的預防措施
@@ -1062,6 +1123,11 @@ PPE 規則要求：使用前適當評估以確保適用；妥善維護與儲存�
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p23。
 
 
+![PPE、COSHH 與 RIDDOR · 原書圖表 1](figures/page-023-figure-01.webp)
+
+Source figure 1 · PDF p23
+
+
 ## PDF p24｜電的危害：觸電與火災
 
 ### English OCR
@@ -1109,6 +1175,11 @@ The injuries associated with fire are usually burns but may include other injuri
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p24。
+
+
+![電的危害：觸電與火災 · 原書圖表 1](figures/page-024-figure-01.webp)
+
+Source figure 1 · PDF p24
 
 
 ## PDF p25｜電灼傷、電弧與爆炸
@@ -1181,6 +1252,11 @@ Although oil has been the insulating medium used in HVswitchgear for many years,
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p26。
+
+
+![高壓開關裝置：概述 · 原書圖表 1](figures/page-026-figure-01.webp)
+
+Source figure 1 · PDF p26
 
 
 ## PDF p27｜高壓開關：功能與額定值
@@ -1316,6 +1392,16 @@ Fig 2 Longand Crawford Oil Switch
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p28。
 
 
+![油開關剖面與短時間電流 · 原書圖表 1](figures/page-028-figure-01.webp)
+
+Source figure 1 · PDF p28
+
+
+![油開關剖面與短時間電流 · 原書圖表 2](figures/page-028-figure-02.webp)
+
+Source figure 2 · PDF p28
+
+
 ## PDF p29｜獨立手動機構與防反射操作手柄
 
 ### English OCR
@@ -1340,6 +1426,11 @@ Reflex" handles still in use are destroyed immediately and replaced with the "Br
 > 最後一段是教材對特定舊式裝置的指示之翻譯；實際器具更換須依適用製造商與現場管理程式。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p29。
+
+
+![獨立手動機構與防反射操作手柄 · 原書圖表 1](figures/page-029-figure-01.webp)
+
+Source figure 1 · PDF p29
 
 
 ## PDF p30｜開關接地與測試探棒
@@ -1398,6 +1489,11 @@ Under no circumstances should the cable be energised from the remote end whilst 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p30。
 
 
+![開關接地與測試探棒 · 原書圖表 1](figures/page-030-figure-01.webp)
+
+Source figure 1 · PDF p30
+
+
 ## PDF p31｜開關熔絲組合與熔絲開關
 
 ### English OCR
@@ -1439,6 +1535,16 @@ A remote trip coil may be fitted to the Switch Fuse or fuse Switch for load shed
 > 已核對原始掃描：5.4 kA、102 MVA 及 5.4／2.55 = 2.1 kA 均為原件數值。可能有原文排印疑點，未默改，須向講師核對。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p31。
+
+
+![開關熔絲組合與熔絲開關 · 原書圖表 1](figures/page-031-figure-01.webp)
+
+Source figure 1 · PDF p31
+
+
+![開關熔絲組合與熔絲開關 · 原書圖表 2](figures/page-031-figure-02.webp)
+
+Source figure 2 · PDF p31
 
 
 ## PDF p32｜兩種油式熔絲開關剖面
@@ -1515,6 +1621,16 @@ switching action. Fig 4 shows a BRUSH "switch fuse" in which the fuses are fixed
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p32。
 
 
+![兩種油式熔絲開關剖面 · 原書圖表 1](figures/page-032-figure-01.webp)
+
+Source figure 1 · PDF p32
+
+
+![兩種油式熔絲開關剖面 · 原書圖表 2](figures/page-032-figure-02.webp)
+
+Source figure 2 · PDF p32
+
+
 ## PDF p33｜環網單元（RMU）
 
 ### English OCR
@@ -1554,6 +1670,26 @@ RMU 通常為戶外裝置，成本遠低於斷路器，適合由數個個別建�
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p33。
+
+
+![環網單元（RMU） · 原書圖表 1](figures/page-033-figure-01.webp)
+
+Source figure 1 · PDF p33
+
+
+![環網單元（RMU） · 原書圖表 2](figures/page-033-figure-02.webp)
+
+Source figure 2 · PDF p33
+
+
+![環網單元（RMU） · 原書圖表 3](figures/page-033-figure-03.webp)
+
+Source figure 3 · PDF p33
+
+
+![環網單元（RMU） · 原書圖表 4](figures/page-033-figure-04.webp)
+
+Source figure 4 · PDF p33
 
 
 ## PDF p34｜RMU 額定值與裝置例子
@@ -1646,6 +1782,11 @@ A Circuit Breaker is defined as a switching device capable of making, carrying, 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p35。
 
 
+![室內高壓開關裝置與斷路器 · 原書圖表 1](figures/page-035-figure-01.webp)
+
+Source figure 1 · PDF p35
+
+
 ## PDF p36｜斷路器銘牌與工作電壓
 
 ### English OCR
@@ -1708,6 +1849,11 @@ It is advisable to buy CBs with a voltage rating suitable for the highest system
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p36。
+
+
+![斷路器銘牌與工作電壓 · 原書圖表 1](figures/page-036-figure-01.webp)
+
+Source figure 1 · PDF p36
 
 
 ## PDF p37｜絕緣等級與短路遮斷電流
@@ -1851,6 +1997,11 @@ Typical usages of these auxiliary switches are the control of trip circuits, rem
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p39。
 
 
+![輔助開關 · 原書圖表 1](figures/page-039-figure-01.webp)
+
+Source figure 1 · PDF p39
+
+
 ## PDF p40｜斷路器接地：內建方式
 
 ### English OCR
@@ -1889,6 +2040,16 @@ Where busbar earthing is required, this is normally achieved using a separate bu
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p40。
+
+
+![斷路器接地：內建方式 · 原書圖表 1](figures/page-040-figure-01.webp)
+
+Source figure 1 · PDF p40
+
+
+![斷路器接地：內建方式 · 原書圖表 2](figures/page-040-figure-02.webp)
+
+Source figure 2 · PDF p40
 
 
 ## PDF p41｜斷路器接地：接地附件與臺車
@@ -1933,6 +2094,16 @@ Fig.lO Using a special earthing truck
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p41。
+
+
+![斷路器接地：接地附件與臺車 · 原書圖表 1](figures/page-041-figure-01.webp)
+
+Source figure 1 · PDF p41
+
+
+![斷路器接地：接地附件與臺車 · 原書圖表 2](figures/page-041-figure-02.webp)
+
+Source figure 2 · PDF p41
 
 
 ## PDF p42｜四種合閘機構
@@ -2016,6 +2187,16 @@ These Shutters are fitted with facilities for locking them closed using a padloc
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p43。
 
 
+![抽出聯鎖與防護活門 · 原書圖表 1](figures/page-043-figure-01.webp)
+
+Source figure 1 · PDF p43
+
+
+![抽出聯鎖與防護活門 · 原書圖表 2](figures/page-043-figure-02.webp)
+
+Source figure 2 · PDF p43
+
+
 ## PDF p44｜輔助變壓器：VT 與 CT
 
 ### English OCR
@@ -2051,6 +2232,21 @@ CT：常見二次額定 5 A 或 1 A，一次額定 30、50、75、100、200、40
 > VT 接地、熔絲配置及 CT 準確／飽和值是教材描述，實際需依銘牌、等級和製造商檔案核對。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p44。
+
+
+![輔助變壓器：VT 與 CT · 原書圖表 1](figures/page-044-figure-01.webp)
+
+Source figure 1 · PDF p44
+
+
+![輔助變壓器：VT 與 CT · 原書圖表 2](figures/page-044-figure-02.webp)
+
+Source figure 2 · PDF p44
+
+
+![輔助變壓器：VT 與 CT · 原書圖表 3](figures/page-044-figure-03.webp)
+
+Source figure 3 · PDF p44
 
 
 ## PDF p45｜電弧控制
@@ -2108,6 +2304,11 @@ OCB's are only able to break fault current three times before the concentration 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p46。
 
 
+![油斷路器與橫向噴流滅弧室 · 原書圖表 1](figures/page-046-figure-01.webp)
+
+Source figure 1 · PDF p46
+
+
 ## PDF p47｜油斷路器滅弧、油位與氣體
 
 ### English OCR
@@ -2162,6 +2363,11 @@ When gas is generated, carbon is left in the oil which reduces its electrical st
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p47。
 
 
+![油斷路器滅弧、油位與氣體 · 原書圖表 1](figures/page-047-figure-01.webp)
+
+Source figure 1 · PDF p47
+
+
 ## PDF p48｜真空斷路器（VCB）
 
 ### English OCR
@@ -2186,6 +2392,16 @@ VCB 依賴 10⁻⁵ 至 10⁻⁶ Torr 真空下的良好介電強度（1 Torr = 
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p48。
+
+
+![真空斷路器（VCB） · 原書圖表 1](figures/page-048-figure-01.webp)
+
+Source figure 1 · PDF p48
+
+
+![真空斷路器（VCB） · 原書圖表 2](figures/page-048-figure-02.webp)
+
+Source figure 2 · PDF p48
 
 
 ## PDF p49｜真空滅弧室：隔離與測試限制
@@ -2227,6 +2443,11 @@ VCB 在 OFF 時，接點通常僅相距 8–12 mm；若真空密封失效而進�
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p49。
+
+
+![真空滅弧室：隔離與測試限制 · 原書圖表 1](figures/page-049-figure-01.webp)
+
+Source figure 1 · PDF p49
 
 
 ## PDF p50｜SF₆ 斷路器與滅弧方式
@@ -2303,6 +2524,16 @@ MAGNETISED COIL
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p51。
 
 
+![旋弧式 SF₆ 裝置 · 原書圖表 1](figures/page-051-figure-01.webp)
+
+Source figure 1 · PDF p51
+
+
+![旋弧式 SF₆ 裝置 · 原書圖表 2](figures/page-051-figure-02.webp)
+
+Source figure 2 · PDF p51
+
+
 ## PDF p52｜SF₆ 環網單元
 
 ### English OCR
@@ -2341,6 +2572,16 @@ e) Lucy SCRMU which has a Vacuum circuit Breaker and associated disconnector ins
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p52。
 
 
+![SF₆ 環網單元 · 原書圖表 1](figures/page-052-figure-01.webp)
+
+Source figure 1 · PDF p52
+
+
+![SF₆ 環網單元 · 原書圖表 2](figures/page-052-figure-02.webp)
+
+Source figure 2 · PDF p52
+
+
 ## PDF p53｜SF₆ RMU 保護與電纜測試接點
 
 ### English OCR
@@ -2375,6 +2616,11 @@ A similar arrangement is used with fixed pattern/non withdrawable SF6 and Vacuum
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p53。
+
+
+![SF₆ RMU 保護與電纜測試接點 · 原書圖表 1](figures/page-053-figure-01.webp)
+
+Source figure 1 · PDF p53
 
 
 ## PDF p54｜空氣斷路器與隔離開關
@@ -2413,6 +2659,11 @@ The most common current use of disconnectors is as a means of isolation in non-w
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p54。
 
 
+![空氣斷路器與隔離開關 · 原書圖表 1](figures/page-054-figure-01.webp)
+
+Source figure 1 · PDF p54
+
+
 ## PDF p55｜高壓開關裝置能力比較表
 
 ### English — OCR / scan transcription
@@ -2444,6 +2695,11 @@ Break Fault Current: No | Yes, via fuse | Yes | No
 > 已視覺核對 PDF p55 全表；英文改按原掃描重排欄列，圖形符號以 Yes／No 轉錄。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p55。
+
+
+![高壓開關裝置能力比較表 · 原書圖表 1](figures/page-055-figure-01.webp)
+
+Source figure 1 · PDF p55
 
 
 ## PDF p56｜電力變壓器原理
@@ -2486,6 +2742,11 @@ Fig1. Principleof operation of Transformer
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p56。
+
+
+![電力變壓器原理 · 原書圖表 1](figures/page-056-figure-01.webp)
+
+Source figure 1 · PDF p56
 
 
 ## PDF p57｜匝數比與三相磁路
@@ -2535,6 +2796,21 @@ Fig2. Constructionof Three phase transformer
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p57。
+
+
+![匝數比與三相磁路 · 原書圖表 1](figures/page-057-figure-01.webp)
+
+Source figure 1 · PDF p57
+
+
+![匝數比與三相磁路 · 原書圖表 2](figures/page-057-figure-02.webp)
+
+Source figure 2 · PDF p57
+
+
+![匝數比與三相磁路 · 原書圖表 3](figures/page-057-figure-03.webp)
+
+Source figure 3 · PDF p57
 
 
 ## PDF p58｜鐵心、繞組構造與接線
@@ -2658,6 +2934,21 @@ Fig.5 Zigzagconnected windings and associated Vector diagram
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p59。
 
 
+![星形、三角形與 Zigzag 接線圖 · 原書圖表 1](figures/page-059-figure-01.webp)
+
+Source figure 1 · PDF p59
+
+
+![星形、三角形與 Zigzag 接線圖 · 原書圖表 2](figures/page-059-figure-02.webp)
+
+Source figure 2 · PDF p59
+
+
+![星形、三角形與 Zigzag 接線圖 · 原書圖表 3](figures/page-059-figure-03.webp)
+
+Source figure 3 · PDF p59
+
+
 ## PDF p60｜繞組與端子標示
 
 ### English OCR
@@ -2721,6 +3012,11 @@ Fig.6 Three Phase High-voltage Windings with Tapping's
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p60。
 
 
+![繞組與端子標示 · 原書圖表 1](figures/page-060-figure-01.webp)
+
+Source figure 1 · PDF p60
+
+
 ## PDF p61｜接線組別與時鐘相位表示法
 
 ### English — OCR / scan transcription
@@ -2771,6 +3067,11 @@ The complete designation thus gives details of the method of connection of both 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p61。
 
 
+![接線組別與時鐘相位表示法 · 原書圖表 1](figures/page-061-figure-01.webp)
+
+Source figure 1 · PDF p61
+
+
 ## PDF p62｜三相分離繞組接線組別表
 
 ### English — OCR / scan transcription
@@ -2810,6 +3111,11 @@ D／d：三角形；Y／y：星形；Z／z：Zigzag。精確接線與相量箭�
 > 已核對 PDF p62 圖表。第二列中央原件標為 Yd0，保留並列疑義，未擅改成其他組別。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p62。
+
+
+![三相分離繞組接線組別表 · 原書圖表 1](figures/page-062-figure-01.webp)
+
+Source figure 1 · PDF p62
 
 
 ## PDF p63｜常用接線與冷卻程式碼
@@ -2874,6 +3180,16 @@ Forced Directed D
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p63。
 
 
+![常用接線與冷卻程式碼 · 原書圖表 1](figures/page-063-figure-01.webp)
+
+Source figure 1 · PDF p63
+
+
+![常用接線與冷卻程式碼 · 原書圖表 2](figures/page-063-figure-02.webp)
+
+Source figure 2 · PDF p63
+
+
 ## PDF p64｜冷卻四字碼與分接調壓
 
 ### English OCR
@@ -2921,6 +3237,16 @@ Almost every transformer is fitted with tap-changing facilities, quite often wit
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p64。
 
 
+![冷卻四字碼與分接調壓 · 原書圖表 1](figures/page-064-figure-01.webp)
+
+Source figure 1 · PDF p64
+
+
+![冷卻四字碼與分接調壓 · 原書圖表 2](figures/page-064-figure-02.webp)
+
+Source figure 2 · PDF p64
+
+
 ## PDF p65｜分接開關與阻抗電壓
 
 ### English — OCR / scan transcription
@@ -2962,6 +3288,16 @@ Fig.8 Short Circuit Test
 > 已對照 PDF p65，補回 OCR 漏掉的分接位置表。百分比升壓敘述為教材近似說明。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p65。
+
+
+![分接開關與阻抗電壓 · 原書圖表 1](figures/page-065-figure-01.webp)
+
+Source figure 1 · PDF p65
+
+
+![分接開關與阻抗電壓 · 原書圖表 2](figures/page-065-figure-02.webp)
+
+Source figure 2 · PDF p65
 
 
 ## PDF p66｜百分比阻抗與故障電流
@@ -3016,6 +3352,26 @@ and
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p66。
 
 
+![百分比阻抗與故障電流 · 原書圖表 1](figures/page-066-figure-01.webp)
+
+Source figure 1 · PDF p66
+
+
+![百分比阻抗與故障電流 · 原書圖表 2](figures/page-066-figure-02.webp)
+
+Source figure 2 · PDF p66
+
+
+![百分比阻抗與故障電流 · 原書圖表 3](figures/page-066-figure-03.webp)
+
+Source figure 3 · PDF p66
+
+
+![百分比阻抗與故障電流 · 原書圖表 4](figures/page-066-figure-04.webp)
+
+Source figure 4 · PDF p66
+
+
 ## PDF p67｜變壓器並聯：條件與原式疑點
 
 ### English — OCR / scan transcription
@@ -3057,6 +3413,11 @@ IB = [QB／(IL × ZB)]／[(QA／ZA) × (QB／ZB)]
 > 已核對原始掃描 PDF p67；A、B 分子及 B 分母的問題不是單純 OCR 錯誤。正確演算法與適用前提另見既有公式核對筆記。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p67。
+
+
+![變壓器並聯：條件與原式疑點 · 原書圖表 1](figures/page-067-figure-01.webp)
+
+Source figure 1 · PDF p67
 
 
 ## PDF p68｜變壓器與開關裝置的絕緣油
@@ -3192,6 +3553,11 @@ To adjust the switches, remove the Instrument bezel and slacken the switch clamp
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p70。
 
 
+![Buchholz 與溫度指示器維護 · 原書圖表 1](figures/page-070-figure-01.webp)
+
+Source figure 1 · PDF p70
+
+
 ## PDF p71｜油位、密封接合與油維護
 
 ### English OCR
@@ -3319,6 +3685,11 @@ KOH = Potassium Hydroxide
 > 這是原教材試驗方法之翻譯，不作實作指令；涉及高溫油與火源。第 d 項原文缺 mg，不能自行補為已確認單位。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p73。
+
+
+![水分爆裂聲試驗與酸值 · 原書圖表 1](figures/page-073-figure-01.webp)
+
+Source figure 1 · PDF p73
 
 
 ## PDF p74｜酸值、油泥與閉杯閃火點
@@ -3471,6 +3842,11 @@ Skin".
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p77。
 
 
+![絕緣油搬運、儲存與衛生 · 原書圖表 1](figures/page-077-figure-01.webp)
+
+Source figure 1 · PDF p77
+
+
 ## PDF p78｜高壓配電系統概述
 
 ### English OCR
@@ -3568,6 +3944,11 @@ DSS 應設於可直接由道路進入的可及位置，盡可能接近負載中�
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p79。
 
 
+![配電規劃：放射式與環網 · 原書圖表 1](figures/page-079-figure-01.webp)
+
+Source figure 1 · PDF p79
+
+
 ## PDF p80｜放射式饋線配置
 
 ### English OCR
@@ -3620,6 +4001,16 @@ Figure 3
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p80。
 
 
+![放射式饋線配置 · 原書圖表 1](figures/page-080-figure-01.webp)
+
+Source figure 1 · PDF p80
+
+
+![放射式饋線配置 · 原書圖表 2](figures/page-080-figure-02.webp)
+
+Source figure 2 · PDF p80
+
+
 ## PDF p81｜閉環配電系統
 
 ### English OCR
@@ -3668,6 +4059,11 @@ Due to the arrangement of the protection outlined in the paragraph above, it wil
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p81。
+
+
+![閉環配電系統 · 原書圖表 1](figures/page-081-figure-01.webp)
+
+Source figure 1 · PDF p81
 
 
 ## PDF p82｜開環配電系統
@@ -3723,6 +4119,11 @@ This type of ring main requires circuit breakers installed at each end of the ri
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p82。
+
+
+![開環配電系統 · 原書圖表 1](figures/page-082-figure-01.webp)
+
+Source figure 1 · PDF p82
 
 
 ## PDF p83｜開路點選擇與環網擴充
@@ -3795,6 +4196,11 @@ Figure 6
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p84。
 
 
+![互連線形成兩個開環 · 原書圖表 1](figures/page-084-figure-01.webp)
+
+Source figure 1 · PDF p84
+
+
 ## PDF p85｜國家電網高壓層級圖
 
 ### English OCR
@@ -3836,6 +4242,11 @@ ___ Supplies to Towns, Villages Commercial & Light industry Domestic Solar Panel
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p85。
+
+
+![國家電網高壓層級圖 · 原書圖表 1](figures/page-085-figure-01.webp)
+
+Source figure 1 · PDF p85
 
 
 ## PDF p86｜配電電纜：路徑與選型
@@ -4062,6 +4473,16 @@ AGL（成束）：300／150／150／150／250。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p89。
 
 
+![直埋施工、覆土深度與間距表 · 原書圖表 1](figures/page-089-figure-01.webp)
+
+Source figure 1 · PDF p89
+
+
+![直埋施工、覆土深度與間距表 · 原書圖表 2](figures/page-089-figure-02.webp)
+
+Source figure 2 · PDF p89
+
+
 ## PDF p90｜警示帶、建築進線封堵與電纜試驗
 
 ### English OCR
@@ -4231,6 +4652,11 @@ The table overleaf give recommended fuse rating for transformer protection.
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p93。
 
 
+![HRC 熔絲：保護範圍與選用檢查 · 原書圖表 1](figures/page-093-figure-01.webp)
+
+Source figure 1 · PDF p93
+
+
 ## PDF p94｜變壓器保護熔絲額定值表
 
 ### English OCR
@@ -4326,6 +4752,11 @@ GEC：GEC English Electrical Fusegear Ltd；Brush：Hawker Sidley Brush Fusegear
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p94。
 
 
+![變壓器保護熔絲額定值表 · 原書圖表 1](figures/page-094-figure-01.webp)
+
+Source figure 1 · PDF p94
+
+
 ## PDF p95｜交流跳脫線圈與時限熔絲（TLF）
 
 ### English OCR
@@ -4365,6 +4796,11 @@ TLF 額定有 3、5、7.5、10、12.5、15 A，皆可配 2 A 線圈。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p95。
 
 
+![交流跳脫線圈與時限熔絲（TLF） · 原書圖表 1](figures/page-095-figure-01.webp)
+
+Source figure 1 · PDF p95
+
+
 ## PDF p96｜TLF 接線與新舊型式限制
 
 ### English OCR
@@ -4398,6 +4834,11 @@ After operations under fault conditions it is important to remember to replace t
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p96。
+
+
+![TLF 接線與新舊型式限制 · 原書圖表 1](figures/page-096-figure-01.webp)
+
+Source figure 1 · PDF p96
 
 
 ## PDF p97｜IDMT 繼電器原理
@@ -4442,6 +4883,11 @@ Fig4 SingleElementof an Electromagnetic IDMT relay
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p97。
 
 
+![IDMT 繼電器原理 · 原書圖表 1](figures/page-097-figure-01.webp)
+
+Source figure 1 · PDF p97
+
+
 ## PDF p98｜插頭設定與時間倍率 TMS
 
 ### English OCR
@@ -4482,6 +4928,16 @@ The relay is normally used in the three-element form, with the elements connecte
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p98。
 
 
+![插頭設定與時間倍率 TMS · 原書圖表 1](figures/page-098-figure-01.webp)
+
+Source figure 1 · PDF p98
+
+
+![插頭設定與時間倍率 TMS · 原書圖表 2](figures/page-098-figure-02.webp)
+
+Source figure 2 · PDF p98
+
+
 ## PDF p99｜IDMT 過電流與接地故障配置
 
 ### English OCR
@@ -4507,6 +4963,11 @@ The IDMT relay is generally used in the two element of over current/one element 
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p99。
+
+
+![IDMT 過電流與接地故障配置 · 原書圖表 1](figures/page-099-figure-01.webp)
+
+Source figure 1 · PDF p99
 
 
 ## PDF p100｜高壓保護時間分級與選擇性
@@ -4631,6 +5092,11 @@ Fig1 Factors determining the minimum time separation for discrimination
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p101。
 
 
+![時間分級最小間隔因素圖 · 原書圖表 1](figures/page-101-figure-01.webp)
+
+Source figure 1 · PDF p101
+
+
 ## PDF p102｜建議分級間隔與 I²t 比較
 
 ### English — OCR / scan transcription
@@ -4714,6 +5180,11 @@ Buchholz 用於具有儲油櫃（conservator）的油浸電力變壓器，保護
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p103。
 
 
+![Buchholz 氣體動作繼電器 · 原書圖表 1](figures/page-103-figure-01.webp)
+
+Source figure 1 · PDF p103
+
+
 ## PDF p104｜Buchholz 構造與原理
 
 ### English OCR
@@ -4758,6 +5229,16 @@ Fig3 - Sectionof a typical BuchholzRelay
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p104。
 
 
+![Buchholz 構造與原理 · 原書圖表 1](figures/page-104-figure-01.webp)
+
+Source figure 1 · PDF p104
+
+
+![Buchholz 構造與原理 · 原書圖表 2](figures/page-104-figure-02.webp)
+
+Source figure 2 · PDF p104
+
+
 ## PDF p105｜Buchholz 警報、突波與低油位
 
 ### English OCR
@@ -4799,6 +5280,11 @@ The relay is also fitted with a lower petcock (seeFig4), which is used for takin
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p105。
+
+
+![Buchholz 警報、突波與低油位 · 原書圖表 1](figures/page-105-figure-01.webp)
+
+Source figure 1 · PDF p105
 
 
 ## PDF p106｜Buchholz 安裝與試運轉
@@ -4883,6 +5369,11 @@ The gases produced are hydrogen, acetylene and carbon monoxide and it is the pro
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p107。
+
+
+![Buchholz 測試氣瓶與動作後分析 · 原書圖表 1](figures/page-107-figure-01.webp)
+
+Source figure 1 · PDF p107
 
 
 ## PDF p108｜Buchholz 氣體判讀與維護（教材原述）
@@ -4976,6 +5467,11 @@ Balanced Current Relay | BCR | Restricted earth fault protection.
 > 已核對原始掃描表格欄列與分類；英文已重排為可讀欄序。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p110。
+
+
+![高壓保護系統與裝置對照表 · 原書圖表 1](figures/page-110-figure-01.webp)
+
+Source figure 1 · PDF p110
 
 
 ## PDF p111｜Develop 安全規則與 AE 資格
@@ -5560,6 +6056,11 @@ AS A
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p123。
 
 
+![高壓作業黃金法則 · 原書圖表 1](figures/page-123-figure-01.webp)
+
+Source figure 1 · PDF p123
+
+
 ## PDF p124｜HV1：SAP 程式表
 
 ### English OCR
@@ -5627,6 +6128,11 @@ The Competent Person is to undertake or directly supervise the work and, on comp
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p124。
 
 
+![HV1：SAP 程式表 · 原書圖表 1](figures/page-124-figure-01.webp)
+
+Source figure 1 · PDF p124
+
+
 ## PDF p125｜電纜定位：資料與接收器
 
 ### English OCR
@@ -5671,6 +6177,21 @@ Some cable location receivers will only pick up mains hum from cables that are c
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p125。
 
 
+![電纜定位：資料與接收器 · 原書圖表 1](figures/page-125-figure-01.webp)
+
+Source figure 1 · PDF p125
+
+
+![電纜定位：資料與接收器 · 原書圖表 2](figures/page-125-figure-02.webp)
+
+Source figure 2 · PDF p125
+
+
+![電纜定位：資料與接收器 · 原書圖表 3](figures/page-125-figure-03.webp)
+
+Source figure 3 · PDF p125
+
+
 ## PDF p126｜發射器連線與定位掃描
 
 ### English OCR
@@ -5712,6 +6233,11 @@ Never swing the Locator such that it moves away from the vertical.
 > 頻率與距離及帶電連線方式按本教材保留；選用方式必須符合實際定位器製造商說明，非通用設定。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p126。
+
+
+![發射器連線與定位掃描 · 原書圖表 1](figures/page-126-figure-01.webp)
+
+Source figure 1 · PDF p126
 
 
 ## PDF p127｜以 45° 法估測電纜深度
@@ -5764,6 +6290,16 @@ electric field distortions but the above equation will still provide a good indi
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p127。
 
 
+![以 45° 法估測電纜深度 · 原書圖表 1](figures/page-127-figure-01.webp)
+
+Source figure 1 · PDF p127
+
+
+![以 45° 法估測電纜深度 · 原書圖表 2](figures/page-127-figure-02.webp)
+
+Source figure 2 · PDF p127
+
+
 ## PDF p128｜區別高壓與低壓電纜
 
 ### English OCR
@@ -5814,6 +6350,11 @@ Where more than one LVcable is present it will be necessary to positively identi
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p128。
+
+
+![區別高壓與低壓電纜 · 原書圖表 1](figures/page-128-figure-01.webp)
+
+Source figure 1 · PDF p128
 
 
 ## PDF p129｜高壓電纜確切識別
@@ -5908,6 +6449,11 @@ In certain circumstances it may be undesirable to spike the cable because of the
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p130。
+
+
+![中途暴露電纜的識別與刺穿確認 · 原書圖表 1](figures/page-130-figure-01.webp)
+
+Source figure 1 · PDF p130
 
 
 ## PDF p131｜不刺穿識別的條件與專用識別器
@@ -6123,6 +6669,11 @@ Which of the 3 examples do you think meets the requirements of HSG 85?
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p135。
 
 
+![電纜刺穿裝置 · 原書圖表 1](figures/page-135-figure-01.webp)
+
+Source figure 1 · PDF p135
+
+
 ## PDF p136｜刺穿前檢核與程式示例
 
 ### English OCR
@@ -6316,6 +6867,16 @@ DC 來源 BS 162，AC 來源 BS 5227／IEC 694。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p138。
 
 
+![電纜／開關試驗值與對相 · 原書圖表 1](figures/page-138-figure-01.webp)
+
+Source figure 1 · PDF p138
+
+
+![電纜／開關試驗值與對相 · 原書圖表 2](figures/page-138-figure-02.webp)
+
+Source figure 2 · PDF p138
+
+
 ## PDF p139｜1993 年 Pirelli 電纜測試函
 
 ### English OCR
@@ -6355,6 +6916,11 @@ Pirelli Cables Engineering Dept.
 > 原函日期為 1993-11-29；此為歷史製造商來函翻譯，不代表現行 XLPE／聚合物電纜測試建議。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p139。
+
+
+![1993 年 Pirelli 電纜測試函 · 原書圖表 1](figures/page-139-figure-01.webp)
+
+Source figure 1 · PDF p139
 
 
 ## PDF p140｜1993 年 Anixter XLPE 測試函
@@ -6430,6 +6996,11 @@ Anixter (UK) Limited；Anixter House, Prescott Road, Colnbrook, Slough SL3 0AE�
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p140。
 
 
+![1993 年 Anixter XLPE 測試函 · 原書圖表 1](figures/page-140-figure-01.webp)
+
+Source figure 1 · PDF p140
+
+
 ## PDF p141｜裝置名稱：在哪裡、什麼、接往哪裡
 
 ### English OCR
@@ -6491,6 +7062,21 @@ C｜DSS A｜油式 fuse switch｜往變壓器。
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p141。
+
+
+![裝置名稱：在哪裡、什麼、接往哪裡 · 原書圖表 1](figures/page-141-figure-01.webp)
+
+Source figure 1 · PDF p141
+
+
+![裝置名稱：在哪裡、什麼、接往哪裡 · 原書圖表 2](figures/page-141-figure-02.webp)
+
+Source figure 2 · PDF p141
+
+
+![裝置名稱：在哪裡、什麼、接往哪裡 · 原書圖表 3](figures/page-141-figure-03.webp)
+
+Source figure 3 · PDF p141
 
 
 ## PDF p142｜操作用語與 Logbook 例
@@ -6586,6 +7172,16 @@ EARTH CABLE TO DSSA
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p142。
 
 
+![操作用語與 Logbook 例 · 原書圖表 1](figures/page-142-figure-01.webp)
+
+Source figure 1 · PDF p142
+
+
+![操作用語與 Logbook 例 · 原書圖表 2](figures/page-142-figure-02.webp)
+
+Source figure 2 · PDF p142
+
+
 ## PDF p143｜操作程式表常用動詞
 
 ### English OCR
@@ -6628,6 +7224,11 @@ Isolate：切至 OFF 並確保其狀態。
 > 簡表用語不能替代完整隔離定義；須連同所有電源、鎖定及證據要求閱讀。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p143。
+
+
+![操作程式表常用動詞 · 原書圖表 1](figures/page-143-figure-01.webp)
+
+Source figure 1 · PDF p143
 
 
 ## PDF p144｜常用電氣縮寫
@@ -6724,6 +7325,11 @@ XLPE｜Cross Linked Polyethylene Insulated Cable｜交連聚乙烯絕緣電纜
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p144。
 
 
+![常用電氣縮寫 · 原書圖表 1](figures/page-144-figure-01.webp)
+
+Source figure 1 · PDF p144
+
+
 ## PDF p145｜隔離與接地圖的標準符號
 
 ### English OCR
@@ -6794,6 +7400,11 @@ ISOLATED AND EARTHED
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p145。
 
 
+![隔離與接地圖的標準符號 · 原書圖表 1](figures/page-145-figure-01.webp)
+
+Source figure 1 · PDF p145
+
+
 ## PDF p146｜Sanction-for-Test 空白表：簽發
 
 ### English OCR
@@ -6850,6 +7461,11 @@ SAP 姓名、簽名、時間、日期。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p146。
 
 
+![Sanction-for-Test 空白表：簽發 · 原書圖表 1](figures/page-146-figure-01.webp)
+
+Source figure 1 · PDF p146
+
+
 ## PDF p147｜Sanction-for-Test 空白表：接收、清場與登出
 
 ### English — OCR / scan transcription
@@ -6880,6 +7496,11 @@ Senior Authorised Person: Name / Signature / Time / Date.
 > 已依原始掃描重排 OCR 錯置的 Receipt／Clearance／Cancellation 段落。本範本第 3 部分未印 CP 簽名欄，譯文未自行增補。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p147。
+
+
+![Sanction-for-Test 空白表：接收、清場與登出 · 原書圖表 1](figures/page-147-figure-01.webp)
+
+Source figure 1 · PDF p147
 
 
 ## PDF p148｜Limitation-of-Access 空白表：簽發與接收
@@ -6929,6 +7550,11 @@ Competent Person Signature Time Date
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p148。
 
 
+![Limitation-of-Access 空白表：簽發與接收 · 原書圖表 1](figures/page-148-figure-01.webp)
+
+Source figure 1 · PDF p148
+
+
 ## PDF p149｜Limitation-of-Access 空白表：清場與登出
 
 ### English OCR
@@ -6968,6 +7594,11 @@ CP 姓名、簽名、時間、日期。
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p149。
+
+
+![Limitation-of-Access 空白表：清場與登出 · 原書圖表 1](figures/page-149-figure-01.webp)
+
+Source figure 1 · PDF p149
 
 
 ## PDF p150｜York MOD 高壓環網電纜改道情境題
@@ -7046,6 +7677,11 @@ ISS 至 DSS A 的既有電纜穿越新建築範圍（New build）；虛線顯示
 > 已檢視原始掃描辨識環網與改道路徑；本頁為圖說翻譯，文字不能取代完整單線圖。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p151。
+
+
+![Burn Hall 高壓開環系統單線圖 · 原書圖表 1](figures/page-151-figure-01.webp)
+
+Source figure 1 · PDF p151
 
 
 ## PDF p152｜施工隔離與接地圖 95463
@@ -7134,6 +7770,11 @@ CP：Mr C PEA。SAP：A PERSON。覆核簽署者：C A PERSON。時間與日期�
 > 圖形、鎖的位置與裝置界線須看原圖；OCR 部分 DSS 字樣辨識為 OSS，依案例裝置名稱閱讀。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p152。
+
+
+![施工隔離與接地圖 95463 · 原書圖表 1](figures/page-152-figure-01.webp)
+
+Source figure 1 · PDF p152
 
 
 ## PDF p153｜施工切換程式 267487：步驟 1–6
@@ -7315,6 +7956,11 @@ MOD RING，11 kV；程式 267487，第 1／2 張。裝置：ISS 與 DSS A 之間
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p153。
 
 
+![施工切換程式 267487：步驟 1–6 · 原書圖表 1](figures/page-153-figure-01.webp)
+
+Source figure 1 · PDF p153
+
+
 ## PDF p154｜施工切換程式 267487：步驟 7–9
 
 ### English OCR
@@ -7435,6 +8081,11 @@ Signature APERGOTL Date xx/xx/xx
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p154。
 
 
+![施工切換程式 267487：步驟 7–9 · 原書圖表 1](figures/page-154-figure-01.webp)
+
+Source figure 1 · PDF p154
+
+
 ## PDF p155｜PTW 87452：施工簽發與接收示例
 
 ### English OCR
@@ -7509,6 +8160,11 @@ MOD RING，PTW 87452；收件人 Mr C PEA。裝置：ISS 與 DSS A 之間的高�
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p155。
 
 
+![PTW 87452：施工簽發與接收示例 · 原書圖表 1](figures/page-155-figure-01.webp)
+
+Source figure 1 · PDF p155
+
+
 ## PDF p156｜PTW 87452：清場與登出示例
 
 ### English OCR
@@ -7546,6 +8202,11 @@ CP C PEA 簽名 C PEA，時間 XX:XX，日期 XX/XX/XX。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p156。
 
 
+![PTW 87452：清場與登出示例 · 原書圖表 1](figures/page-156-figure-01.webp)
+
+Source figure 1 · PDF p156
+
+
 ## PDF p157｜MOD RING 場址紀錄：施工階段
 
 ### English — OCR / scan transcription
@@ -7578,6 +8239,11 @@ All rows: XX:XX; XX/XX/XX; A. PERSON.
 > 已依橫向原始掃描逐列閱讀；OCR 在本頁的欄列順序嚴重錯亂。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p157。
+
+
+![MOD RING 場址紀錄：施工階段 · 原書圖表 1](figures/page-157-figure-01.webp)
+
+Source figure 1 · PDF p157
 
 
 ## PDF p158｜測試隔離與接地圖 95464
@@ -7647,6 +8313,11 @@ CP：Mr C PEA。SAP：A PERSON。覆核者：C A PERSON。日期／時間 XX。
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p158。
+
+
+![測試隔離與接地圖 95464 · 原書圖表 1](figures/page-158-figure-01.webp)
+
+Source figure 1 · PDF p158
 
 
 ## PDF p159｜測試切換程式 267488：步驟 1–6
@@ -7818,6 +8489,11 @@ MOD RING，11 kV；程式 267488，第 1／2 張。裝置：ISS 與 DSS A 之間
 > 第 1 步原文參照切換程式『26747』；前面的施工程式為『267487』（PDF p153–154），編號有差異，需向講師核對。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p159。
+
+
+![測試切換程式 267488：步驟 1–6 · 原書圖表 1](figures/page-159-figure-01.webp)
+
+Source figure 1 · PDF p159
 
 
 ## PDF p160｜測試切換程式 267488：步驟 7–13
@@ -8023,6 +8699,11 @@ Signature /LPERGCMT Date xx/xx/xx
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p160。
 
 
+![測試切換程式 267488：步驟 7–13 · 原書圖表 1](figures/page-160-figure-01.webp)
+
+Source figure 1 · PDF p160
+
+
 ## PDF p161｜SFT 4321：測試簽發與接收示例
 
 ### English OCR
@@ -8105,6 +8786,11 @@ SAP A PERSON，簽名／時間／日期欄。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p161。
 
 
+![SFT 4321：測試簽發與接收示例 · 原書圖表 1](figures/page-161-figure-01.webp)
+
+Source figure 1 · PDF p161
+
+
 ## PDF p162｜SFT 4321：清場與登出示例
 
 ### English OCR
@@ -8150,6 +8836,11 @@ Signature Time XX:XX Date XX/XX/XX
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p162。
 
 
+![SFT 4321：清場與登出示例 · 原書圖表 1](figures/page-162-figure-01.webp)
+
+Source figure 1 · PDF p162
+
+
 ## PDF p163｜MOD RING 場址紀錄：施工結束與測試
 
 ### English — OCR / scan transcription
@@ -8184,6 +8875,11 @@ All rows: XX:XX; XX/XX/XX; A. PERSON.
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p163。
 
 
+![MOD RING 場址紀錄：施工結束與測試 · 原書圖表 1](figures/page-163-figure-01.webp)
+
+Source figure 1 · PDF p163
+
+
 ## PDF p164｜MOD RING 場址紀錄：恢復系統
 
 ### English — OCR / scan transcription
@@ -8215,6 +8911,11 @@ All rows: XX:XX; XX/XX/XX; A. PERSON.
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p164。
+
+
+![MOD RING 場址紀錄：恢復系統 · 原書圖表 1](figures/page-164-figure-01.webp)
+
+Source figure 1 · PDF p164
 
 
 ## PDF p165｜恢復切換程式 26749
@@ -8419,6 +9120,11 @@ MOD RING，11 kV；程式 26749，第 1／1 張。擬開始／完成日期 XX。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p165。
 
 
+![恢復切換程式 26749 · 原書圖表 1](figures/page-165-figure-01.webp)
+
+Source figure 1 · PDF p165
+
+
 ## PDF p166｜晚間練習 1：題 1–2
 
 ### English OCR
@@ -8455,6 +9161,11 @@ Delegate Answer：學員作答。Mark：得分。
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p166。
 
 
+![晚間練習 1：題 1–2 · 原書圖表 1](figures/page-166-figure-01.webp)
+
+Source figure 1 · PDF p166
+
+
 ## PDF p167｜晚間練習 1：題 3–5
 
 ### English — OCR / scan transcription
@@ -8483,6 +9194,11 @@ Q5: Pressure test; IR; Continuity.
 > 已看原始掃描補回 OCR 遺漏的題 5 前半句。以上手寫內容只是原件學員作答，不是經核定答案。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p167。
+
+
+![晚間練習 1：題 3–5 · 原書圖表 1](figures/page-167-figure-01.webp)
+
+Source figure 1 · PDF p167
 
 
 ## PDF p168｜晚間練習 1：題 6–8
@@ -8548,6 +9264,11 @@ Mark
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p168。
 
 
+![晚間練習 1：題 6–8 · 原書圖表 1](figures/page-168-figure-01.webp)
+
+Source figure 1 · PDF p168
+
+
 ## PDF p169｜晚間練習 1：題 9–11
 
 ### English OCR
@@ -8594,6 +9315,11 @@ Mark
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p169。
 
 
+![晚間練習 1：題 9–11 · 原書圖表 1](figures/page-169-figure-01.webp)
+
+Source figure 1 · PDF p169
+
+
 ## PDF p170｜晚間練習 1：題 12–14
 
 ### English OCR
@@ -8634,6 +9360,11 @@ Mark
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p170。
+
+
+![晚間練習 1：題 12–14 · 原書圖表 1](figures/page-170-figure-01.webp)
+
+Source figure 1 · PDF p170
 
 
 ## PDF p171｜晚間練習 1：題 15–17
@@ -8701,6 +9432,11 @@ Mark
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p171。
 
 
+![晚間練習 1：題 15–17 · 原書圖表 1](figures/page-171-figure-01.webp)
+
+Source figure 1 · PDF p171
+
+
 ## PDF p172｜晚間練習 1：題 18–20
 
 ### English OCR
@@ -8750,6 +9486,11 @@ Pass Fail
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p172。
+
+
+![晚間練習 1：題 18–20 · 原書圖表 1](figures/page-172-figure-01.webp)
+
+Source figure 1 · PDF p172
 
 
 ## PDF p173｜晚間練習 2：題 1–3
@@ -8802,6 +9543,11 @@ Mark
 > 題 1 指定 Develop 規則，不能直接以其他公司 ESR／ENSR／WTSR 的職稱授權作答。教材練習不代表正式考題；手寫內容非官方答案。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p173。
+
+
+![晚間練習 2：題 1–3 · 原書圖表 1](figures/page-173-figure-01.webp)
+
+Source figure 1 · PDF p173
 
 
 ## PDF p174｜晚間練習 2：題 4–6
@@ -8862,6 +9608,11 @@ Mark
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p174。
 
 
+![晚間練習 2：題 4–6 · 原書圖表 1](figures/page-174-figure-01.webp)
+
+Source figure 1 · PDF p174
+
+
 ## PDF p175｜晚間練習 2：題 7–9
 
 ### English OCR
@@ -8909,6 +9660,11 @@ Mark
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p175。
+
+
+![晚間練習 2：題 7–9 · 原書圖表 1](figures/page-175-figure-01.webp)
+
+Source figure 1 · PDF p175
 
 
 ## PDF p176｜晚間練習 2：題 10–12
@@ -8961,6 +9717,11 @@ Mark
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p176。
 
 
+![晚間練習 2：題 10–12 · 原書圖表 1](figures/page-176-figure-01.webp)
+
+Source figure 1 · PDF p176
+
+
 ## PDF p177｜晚間練習 2：題 13–14
 
 ### English OCR
@@ -8994,6 +9755,11 @@ Mark
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p177。
+
+
+![晚間練習 2：題 13–14 · 原書圖表 1](figures/page-177-figure-01.webp)
+
+Source figure 1 · PDF p177
 
 
 ## PDF p178｜晚間練習 2：題 15–17
@@ -9036,6 +9802,11 @@ Mark
 
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p178。
+
+
+![晚間練習 2：題 15–17 · 原書圖表 1](figures/page-178-figure-01.webp)
+
+Source figure 1 · PDF p178
 
 
 ## PDF p179｜晚間練習 2：題 18–20
@@ -9097,6 +9868,11 @@ Total Marks Assessment Result
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p179。
 
 
+![晚間練習 2：題 18–20 · 原書圖表 1](figures/page-179-figure-01.webp)
+
+Source figure 1 · PDF p179
+
+
 ## PDF p180｜IDMT 測試情境練習
 
 ### English OCR
@@ -9140,6 +9916,11 @@ Will this testing interrupt the supply to the client, if so, what arrangements w
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p180。
 
 
+![IDMT 測試情境練習 · 原書圖表 1](figures/page-180-figure-01.webp)
+
+Source figure 1 · PDF p180
+
+
 ## PDF p181｜IDMT 測試記錄表與接線示意
 
 ### English — OCR / scan transcription
@@ -9171,6 +9952,16 @@ TRIP COIL; BATTERY; CTs; Small wiring panel; Relays; OC; EF; R; Y; B.
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p181。
 
 
+![IDMT 測試記錄表與接線示意 · 原書圖表 1](figures/page-181-figure-01.webp)
+
+Source figure 1 · PDF p181
+
+
+![IDMT 測試記錄表與接線示意 · 原書圖表 2](figures/page-181-figure-02.webp)
+
+Source figure 2 · PDF p181
+
+
 ## PDF p182｜IDMT 標準反時限曲線
 
 ### English — OCR / scan transcription
@@ -9192,6 +9983,11 @@ IDMT 繼電器標準反時限曲線（Standard Inverse Curve）。本圖依 TMS 
 > 已核對原始掃描的 TMS、軸標與比值；橫向圖請用『原始掃描』放大閱讀。
 
 來源：Textbook_OCR.pdf／Textbook.PDF，PDF p182。
+
+
+![IDMT 標準反時限曲線 · 原書圖表 1](figures/page-182-figure-01.webp)
+
+Source figure 1 · PDF p182
 
 
 ## PDF p183｜學員補充筆記
