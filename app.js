@@ -19,6 +19,21 @@ function setCompleted(id,completed){if(!ids.has(id)||typeof completed!=='boolean
 $('day-nav').addEventListener('click',e=>{const b=e.target.closest('button[data-date]');if(b){selected=b.dataset.date;render();}});
 $('tasks').addEventListener('change',e=>{if(e.target.matches('input[type=checkbox]')){const id=e.target.id;setCompleted(id,e.target.checked);$(id)?.focus();}});
 $('reflection').addEventListener('input',e=>{state.notes[selected]=e.target.value;save();});
+// Explicit portable backups: progress lives in this browser, not the textbook files.
+function downloadProgress(){const blob=new Blob([JSON.stringify({format:'SAP_Study_Progress',version:1,exportedAt:new Date().toISOString(),state},null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='SAP_Progress_'+new Date().toISOString().replace(/[:.]/g,'-')+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
+const transfer=document.createElement('div');transfer.className='progress-transfer';
+const exportButton=document.createElement('button');exportButton.textContent='匯出進度與回顧';exportButton.type='button';exportButton.addEventListener('click',downloadProgress);
+const importButton=document.createElement('button');importButton.textContent='匯入進度與回顧';importButton.type='button';
+const progressFile=document.createElement('input');progressFile.type='file';progressFile.accept='.json,application/json';progressFile.hidden=true;
+importButton.addEventListener('click',()=>progressFile.click());
+progressFile.addEventListener('change',async()=>{try{const file=progressFile.files[0];if(!file)return;if(file.size>2*1024*1024)throw new Error('檔案過大。');const backup=JSON.parse(await file.text()),s=backup.state;
+if(backup.format!=='SAP_Study_Progress'||backup.version!==1||!s||s.version!==1||!s.completed||!s.notes||Array.isArray(s.completed)||Array.isArray(s.notes)||typeof s.completed!=='object'||typeof s.notes!=='object')throw new Error('不是有效的 SAP 進度備份。');
+const clean={version:1,completed:{},notes:{}};for(const [id,value] of Object.entries(s.completed)){if(!ids.has(id)||typeof value!=='boolean')throw new Error('備份含不適用的任務。');if(value)clean.completed[id]=true;}for(const [date,value] of Object.entries(s.notes)){if(!plan.some(d=>d.date===date)||typeof value!=='string'||value.length>100000)throw new Error('回顧筆記格式不正確。');clean.notes[date]=value;}
+if(!confirm('匯入會取代此瀏覽器的每日勾選與回顧筆記；系統會先下載目前進度作備份。教材修訂不受影響。確定匯入？'))return;
+downloadProgress();localStorage.setItem(KEY,JSON.stringify(clean));state=clean;storageOK=true;render();alert('已匯入每日進度與回顧。');
+}catch(error){alert('未匯入：'+error.message);}finally{progressFile.value='';}});
+const transferHint=document.createElement('p');transferHint.className='open-help';transferHint.textContent='換電腦前先匯出 JSON，在另一台用同一組按鈕匯入。Textbook 已儲存修訂需另行備份。';
+transfer.append(exportButton,importButton,progressFile,transferHint);$('reflection').parentElement.append(transfer);
 renderNav();render();
 const ctx=document.modelContext;
 if(ctx?.registerTool){const lifecycle=new AbortController();const registrations=[
